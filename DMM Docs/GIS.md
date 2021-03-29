@@ -4,6 +4,8 @@
 
 # 30-10-2020
 
+## Authors: L.Michielin (lucia.michielin@ed.ac.uk)
+
 ## Today&#39;s schedule
 
 12:00-12:05 Housekeeping
