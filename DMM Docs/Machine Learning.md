@@ -1,6 +1,9 @@
 # Digital Method of the Month: Machine Learning
 
-# Schedule
+
+## Authors: E. Martorell Toledano (enric.martorell@ed.ac.uk)
+
+## Schedule
 
 12:00 Housekeeping (5 minutes)
 
@@ -12,7 +15,7 @@
 
 12:50 Wrap up (10 minutes)
 
-# Outline
+## Outline
 
 - [Machine Learning for Everyone | DataCamp](https://learn.datacamp.com/courses/introduction-to-machine-learning-with-r)
 
@@ -26,16 +29,16 @@
 5. More about Machine Learning applications.
 6. Limitations of Machine Learning.
 
-# Materials
+## Materials
 
 No previous readings are required for this session. Here there is a list of references to learn more about machine learning and artificial intelligence:
 
-Books:
+### Books:
 
 - AIQ: How artificial intelligence works and how we can harness its power for a better world by James Scott and Nicholas Polson.
 - Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
 
-Newspaper articles:
+### Newspaper articles:
 
 - In general any query in Google News &quot;machine learning \&lt;\&lt;your topic of interest\&gt;\&gt; would likely return an interesting reading.
 
@@ -45,13 +48,13 @@ Newspaper articles:
 - [The shape of things to come - How do proteins fold? | Science &amp; technology | The Economist](https://www.economist.com/science-and-technology/2020/11/30/how-do-proteins-fold)
 - [Daily chart - A study finds nearly half of jobs are vulnerable to automation | Graphic detail | The Economist](https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation)
 
-Videos:
+### Videos:
 
 - [Barack Obama: Intro to Deep Learning | MIT 6.S191 - YouTube](https://www.youtube.com/watch?v=l82PxsKHxYc)
 - [AlphaGo - The Movie | Full Documentary - YouTube](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 - [DeepMind StarCraft II Demonstration - YouTube](https://www.youtube.com/watch?v=cUTMhmVh1qs)
 
-Courses:
+### Courses:
 
 - [Machine Learning with Python: A Practical Introduction | edX](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
 - [Machine Learning for Everyone | DataCamp](https://learn.datacamp.com/courses/introduction-to-machine-learning-with-r)
