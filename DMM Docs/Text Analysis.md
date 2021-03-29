@@ -1,8 +1,10 @@
-**Digital Method of the Month: Text Analysis**
+# **Digital Method of the Month: Text Analysis**
 
 28 January 2021
 
-**Schedule**
+## Author: Lucy Havens (lucy.havens@ed.ac.uk)
+
+## **Schedule**
 
 12:00 Housekeeping (5 minutes)
 
@@ -16,7 +18,7 @@
 
 **\*\*\***
 
-**What is text analysis?**
+## **What is text analysis?**
 
 Word frequencies
 
@@ -42,7 +44,7 @@ Topic modeling
 
 Word embeddings – to study meanings, how meanings change over time
 
-**Why would I use text analysis?**
+##**Why would I use text analysis?**
 
 To summarize HUGE amounts of text – &quot;distant reading&quot;
 
@@ -52,7 +54,7 @@ To understand how positively/neutrally/negatively people are writing book review
 
 To identify places named in a text or _corpus_ (collection of texts)
 
-**How can I do text analysis?**
+##**How can I do text analysis?**
 
 3 main steps: (1) data preparation, (2) standardization, (3) analysis
 
@@ -104,7 +106,7 @@ For example: lowercasing (or &quot;casefolding&quot;) all words is useful when c
 
 If your text has been digitized using OCR (optical character recognition) or HRT (handwriting recognition technology), it WILL NOT be a perfect copy of the physical text, unless someone has manually reviewed and corrected the digitized text.
 
-**Additional Resources**
+##**Additional Resources**
 
 LinkedIn Learning - available to all University staff and students from MyEd portal
 
@@ -112,7 +114,7 @@ LinkedIn Learning - available to all University staff and students from MyEd por
 
 [Stack Overflow](https://stackoverflow.com/)
 
-**Reading**
+##**Reading**
 
 Havens, Lucy. (2020) [_Exploring Collections as Data with Jupyter Notebooks_](https://data.nls.uk/projects/exploring-collections-as-data-with-jupyter-notebooks/). National Library of Scotland Data Foundry.
 
