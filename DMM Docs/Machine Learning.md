@@ -58,3 +58,6 @@ No previous readings are required for this session. Here there is a list of refe
 
 - [Machine Learning with Python: A Practical Introduction | edX](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
 - [Machine Learning for Everyone | DataCamp](https://learn.datacamp.com/courses/introduction-to-machine-learning-with-r)
+
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
