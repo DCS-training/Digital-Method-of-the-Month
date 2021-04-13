@@ -129,3 +129,6 @@ Alex, Beatrice. (2020)[_Geoparsing English Language Text with the Edinburgh Geop
 \*\*\*
 
 Any questions? Thank you for joining today! Please let us know how you found the session [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYbJksOTKjv5Nsdenk5ny0NNUMFhOVkFOSE9IUkdUTjRTM0Q2RlJNSTFNTy4u)!
+
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
