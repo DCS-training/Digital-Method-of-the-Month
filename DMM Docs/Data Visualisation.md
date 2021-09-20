@@ -108,13 +108,15 @@ Python
 
 **CDCS LIVE UPCOMING TRAINING**** ON DATA VISUALISATION**
 
-- [https://www.cdcs.ed.ac.uk/events/data-visualisation-r-and-r-studio](https://www.cdcs.ed.ac.uk/events/data-visualisation-r-and-r-studio)
-- Next semester (sign up not live still but keep an eye on our website
-  - Python for Beginner (Feb/March) 7 Classes
-  - Effective Data Visualisation (25 Feb)
-  - Data Visualisation and Statistics with R and R Studio (March/April) 10 Classes
-  - Library Carpentry Class 5 Python (6 May)
-  - Library Carpentry Class 6 R (13 May)
+- [https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio](Intro to R and R Studio)
+- [https://www.cdcs.ed.ac.uk/events/introduction-programming-python2](Intro to programming with Python)
+- [https://www.cdcs.ed.ac.uk/events/effective-data-visualisation](Effective data visualisation) 
+- [https://www.cdcs.ed.ac.uk/events/gale-digital-scholar-lab-workshop](Gale Digital Scholar Lab Workshop) 
+- [https://www.cdcs.ed.ac.uk/events/introduction-tidyverse](Introduction to the Tidyverse) 
+- [https://www.cdcs.ed.ac.uk/events/data-visualisation-r](Data Visualisation in R) 
+- [https://www.cdcs.ed.ac.uk/events/geospatial-data-r](Geospatial data in R) 
+- Geographical Data Visualisation
+- More to come next semester
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
