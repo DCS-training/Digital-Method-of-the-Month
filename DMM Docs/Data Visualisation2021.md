@@ -108,13 +108,13 @@ Python
 
 **CDCS LIVE UPCOMING TRAINING**
 
-- [https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio/] (Intro to R and R Studio)
-- [https://www.cdcs.ed.ac.uk/events/introduction-programming-python2/](Intro to programming with Python)
-- [https://www.cdcs.ed.ac.uk/events/effective-data-visualisation/](Effective data visualisation) 
-- [https://www.cdcs.ed.ac.uk/events/gale-digital-scholar-lab-workshop/](Gale Digital Scholar Lab Workshop) 
-- [https://www.cdcs.ed.ac.uk/events/introduction-tidyverse/](Introduction to the Tidyverse) 
-- [https://www.cdcs.ed.ac.uk/events/data-visualisation-r/](Data Visualisation in R) 
-- [https://www.cdcs.ed.ac.uk/events/geospatial-data-r/](Geospatial data in R) 
+- [Intro to R and R Studio](https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio/)
+- [Intro to programming with Python](https://www.cdcs.ed.ac.uk/events/introduction-programming-python2/)
+- [Effective data visualisation](https://www.cdcs.ed.ac.uk/events/effective-data-visualisation/) 
+- [Gale Digital Scholar Lab Workshop](https://www.cdcs.ed.ac.uk/events/gale-digital-scholar-lab-workshop/) 
+- [Introduction to the Tidyverse](https://www.cdcs.ed.ac.uk/events/introduction-tidyverse/) 
+- [Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/data-visualisation-r/) 
+- [Geospatial data in R](https://www.cdcs.ed.ac.uk/events/geospatial-data-r/) 
 - Geographical Data Visualisation
 - More to come next semester
 
