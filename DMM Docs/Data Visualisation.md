@@ -26,13 +26,14 @@
 
 ## Concept to get familiar with
 
-- Principle of good data visualisation (clarity/ accuracy/reproducibility)
+- Principle of good data visualisation (clarity/accuracy/reproducibility)
 - Languages
 - Libraries
 - Start coding
 - Code structure and etiquette
 - Sharing code/using code
 - Grammar of Graphics
+- CodeFree Options: Tableau, Datawrapper, Gale Digital scholar Lab
 
 ## Time
 
@@ -41,9 +42,15 @@
 
 ## Easy Pitfalls
 
+- Wrong graph
+- Misleading charts
+- Overkilling
+- Lack of units of measurments
+
+## Easy Pitfalls of coding
+
 - Understanding what are you saving and where (Project/working directory/notebooks)
 - Overwrite code
-
 - Multiple variables with the same name
 
 ## Software/Languages
