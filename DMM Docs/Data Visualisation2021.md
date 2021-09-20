@@ -2,11 +2,11 @@
 
 # Data Visualisation
 
-# 30-11-2020
+# 28-09-2021
 
-## Authors: L.Michielin (lucia.michielin@ed.ac.uk) and E.Sikahall Urizar (esgrid.sikahall@ed.ac.uk)
+## Authors: L.Michielin (lucia.michielin@ed.ac.uk), A. McLean (andrew.mclean@ed.ac.uk) and E.Sikahall Urizar
 
-## Today&#39;s schedule
+##  Schedule
 
 12:00-12:05 Housekeeping
 
@@ -106,7 +106,7 @@ Python
 - [https://stackoverflow.com/](https://stackoverflow.com/)
 - Google is your friend (for this particular thing).
 
-**CDCS LIVE UPCOMING TRAINING**** ON DATA VISUALISATION**
+**CDCS LIVE UPCOMING TRAINING**
 
 - [https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio](Intro to R and R Studio)
 - [https://www.cdcs.ed.ac.uk/events/introduction-programming-python2](Intro to programming with Python)
