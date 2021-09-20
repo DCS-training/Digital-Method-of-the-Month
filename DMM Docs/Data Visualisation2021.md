@@ -108,7 +108,7 @@ Python
 
 **CDCS LIVE UPCOMING TRAINING**
 
-- [https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio/](Intro to R and R Studio)
+- [https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio/] (Intro to R and R Studio)
 - [https://www.cdcs.ed.ac.uk/events/introduction-programming-python2/](Intro to programming with Python)
 - [https://www.cdcs.ed.ac.uk/events/effective-data-visualisation/](Effective data visualisation) 
 - [https://www.cdcs.ed.ac.uk/events/gale-digital-scholar-lab-workshop/](Gale Digital Scholar Lab Workshop) 
