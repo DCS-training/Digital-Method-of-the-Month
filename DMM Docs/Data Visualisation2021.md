@@ -28,12 +28,13 @@
 
 - Principle of good data visualisation (clarity/accuracy/reproducibility)
 - Languages
-- Libraries
+- [Libraries](https://www.idtech.com/blog/what-are-libraries-in-coding)
 - Start coding
 - Code structure and etiquette
-- Sharing code/using code
-- Grammar of Graphics
-- CodeFree Options: Tableau, Datawrapper, Gale Digital scholar Lab
+- [Sharing code/using code](https://ico.org.uk/media/for-organisations/documents/2618790/data-sharing-code-the-basics.pdf)
+- [Grammar of Graphics](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+- [Kaggle comunity for Machine Learning and Data science community](https://www.kaggle.com/)
+
 
 ## Time
 
@@ -49,7 +50,7 @@
 
 ## Easy Pitfalls of coding
 
-- Understanding what are you saving and where (Project/working directory/notebooks)
+- [Understanding what are you saving and where (Project/working directory/notebooks)](https://www.sciencedirect.com/topics/mathematics/working-directory)
 - Overwrite code
 - Multiple variables with the same name
 
@@ -58,6 +59,9 @@
 - Python
 - R and R studio
 
+Non coding options
+- For Networking visualisation: [Gephi](https://gephi.org/), [The Vistorian](http://vistorian.net/)
+- [Tableau](https://www.tableau.com/en-gb), [Datawrapper](https://www.datawrapper.de/), [Gale Digital scholar Lab](https://go.gale.com/ps/start.do?p=DSLAB&u=ed_itw)
 ## Where to start
 
 Like a lot of other methods, the things you could wish to learn are many and potentially neverending. Rather than try to learn everything a good pathway for learning is to start from getting familiar with the basics and then google/search specific training on some aspect that you want to develop more
@@ -89,8 +93,8 @@ R
 
 Python
 
-- Matplotlib
-- Seaborn
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
 - See ten of the most used python libraries here (including Matplotlib and Seaborn): [https://mode.com/blog/python-data-visualization-libraries/](https://mode.com/blog/python-data-visualization-libraries/)
 
 ## Where to Search for Help
@@ -115,7 +119,8 @@ Python
 - [Introduction to the Tidyverse](https://www.cdcs.ed.ac.uk/events/introduction-tidyverse/) 
 - [Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/data-visualisation-r/) 
 - [Geospatial data in R](https://www.cdcs.ed.ac.uk/events/geospatial-data-r/) 
-- Geographical Data Visualisation
+- [Geographical Data Visualisation](https://www.cdcs.ed.ac.uk/events/spatial-data-visualisation-advanced-techniques-qgis2)
+- [Data Visualisatipn Pathway of Learning](https://www.cdcs.ed.ac.uk/training/training-pathways/data-visualisation)
 - More to come next semester
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
