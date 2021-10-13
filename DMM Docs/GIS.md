@@ -2,15 +2,13 @@
 
 # GIS
 
-# 30-10-2020
+# 19-10-2021
 
 ## Authors: L.Michielin (lucia.michielin@ed.ac.uk)
 
-## Today&#39;s schedule
+## Today's Schedule
 
-12:00-12:05 Housekeeping
-
-12:05-12:10 Brief introduction to the method and how we are going to structure the session
+12:00-12:10 Housekeeping and intro
 
 12:10-12:25 Round of Presentation of the attendees + brief intro of those who said they would be happy to talk
 
