@@ -48,7 +48,6 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 ## Easy Pitfalls
 
-- Easier interfaces have made a lot of things possible even if with
 - Chose the wrong RS
 - Topology errors (mostly if importing data from other systems as CAD)
 - Move Project on different PC
