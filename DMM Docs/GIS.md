@@ -114,9 +114,10 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 
 **CDCS LIVE UPCOMING TRAINING**** ON GIS**
 
-- 12/11/20 Introduction to Spatial Data &amp; GIS [https://www.cdcs.ed.ac.uk/events/training-introduction-spatial-data-and-gis](https://www.cdcs.ed.ac.uk/events/training-introduction-spatial-data-and-gis)
-- 7/12/2020 Silent Disco Georeferencing and creating a new vector layer in QGIS using the Programming Historian tutorial: [https://programminghistorian.org/en/lessons/georeferencing-qgis](https://programminghistorian.org/en/lessons/georeferencing-qgis)[https://programminghistorian.org/en/lessons/vector-layers-qgis](https://programminghistorian.org/en/lessons/vector-layers-qgis)
-- Jan 21 Silent Disco: Geospatial Data Analysis [https://programminghistorian.org/en/lessons/geospatial-data-analysis](https://programminghistorian.org/en/lessons/geospatial-data-analysis)
+- 29/10/21 Introduction to QGIS(Silent Disco) Georeferencing Maps and using google map and google earth [https://www.cdcs.ed.ac.uk/events/introduction-qgis-silent-disco-georeferencing-maps-and-using-google-map-and-google-earth](https://www.cdcs.ed.ac.uk/events/introduction-qgis-silent-disco-georeferencing-maps-and-using-google-map-and-google-earth)
+- 04/11/2021 working with Historical Maps [https://www.cdcs.ed.ac.uk/events/working-historical-maps](https://www.cdcs.ed.ac.uk/events/working-historical-maps)
+- 11/11-25/11: Spatial Data Visualisation: Advanced techniques in QGIS [https://www.cdcs.ed.ac.uk/events/spatial-data-visualisation-advanced-techniques-qgis2](https://www.cdcs.ed.ac.uk/events/spatial-data-visualisation-advanced-techniques-qgis2)
+- 06/12-13/12: Geospatial data in R [https://www.cdcs.ed.ac.uk/events/geospatial-data-r](https://www.cdcs.ed.ac.uk/events/geospatial-data-r)
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
