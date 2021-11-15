@@ -10,11 +10,11 @@
 
 12:05 Overview of this text analysis session (5 minutes)
 
-12:10 Attendee introductions and presentations from those who volunteered (15 minutes)
+12:10 Round of introductions (10-15 minutes)
 
-12:25 Text Analysis (25 minutes)
+12:20/25 Text Analysis
 
-12:50 Wrap up (10 minutes)
+12:55 Wrap up (5 minutes)
 
 **\*\*\***
 
