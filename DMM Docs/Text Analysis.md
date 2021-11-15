@@ -1,6 +1,6 @@
 # **Digital Method of the Month: Text Analysis**
 
-28 January 2021
+19 November 2021
 
 ## Author: Lucy Havens (lucy.havens@ed.ac.uk)
 
@@ -131,7 +131,7 @@ No live training for the rest of the semester but in Sem 2
 - Text Analysis with Python’s NLTK Library Course (April 2022)
 - Further Text Analyis (Februrary 2022)
 
-## **CDCS Past training Resources **
+## **CDCS Past training Resources**
 - [Python intermediate Courses (2020)](https://github.com/DCS-training/python-interm)
 - [CDCS Summer School (2021)](https://github.com/DCS-training/CDCS-Summer-School) Notebooks on Text analysis and Neteworking Analysis 
 - [Edina Introduction to text analysis](https://learn.edina.ac.uk/intro-ta/)
