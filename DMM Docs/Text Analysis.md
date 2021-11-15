@@ -126,6 +126,19 @@ Bird, Steven and Klein, Ewan and Loper, Edward. (2019) _Natural Language Process
 
 Alex, Beatrice. (2020)[_Geoparsing English Language Text with the Edinburgh Geoparser_](https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh). The Programming Historian.
 
+## **CDCS Upcoming training**
+No live training for the rest of the semester but in Sem 2
+- Text Analysis with Python’s NLTK Library Course (April 2022)
+- Further Text Analyis (Februrary 2022)
+
+## **CDCS Past training Resources **
+- [Python intermediate Courses (2020)](https://github.com/DCS-training/python-interm)
+- [CDCS Summer School (2021)](https://github.com/DCS-training/CDCS-Summer-School) Notebooks on Text analysis and Neteworking Analysis 
+- [Edina Introduction to text analysis](https://learn.edina.ac.uk/intro-ta/)
+- [Edina Further Text analysis](https://learn.edina.ac.uk/inter-ta/)
+- [Edina Introduction to sentiment analysis ](https://learn.edina.ac.uk/sentiment/)
+- [Edina Webscraping News sites](https://digital-exploits.edina.ac.uk/webscraping/)
+
 \*\*\*
 
 Any questions? Thank you for joining today! Please let us know how you found the session [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYbJksOTKjv5Nsdenk5ny0NNUMFhOVkFOSE9IUkdUTjRTM0Q2RlJNSTFNTy4u)!
