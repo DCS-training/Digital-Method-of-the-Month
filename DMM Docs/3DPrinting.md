@@ -69,11 +69,13 @@ There are so many acronyms, so never be apprehensive in asking someone to explai
 |            | Binder Jetting  | 
 
 
-|   |   |   |   |   |
+|**3D Printing**   | Material Extrusion  | FFF  |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|   | Vat Polymerization   |  SLA, DPL |   |   |
+|   | Powder Bed Fusion   |  Plastic | SLS   |   |
+|   |   |  Metals |  DMLS, SLM, EBM |   |
+|   |  Material Jetting   |  Material Jetting DOD  |   |   |
+|   |  Binder Jetting   |   |   |   |
 
 ## Accessing 3D Printing
 
