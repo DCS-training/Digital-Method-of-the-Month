@@ -68,6 +68,13 @@ There are so many acronyms, so never be apprehensive in asking someone to explai
 || ----------- | ----------- |
 |            | Binder Jetting  | 
 
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 ## Accessing 3D Printing
 
 - The UoE has a good number of 3D printers around the campus, many of which can be made available to students, a detailed list for these resources is in the works.
