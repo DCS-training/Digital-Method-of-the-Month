@@ -57,7 +57,7 @@ SLM—Selective Laser Melting
 There are so many acronyms, so never be apprehensive in asking someone to explain their acronyms if you don&#39;t know what they mean. Ultimately 3D printing is an umbrella term for a variety of different technologies. Below is a table breaking down some of the main processes.
  
 
-| | Material Extrusion  | FFF  | 
+|   | Material Extrusion  | FFF  | 
 |---|---|---|---|
 |   | Vat Polymerization   |  SLA, DPL |   |
 | **3D Printing**    | Powder Bed Fusion   |  Plastic | SLS   | 
