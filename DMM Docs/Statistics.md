@@ -2,7 +2,7 @@
 
 # Statistics
 
-# 26-05-2021
+# 18-01-2022
 
 
 
@@ -62,9 +62,12 @@ Depending on the type of analysis you are going to conduct, there are different 
 
 ### CDCS TRAINING ON STATISTICS
 
-- [https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+Past Training on Statistics: [https://github.com/DCS-training/R-Visualisation---Stats](https://github.com/DCS-training/R-Visualisation---Stats)
+Upcoming Training on Statistics
+- [https://www.cdcs.ed.ac.uk/events/intro-statistic-and-descriptive-statistics](https://www.cdcs.ed.ac.uk/events/intro-statistic-and-descriptive-statistics)
+- [https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-and-simulation-r](https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-and-simulation-r)
+- [https://www.cdcs.ed.ac.uk/events/mixed-effects-modelling-r](https://www.cdcs.ed.ac.uk/events/mixed-effects-modelling-r)
 
-All material of that course is available at our GitHub page: [https://github.com/DCS-training/R-Visualisation---Stats](https://github.com/DCS-training/R-Visualisation---Stats)
 
 
 ### OTHER LIVE TRAINING WITHIN THE UNIVERSITY
