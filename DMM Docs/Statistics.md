@@ -12,7 +12,7 @@
 
 - 12:05-12:10 Brief introduction to the method and how we are going to structure the session
 
-- 12:10-12:25 Round of Presentation of the attendees + brief intro of those who said they would be happy to talk
+- 12:10-12:25 Round of Presentation of the attendees  and brief intro of those who said they would be happy to talk
 
 - 12:25 –12:50 discussion using this document
 
