@@ -102,7 +102,7 @@ Material and online courses on statistics are many. Here is a small selection to
 
 ## FEEDBACK 
 
-- [https://edin.ac/34IG7pY](https://edin.ac/34IG7pY)
+- [https://forms.office.com/r/pfqHFYqvfS](https://forms.office.com/r/pfqHFYqvfS)
 
 
 
