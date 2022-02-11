@@ -2,7 +2,7 @@
 
 # 3D Scanning
 
-# 29-03-2021
+# 16-03-2022
 
 #
 ## Today&#39;s schedule
@@ -79,12 +79,14 @@ Below are a series of factors you may want to consider before deciding which tec
 - **Times** (On site and postprocessing)
 - **Level of customisation** (Some tools are easily to use than other)
 
-**CDCS LIVE UPCOMING TRAINING**** ON DATA VISUALISATION**
+**CDCS LIVE UPCOMING TRAINING**
 
-- **12th April – 19th April** (2 sessions):_ **Recording 3D Data 1: Lidar Scanning Tutorial** _ Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-1-lidar-scanning-tutorial](https://www.cdcs.ed.ac.uk/events/recording-3d-data-1-lidar-scanning-tutorial)
-- **26th April:** _ **Recording 3D Data 2: Photogrammetry with 3DF Zephyr** _ **.** Learn the basics of photogrammetry imaging, and a standard workflow to generate 3D models from your photosets. **SIGN UP WILL GO LIVE SOON**
-- **03rd May:** _ **Recording 3D Data 3: Structured Light Laserscanner Tutorial** _ **.** Learn how to operate the Einscan Structured Light Scanner hardware and the steps needed to convert your raw data into workable 3D models. **SIGN UP WILL GO LIVE SOON**
-- **11th May – 25th May** (3 Sessions):_ **Introduction to Real-time Rendering and 3D Visualisation in Unity.** _ This workshop will provide an overview of the current trends in real-time graphics and it will cover some of the basic approaches for visualising 3D data in the Unity engine. **SIGN UP WILL GO LIVE SOON**
+- **02 March - 09 March** (2 sessions): **Designing and Handling 3D Data for 3D Printing.** Learn how to handle 3D data for 3D printing [https://www.cdcs.ed.ac.uk/events/designing-and-handling-3d-data-3d-printing](https://www.cdcs.ed.ac.uk/events/designing-and-handling-3d-data-3d-printing)
+- **28 March - 04 April** (2 sessions): **Recording 3D Data 1: Lidar Scanning Tutorial.** Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner-tutorials](https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner-tutorials)
+- **19 April:Recording 3D Data 2: Photogrammetry with 3DF Zephyr.** Learn how to manage 3D Data with Autocad [https://www.cdcs.ed.ac.uk/events/working-3d-data-autocad](https://www.cdcs.ed.ac.uk/events/working-3d-data-autocad)
+- **02 May:** _ **Recording 3D Data 2: Photogrammetry with 3DF Zephyr** Learn the basics of photogrammetry imaging, and a standard workflow to generate 3D models from your photosets. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-photogrammetry-3df-zephyr2022](https://www.cdcs.ed.ac.uk/events/recording-3d-data-photogrammetry-3df-zephyr2022)
+- **09 May: Recording 3D Data 3: Structured Light Laserscanner Tutorial** Learn how to operate the Einscan Structured Light Scanner hardware and the steps needed to convert your raw data into workable 3D models. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-structured-light-laser-scanner-tutorial2022](https://www.cdcs.ed.ac.uk/events/recording-3d-data-structured-light-laser-scanner-tutorial2022)
+
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
@@ -108,7 +110,7 @@ Below are a series of factors you may want to consider before deciding which tec
 
 **FEEDBACK**
 
-- [https://edin.ac/34IG7pY](https://edin.ac/34IG7pY)
+- [https://forms.office.com/r/pfqHFYqvfS](https://forms.office.com/r/pfqHFYqvfS)
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
