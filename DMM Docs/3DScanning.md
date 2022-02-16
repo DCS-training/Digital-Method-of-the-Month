@@ -2,7 +2,7 @@
 
 # 3D Scanning
 
-# 16-03-2022
+# 16-02-2022
 
 #
 ## Today&#39;s schedule
