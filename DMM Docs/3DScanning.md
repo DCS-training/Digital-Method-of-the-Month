@@ -61,7 +61,7 @@ The methodology available are different and works on different principles and th
 #
 ## Software
 
-# Every equipment will come with its propriety software but there are a series of processing software you may want to get accustomed with
+Every equipment will come with its propriety software but there are a series of processing software you may want to get accustomed with
 
 - MeshLab: Open-source tool for processing 3D data
 - Metashape (Previously PhotoScan) - Propriety software to do SfM
