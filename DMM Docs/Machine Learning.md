@@ -29,9 +29,11 @@
 5. More about Machine Learning applications.
 6. Limitations of Machine Learning.
 
-## Materials
+## The way forward 
 
-No previous readings are required for this session. Here there is a list of references to learn more about machine learning and artificial intelligence:
+### CDCS Courses:
+- [Machine Learning with Python](https://www.cdcs.ed.ac.uk/events/machine-learning-python) (23/03-13/04 16:00-18:00)
+- Intro to Machine Learning Silent Disco (TBC)
 
 ### Books:
 
