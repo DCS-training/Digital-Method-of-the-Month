@@ -35,10 +35,9 @@ Stefano Bordoni and Daniel Wheeldon
 - Creating professional 2D schematics from 3D data
 
 ## Cons
-
-      - Autodesk software is expensive (the free to academic staff and students)
-      - **AutoCAD** is a complex and sometimes discouraging software due to the number of commands, options…as well as some pitfalls (below)
-      - **Inventor** is comparatively more intuitive but is still a vast programme which will take time to learn (see next).
+- Autodesk software is expensive (the free to academic staff and students)
+- **AutoCAD** is a complex and sometimes discouraging software due to the number of commands, options…as well as some pitfalls (below)
+- **Inventor** is comparatively more intuitive but is still a vast programme which will take time to learn (see next).
 
 ## Time and learning
 
