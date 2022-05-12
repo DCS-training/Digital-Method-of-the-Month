@@ -96,3 +96,11 @@ Below are a series of resources you may find useful
 - [AutoCAD CheatSheet](https://www.scan2cad.com/blog/cad/autocad-commands/)
 - [Inventor Keyboard Shortcuts](https://damassets.autodesk.net/content/dam/autodesk/www/campaigns/inventor-resource/Inventor-Keyboard-Shortcuts-Guide.pdf)
 - [Inventor Official Blog](https://blogs.autodesk.com/inventor/)
+
+**FEEDBACK**
+
+- [https://forms.office.com/r/pfqHFYqvfS](https://forms.office.com/r/pfqHFYqvfS)
+
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
