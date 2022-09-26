@@ -62,6 +62,8 @@
 Non coding options
 - For Networking visualisation: [Gephi](https://gephi.org/), [The Vistorian](http://vistorian.net/)
 - [Tableau](https://www.tableau.com/en-gb), [Datawrapper](https://www.datawrapper.de/), [Gale Digital scholar Lab](https://go.gale.com/ps/start.do?p=DSLAB&u=ed_itw)
+- [Comparison of main non-coding options](https://www.toptal.com/designers/data-visualization/data-visualization-tools)
+
 ## Where to start
 
 Like a lot of other methods, the things you could wish to learn are many and potentially neverending. Rather than try to learn everything a good pathway for learning is to start from getting familiar with the basics and then google/search specific training on some aspect that you want to develop more
@@ -112,22 +114,25 @@ Python
 
 **CDCS LIVE UPCOMING TRAINING**
 
-- [Intro to R and R Studio](https://www.cdcs.ed.ac.uk/events/introduction-r-and-r-studio/)
-- [Intro to programming with Python](https://www.cdcs.ed.ac.uk/events/introduction-programming-python2/)
-- [Effective data visualisation](https://www.cdcs.ed.ac.uk/events/effective-data-visualisation/) 
-- [Gale Digital Scholar Lab Workshop](https://www.cdcs.ed.ac.uk/events/gale-digital-scholar-lab-workshop/) 
-- [Introduction to the Tidyverse](https://www.cdcs.ed.ac.uk/events/introduction-tidyverse/) 
+To Learn how to Code
+- [Intro to R and R Studio](https://www.cdcs.ed.ac.uk/events/introduction-to-r-and-rstudio)
+- [Intro to programming with Python](https://www.cdcs.ed.ac.uk/events/introduction-to-python)
+
+On Data Vis
+- [Silent Disco: effective data vis](https://www.cdcs.ed.ac.uk/events/silent-disco-effective-data-visualisation) 
+- [Data Carpentry](https://www.cdcs.ed.ac.uk/events/data-carpentry) 
+- [How to Generate Good Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/good-data-visualisations-with-r) 
 - [Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/data-visualisation-r/) 
-- [Geospatial data in R](https://www.cdcs.ed.ac.uk/events/geospatial-data-r/) 
-- [Geographical Data Visualisation](https://www.cdcs.ed.ac.uk/events/spatial-data-visualisation-advanced-techniques-qgis2)
+- [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/introduction-to-qgis-geospatial-data) 
 - [Data Visualisatipn Pathway of Learning](https://www.cdcs.ed.ac.uk/training/training-pathways/data-visualisation)
-- More to come next semester
+
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
 - Edinburgh University often offers courses based on Data Carpentry [https://datacarpentry.org/](https://datacarpentry.org/) As part of these courses there is always a section on either python or R that covers basic Data Visualisation
 
 - [http://www.q-step.ed.ac.uk/](http://www.q-step.ed.ac.uk/)
+- [Data Vis for textual Data](https://link.gale.com/apps/DSLAB?u=ed_itw) or Select it from the [Databases List](https://www.ed.ac.uk/information-services/library-museum-gallery/finding-resources/library-databases/databases-a-z/databases-g)
 - A lot of schools organise their own Data visualisation Courses
 
 **SELF LEARN COURSES**
@@ -140,6 +145,6 @@ Python
 
 **FEEDBACK**
 
-- [https://forms.office.com/r/pfqHFYqvfS](https://forms.office.com/r/pfqHFYqvfS)
+- [https://forms.office.com/r/YYNrqvuNr8](https://forms.office.com/r/YYNrqvuNr8)
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
