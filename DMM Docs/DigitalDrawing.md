@@ -77,8 +77,7 @@ I also highly advise working with an external computer mouse (opposed to a touch
 
 ## Where to turn next
 
-
-There are no more training on this for this academic year but keep an eye on [https://www.cdcs.ed.ac.uk/training for the year 22/23](https://www.cdcs.ed.ac.uk/training%20for%20the%20year%2022/23) (available in August)
+There is an upcoming training on Autocad [https://www.cdcs.ed.ac.uk/events/digital-drawing-with-autocad](https://www.cdcs.ed.ac.uk/events/digital-drawing-with-autocad) and [https://www.cdcs.ed.ac.uk/events/designing-handling-3d-data-printing](https://www.cdcs.ed.ac.uk/events/designing-handling-3d-data-printing)
 
 The best way to learn them is to get your hands dirty!
 
