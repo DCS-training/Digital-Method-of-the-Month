@@ -112,12 +112,10 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 - List of ESPG codes [https://spatialreference.org/ref/epsg/](https://spatialreference.org/ref/epsg/)
 - [https://datacarpentry.org/geospatial-workshop/](https://datacarpentry.org/geospatial-workshop/)
 
-**CDCS LIVE UPCOMING TRAINING**** ON GIS**
+**CDCS LIVE UPCOMING TRAINING ON GIS**
 
-- 29/10/21 Introduction to QGIS(Silent Disco) Georeferencing Maps and using google map and google earth [https://www.cdcs.ed.ac.uk/events/introduction-qgis-silent-disco-georeferencing-maps-and-using-google-map-and-google-earth](https://www.cdcs.ed.ac.uk/events/introduction-qgis-silent-disco-georeferencing-maps-and-using-google-map-and-google-earth)
-- 04/11/2021 working with Historical Maps [https://www.cdcs.ed.ac.uk/events/working-historical-maps](https://www.cdcs.ed.ac.uk/events/working-historical-maps)
-- 11/11-25/11: Spatial Data Visualisation: Advanced techniques in QGIS [https://www.cdcs.ed.ac.uk/events/spatial-data-visualisation-advanced-techniques-qgis2](https://www.cdcs.ed.ac.uk/events/spatial-data-visualisation-advanced-techniques-qgis2)
-- 06/12-13/12: Geospatial data in R [https://www.cdcs.ed.ac.uk/events/geospatial-data-r](https://www.cdcs.ed.ac.uk/events/geospatial-data-r)
+- 24/11/22-08/12/22 [Introduction to QGIS and Geospatial Data/](https://www.cdcs.ed.ac.uk/events/introduction-to-qgis-geospatial-data) 
+- More to come on the second Semester (Webgis, Geographical Data analysis with R, Geospatial Data Visualsiation etc..)
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
