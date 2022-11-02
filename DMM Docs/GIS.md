@@ -33,11 +33,11 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 - Raster vs Vector
 - Cartography principles and RS
-- Shapefiles and the other vectorial extensions
+- Shapefiles and the other vectorial extensions (e.g., .dxf)
 - Spatial analysis algorithms
 - OSM and WMS services
 - Databases
-- Image processing: NDVI and the others
+- Image processing: NDVI, DEM and others
 - Topology
 - Extensions and Plugins
 
@@ -48,15 +48,15 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 ## Easy Pitfalls
 
-- Chose the wrong RS
+- Chose the wrong RS or failing to set a RS.
 - Topology errors (mostly if importing data from other systems as CAD)
-- Move Project on different PC
+- Move Project on different PC or moving files from their original location to another.
 - Proprietary extensions of files
 
 ## The Big Questions
 
 - GIS vs WebGIS
-- Implementation with other software (R, Python, 3D managing software)
+- Implementation with other software (R, Python, 3D managing software, CAD, photogrammetry software)
 - How to work collaboratively
 - Managing 3D Data
 
