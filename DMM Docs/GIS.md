@@ -2,9 +2,9 @@
 
 # GIS
 
-# 19-10-2021
+# 08/11/2022
 
-## Authors: L.Michielin (lucia.michielin@ed.ac.uk)
+## Authors: L.Michielin, S. Bordoni, A. McLean, J. Page
 
 ## Today's Schedule
 
