@@ -31,20 +31,20 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 ## Concept to get familiar with
 
-- Raster vs Vector
-- Cartography principles and RS
-- Shapefiles and the other vectorial extensions (e.g., .dxf)
-- Spatial analysis algorithms
-- OSM and WMS services
-- Databases
-- Image processing: NDVI, DEM and others
-- Topology
-- Extensions and Plugins
+- [Raster vs Vector](https://gisgeography.com/spatial-data-types-vector-raster/)
+- [Cartography principles and RS](https://en.wikipedia.org/wiki/Spatial_reference_system)
+- [Shapefiles](https://doc.arcgis.com/en/arcgis-online/reference/shapefiles.htm) and the [other vectorial extensions (e.g., .dxf)](https://en.wikipedia.org/wiki/GIS_file_formats)
+- Spatial analysis algorithms[Qgis](https://www.amnh.org/content/download/304774/4829791/version/2/file/Galante-et-al-Modeling-Suitable-Habitat-for-a-Species-of-Conservation-Concern-An-Introduction-to-Spatial-Analysis-with-QGIS-Exercise-Lessons-in-Conservation-Volume-10-Issue-1.pdf), [ArcGIS](https://pro.arcgis.com/en/pro-app/latest/help/analysis/introduction/spatial-analysis-in-arcgis-pro.htm)
+- [OSM and WMS services](https://wiki.openstreetmap.org/wiki/WMS#OSM_WMS_Servers)
+- [Databases](https://gisgeography.com/spatial-databases/)
+- [Image processing: NDVI, DEM and others](https://csm.fresnostate.edu/ees/documents/facstaff/wang/gis200/lecture-notes/gis/chap12.pdf)
+- [Topology](https://www.esri.com/news/arcuser/0401/topo.html#:~:text=Today%2C%20topology%20in%20GIS%20is,on%20a%20two%2Ddimensional%20plane.)
+- [Extensions and Plugins](https://plugins.qgis.org/)
 
 ## Time
 
 - How much will it take to learn?
-- Is it possible to self learn?
+- Is it possible to self learn? 
 
 ## Easy Pitfalls
 
