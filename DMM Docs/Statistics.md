@@ -2,7 +2,7 @@
 
 # Statistics
 
-# 17-01-2022
+# 17-01-2023
 
 
 
@@ -44,7 +44,6 @@
 
 - Not knowing your dataset well
 - Learning curve
-
 - Not having a pre-set of questions
 - Not knowing the limitation of the method/dataset, e.g. many tests works on normally distributed, independent samples
 - [Correlation is not causation](https://www.tylervigen.com/spurious-correlations)
@@ -63,10 +62,13 @@ Depending on the type of analysis you are going to conduct, there are different 
 ### CDCS TRAINING ON STATISTICS
 
 Past Training on Statistics: [https://github.com/DCS-training/R-Visualisation---Stats](https://github.com/DCS-training/R-Visualisation---Stats)
+
 Upcoming Training on Statistics
-- [https://www.cdcs.ed.ac.uk/events/intro-statistic-and-descriptive-statistics](https://www.cdcs.ed.ac.uk/events/intro-statistic-and-descriptive-statistics)
-- [https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-and-simulation-r](https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-and-simulation-r)
-- [https://www.cdcs.ed.ac.uk/events/mixed-effects-modelling-r](https://www.cdcs.ed.ac.uk/events/mixed-effects-modelling-r)
+- [https://www.cdcs.ed.ac.uk/events/intro-stats-descriptive-stats](https://www.cdcs.ed.ac.uk/events/intro-stats-descriptive-stats)
+- [https://www.cdcs.ed.ac.uk/events/null-hypthesis-testing-with-r](https://www.cdcs.ed.ac.uk/events/null-hypthesis-testing-with-r)
+- [https://www.cdcs.ed.ac.uk/events/statistical-methods-monte-carlo-simulations](https://www.cdcs.ed.ac.uk/events/statistical-methods-monte-carlo-simulations)
+- [https://www.cdcs.ed.ac.uk/events/regression-mixed-effects-modelling-r](https://www.cdcs.ed.ac.uk/events/regression-mixed-effects-modelling-r)
+- [https://www.cdcs.ed.ac.uk/events/statistical-methods-principal-component-analysis-with-R](https://www.cdcs.ed.ac.uk/events/statistical-methods-principal-component-analysis-with-R)
 
 
 
@@ -102,7 +104,7 @@ Material and online courses on statistics are many. Here is a small selection to
 
 ## FEEDBACK 
 
-- [https://forms.office.com/r/pfqHFYqvfS](https://forms.office.com/r/pfqHFYqvfS)
+- [https://forms.office.com/r/YYNrqvuNr8](https://forms.office.com/r/pfqHFYqvfS)
 
 
 
