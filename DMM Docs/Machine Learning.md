@@ -32,8 +32,9 @@
 ## The way forward 
 
 ### CDCS Courses:
-- [Machine Learning with Python](https://www.cdcs.ed.ac.uk/events/machine-learning-python) (23/03-13/04 16:00-18:00)
-- Intro to Machine Learning Silent Disco (TBC)
+- [Introduction to Machine Learning](https://www.cdcs.ed.ac.uk/events/intro-to-machine-learning)
+- [AI and Ethics](https://www.cdcs.ed.ac.uk/events/ai-ethics)
+
 
 ### Books:
 
