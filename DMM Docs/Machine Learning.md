@@ -1,7 +1,7 @@
 # Digital Method of the Month: Machine Learning
 
 
-## Authors: E. Martorell Toledano (enric.martorell@ed.ac.uk)
+## Authors: E. Martorell Toledano, Bhargavi Ganesh
 
 ## Schedule
 
