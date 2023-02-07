@@ -26,11 +26,12 @@ Machine learning is the process of using data to "train" a model to perform base
 Let's say you have a target variable in mind- like predicting the value of the stock market at the end of this week, or classifying a set of images as cats or dogs. These represent supervised learning. 
 Prediction --> typically involves predicting a value
 Classification --> typically involves putting things into set categories
-Process:
-1. Find your data and prepare it so that it is in the right format for models.
-2. Split data into training data and testing data. Some people might say train, test, and evaluation split is needed. The sets of data used for evaluation/testing should be kept separate - in a "lockbox" so to speak. Important to avoid "leakage".
-3. Select your model. Many different methods are used for supervised learning, including simpler models such as     decision trees, logistic regression and more complex models such as neural networks. Some "ensemble" methods combine multiple model types to improve model performance.
-4. Evaluate model performance, based on a set of standard metrics, including accuracy (%of correct predictions). Other evaluation metrics include precision (# of true positives/total # of positives), and recall (true positives/true positives + false negatives). Good to also evaluate on the impact on certain subgroups of the population, to ensure that the model is not worse at predicting certain groups than others.
+
+  Process:
+    1. Find your data and prepare it so that it is in the right format for models.
+    2. Split data into training data and testing data. Some people might say train, test, and evaluation split is needed. The sets of data used for evaluation/testing should be kept separate - in a "lockbox" so to speak. Important to avoid "leakage".
+    3. Select your model. Many different methods are used for supervised learning, including simpler models such as     decision trees, logistic regression and more complex models such as neural networks. Some "ensemble" methods combine multiple model types to improve model performance.
+    4. Evaluate model performance, based on a set of standard metrics, including accuracy (%of correct predictions). Other evaluation metrics include precision (# of true positives/total # of positives), and recall (true positives/true positives + false negatives). Good to also evaluate on the impact on certain subgroups of the population, to ensure that the model is not worse at predicting certain groups than others.
 
 6. Unsupervised Learning
 Looking for patterns in the data, without an idea of what we are looking for yet. Clustering methods are popular here.
