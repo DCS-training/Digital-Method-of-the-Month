@@ -27,21 +27,21 @@ Let's say you have a target variable in mind- like predicting the value of the s
 Prediction --> typically involves predicting a value
 Classification --> typically involves putting things into set categories
 
-Process:
+- Process:
 
-1. Find your data and prepare it so that it is in the right format for models.
-2. Split data into training data and testing data. Some people might say train, test, and evaluation split is needed. The sets of data used for evaluation/testing should be kept separate - in a "lockbox" so to speak. Important to avoid "leakage".
-3. Select your model. Many different methods are used for supervised learning, including simpler models such as     decision trees, logistic regression and more complex models such as neural networks. Some "ensemble" methods combine multiple model types to improve model performance.
-4. Evaluate model performance, based on a set of standard metrics, including accuracy (%of correct predictions). Other evaluation metrics include precision (# of true positives/total # of positives), and recall (true positives/true positives + false negatives). Good to also evaluate on the impact on certain subgroups of the population, to ensure that the model is not worse at predicting certain groups than others.
+  - Find your data and prepare it so that it is in the right format for models.
+  - Split data into training data and testing data. Some people might say train, test, and evaluation split is needed. The sets of data used for evaluation/testing should be kept separate - in a "lockbox" so to speak. Important to avoid "leakage".
+  - Select your model. Many different methods are used for supervised learning, including simpler models such as     decision trees, logistic regression and more complex models such as neural networks. Some "ensemble" methods combine multiple model types to improve model performance.
+  - Evaluate model performance, based on a set of standard metrics, including accuracy (%of correct predictions). Other evaluation metrics include precision (# of true positives/total # of positives), and recall (true positives/true positives + false negatives). Good to also evaluate on the impact on certain subgroups of the population, to ensure that the model is not worse at predicting certain groups than others.
 
 6. Unsupervised Learning
 Looking for patterns in the data, without an idea of what we are looking for yet. Clustering methods are popular here.
 
 7. Limitations of Machine Learning
-The things "learned" by models could be based on completely spurious correlations. It is sometimes difficult to figure out which features were used by the model. Methods like feature importance exist but are imperfect.
-The datasets used for machine learning are often flawed and not representative of the whole population. Many contain errors as well, which if not caught, could lead to very misleading results!
-Supervised learning depends on having labeled data for the training process. This is not always easy to come by. Many people in the computer vision community use pretrained models for this reason. But the models are often trained on completely different data/images than the context we are interested in. This can lead to so-so results.
-Ethical problems arise if machine learning decisions are used as a justification for arrest, or other consequential actions. Particularly if model accuracy is worse for certain groups.
+- The things "learned" by models could be based on completely spurious correlations. It is sometimes difficult to figure out which features were used by the model. Methods like feature importance exist but are imperfect.
+- The datasets used for machine learning are often flawed and not representative of the whole population. Many contain errors as well, which if not caught, could lead to very misleading results!
+- Supervised learning depends on having labeled data for the training process. This is not always easy to come by. Many people in the computer vision community use pretrained models for this reason. But the models are often trained on completely different data/images than the context we are interested in. This can lead to so-so results.
+- Ethical problems arise if machine learning decisions are used as a justification for arrest, or other consequential actions. Particularly if model accuracy is worse for certain groups.
 
 ## The way forward 
 
@@ -56,10 +56,10 @@ Ethical problems arise if machine learning decisions are used as a justification
 - Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
 
 ### Academic papers:
-[1] Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, and Kate Crawford. 2021. Datasheets for Datasets. DOI:https://doi.org/10.48550/arXiv.1803.09010
-[2] Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. 2019. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency, 220–229. DOI:https://doi.org/10.1145/3287560.3287596
-[3] Inioluwa Deborah Raji, Emily M. Bender, Amandalynne Paullada, Emily Denton, and Alex Hanna. 2021. AI and the Everything in the Whole Wide World Benchmark. Retrieved February 7, 2023 from http://arxiv.org/abs/2111.15366
-[4] Michael A. Lones. 2022. How to avoid machine learning pitfalls: a guide for academic researchers. DOI:https://doi.org/10.48550/arXiv.2108.02497
+- [1] Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, and Kate Crawford. 2021. Datasheets for Datasets. DOI:https://doi.org/10.48550/arXiv.1803.09010
+- [2] Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. 2019. Model Cards for Model Reporting. In Proceedings of the Conference on Fairness, Accountability, and Transparency, 220–229. DOI:https://doi.org/10.1145/3287560.3287596
+- [3] Inioluwa Deborah Raji, Emily M. Bender, Amandalynne Paullada, Emily Denton, and Alex Hanna. 2021. AI and the Everything in the Whole Wide World Benchmark. Retrieved February 7, 2023 from http://arxiv.org/abs/2111.15366
+- [4] Michael A. Lones. 2022. How to avoid machine learning pitfalls: a guide for academic researchers. DOI:https://doi.org/10.48550/arXiv.2108.02497
 
 ### Newspaper articles:
 
