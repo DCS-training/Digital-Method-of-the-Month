@@ -82,7 +82,7 @@ Below are a series of factors you may want to consider before deciding which tec
 **CDCS LIVE UPCOMING TRAINING**
 
 - **13 March - 28 March** (3 sessions): **From Photos to 3D Models. Introduction to Photogrammetry.** [https://www.cdcs.ed.ac.uk/events/photogrammetry](https://www.cdcs.ed.ac.uk/events/photogrammetry)
-- **14 March: **Walking tour of the 3D Printing Facilities** [https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities](https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities)
+- **14 March: Walking tour of the 3D Printing Facilities** [https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities](https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities)
 - **28 April - 5 May** (2 sessions): **Data in AutoCAD.**  Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner](https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner)
 
 
