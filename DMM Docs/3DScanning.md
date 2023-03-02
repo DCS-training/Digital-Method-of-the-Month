@@ -2,7 +2,7 @@
 
 # 3D Scanning
 
-# 16-02-2022
+# 07-03-2023
 
 #
 ## Today&#39;s schedule
@@ -27,9 +27,9 @@ The methodology available are different and works on different principles and th
 #
 ## Concept to get familiar with
 
-- [Contact vs remote scanning](https://www.aniwaa.com/guide/3d-scanners/3d-scanning-technologies-and-the-3d-scanning-process/#:~:text=The%20contact%20technology%20for%203D,object%20to%20record%203D%20information.)
+- [Contact vs remote scanning](https://www.aniwaa.com/guide/3d-scanners/3d-scanning-technologies-and-the-3d-scanning-process)
 - [Active vs Passive Scanning](https://www.nrcan.gc.ca/maps-tools-publications/satellite-imagery-air-photos/remote-sensing-tutorials/introduction/passive-vs-active-sensing/14639)
-- [TOF (Time of Flight)](https://www.terabee.com/time-of-flight-principle/#:~:text=The%20Time%2Dof%2DFlight%20principle,being%20reflected%20by%20an%20object.)
+- [TOF (Time of Flight)](https://www.terabee.com/time-of-flight-principle)
 - [Triangulation](https://www.3dnatives.com/en/3d-scanner-laser-triangulation080920174-99/)
 - [Structured Light Scanner](https://en.wikipedia.org/wiki/Structured-light_3D_scanner)
 - [Photogrammetry and Computer vision (Structure from Motion)](https://www.geomorphology.org.uk/sites/default/files/geom_tech_chapters/2.2.2_sfm.pdf)
@@ -81,11 +81,9 @@ Below are a series of factors you may want to consider before deciding which tec
 
 **CDCS LIVE UPCOMING TRAINING**
 
-- **02 March - 09 March** (2 sessions): **Designing and Handling 3D Data for 3D Printing.** Learn how to handle 3D data for 3D printing [https://www.cdcs.ed.ac.uk/events/designing-and-handling-3d-data-3d-printing](https://www.cdcs.ed.ac.uk/events/designing-and-handling-3d-data-3d-printing)
-- **28 March - 04 April** (2 sessions): **Recording 3D Data 1: Lidar Scanning Tutorial.** Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner-tutorials](https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner-tutorials)
-- **19 April: Working with 3D Data in AutoCAD.** Learn how to manage 3D Data with Autocad [https://www.cdcs.ed.ac.uk/events/working-3d-data-autocad](https://www.cdcs.ed.ac.uk/events/working-3d-data-autocad)
-- **02 May: Recording 3D Data 2: Photogrammetry with 3DF Zephyr** Learn the basics of photogrammetry imaging, and a standard workflow to generate 3D models from your photosets. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-photogrammetry-3df-zephyr2022](https://www.cdcs.ed.ac.uk/events/recording-3d-data-photogrammetry-3df-zephyr2022)
-- **09 May: Recording 3D Data 3: Structured Light Laserscanner Tutorial** Learn how to operate the Einscan Structured Light Scanner hardware and the steps needed to convert your raw data into workable 3D models. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-structured-light-laser-scanner-tutorial2022](https://www.cdcs.ed.ac.uk/events/recording-3d-data-structured-light-laser-scanner-tutorial2022)
+- **13 March - 28 March** (3 sessions): **From Photos to 3D Models. Introduction to Photogrammetry.** [https://www.cdcs.ed.ac.uk/events/photogrammetry](https://www.cdcs.ed.ac.uk/events/photogrammetry)
+- **14 March: **Walking tour of the 3D Printing Facilities** [https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities](https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities)
+- **28 April - 5 May** (2 sessions): **Data in AutoCAD.**  Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner](https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner)
 
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
@@ -105,12 +103,12 @@ Below are a series of factors you may want to consider before deciding which tec
 - [https://www.surveyschool.org.uk/short\_courses/photogrammetry-digital-imaging/](https://www.surveyschool.org.uk/short_courses/photogrammetry-digital-imaging/) (3-Days Course)
 - [https://www.youtube.com/channel/UC70CKZQPj\_ZAJ0Osrm6TyTg](https://www.youtube.com/channel/UC70CKZQPj_ZAJ0Osrm6TyTg) (Meshlab tutorial)
 - [https://www.youtube.com/watch?v=BrRzeMY-aQI](https://www.youtube.com/watch?v=BrRzeMY-aQI) (Photoscan now Metashape Processing)
-- [https://www.linkedin.com/learning/paths/master-reality-capture-with-3d-scanning?u=50251009](https://www.linkedin.com/learning/paths/master-reality-capture-with-3d-scanning?u=50251009) (3D Scanning Pathway)
+- [https://www.linkedin.com/learning/paths/master-reality-captuhttps://forms.office.com/r/YYNrqvuNr8e-with-3d-scanning?u=50251009](https://www.linkedin.com/learning/paths/master-reality-capture-with-3d-scanning?u=50251009) (3D Scanning Pathway)
 - [https://www.linkedin.com/learning/photogrammetry-for-product-design-and-aec/photogrammetry-makes-the-physical-world-digital?u=50251009](https://www.linkedin.com/learning/photogrammetry-for-product-design-and-aec/photogrammetry-makes-the-physical-world-digital?u=50251009) (Photogrammetry using Meshlab)
 
 **FEEDBACK**
 
-- [https://forms.office.com/r/pfqHFYqvfS](https://forms.office.com/r/pfqHFYqvfS)
+- [https://forms.office.com/r/YYNrqvuNr8](https://forms.office.com/r/YYNrqvuNr8)
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
