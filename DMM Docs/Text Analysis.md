@@ -1,6 +1,6 @@
 # **Digital Method of the Month: Text Analysis**
 
-19 November 2021
+03 April 2023
 
 ## Author: Lucy Havens (lucy.havens@ed.ac.uk)
 
