@@ -129,16 +129,17 @@ Alex, Beatrice. (2020)[_Geoparsing English Language Text with the Edinburgh Geop
 ## **CDCS Upcoming training**
 - [Advanced Text Analysis. Topic Modelling with Python](https://www.cdcs.ed.ac.uk/events/intro-topic-modelling)14/04, 21/04, 24/04
 - [Silent Disco. Sentiment Analysis with Python](https://www.cdcs.ed.ac.uk/events/silent-disco-sentiment-analysis-with-python) 20/04
+- [Silent Disco: Interrogating a National Narrative with GPT-2 (large-scale corpus)](https://www.cdcs.ed.ac.uk/events/silent-disco-interrogating-a-national-narrative)
 
 
 
 ## **CDCS Past training Resources**
 - [Python intermediate Courses (2020)](https://github.com/DCS-training/python-interm)
 - [CDCS Summer School (2021)](https://github.com/DCS-training/CDCS-Summer-School) Notebooks on Text analysis and Neteworking Analysis 
-- [Edina Introduction to text analysis](https://learn.edina.ac.uk/intro-ta/)
-- [Edina Further Text analysis](https://learn.edina.ac.uk/inter-ta/)
+- [Introduction to text analysis](https://github.com/DCS-training/IntroToTextAnalysis)
+- [Further Text analysis](https://github.com/DCS-training/FurtherTextAnalysis)
 - [Edina Introduction to sentiment analysis ](https://learn.edina.ac.uk/sentiment/)
-- [Edina Webscraping News sites](https://digital-exploits.edina.ac.uk/webscraping/)
+- [Webscraping News sites](https://github.com/DCS-training/WebscrapingNewsitesWithPython)
 
 
 
