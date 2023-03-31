@@ -16,7 +16,7 @@
 
 16:55 Wrap up (5 minutes)
 
-**\*\*\***
+
 
 ## **What is text analysis?**
 
@@ -127,9 +127,10 @@ Bird, Steven and Klein, Ewan and Loper, Edward. (2019) _Natural Language Process
 Alex, Beatrice. (2020)[_Geoparsing English Language Text with the Edinburgh Geoparser_](https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh). The Programming Historian.
 
 ## **CDCS Upcoming training**
-No live training for the rest of the semester but in Sem 2
-- Text Analysis with Python’s NLTK Library Course (April 2022)
-- Further Text Analyis (Februrary 2022)
+- [Advanced Text Analysis. Topic Modelling with Python](https://www.cdcs.ed.ac.uk/events/intro-topic-modelling)14/04, 21/04, 24/04
+- [Silent Disco. Sentiment Analysis with Python](https://www.cdcs.ed.ac.uk/events/silent-disco-sentiment-analysis-with-python) 20/04
+
+
 
 ## **CDCS Past training Resources**
 - [Python intermediate Courses (2020)](https://github.com/DCS-training/python-interm)
@@ -139,7 +140,7 @@ No live training for the rest of the semester but in Sem 2
 - [Edina Introduction to sentiment analysis ](https://learn.edina.ac.uk/sentiment/)
 - [Edina Webscraping News sites](https://digital-exploits.edina.ac.uk/webscraping/)
 
-\*\*\*
+
 
 Any questions? Thank you for joining today! Please let us know how you found the session [here](https://forms.office.com/r/pfqHFYqvfS)!
 
