@@ -67,7 +67,7 @@ To identify places or organizations named in a text or _corpus_ (collection of t
 
 James Baker, Rossitza Atanassova, Andrew Salway (2020). Computational Analysis of Catalogue Data (Version v2021.01.21). [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
 
-Tools from media labs, such as the [Digital Methods Initiative, University of Amsterdam] (https://wiki.digitalmethods.net/Dmi/ToolDatabase) or the [SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
+Tools from media labs, such as the [Digital Methods Initiative, University of Amsterdam](https://wiki.digitalmethods.net/Dmi/ToolDatabase) or the [SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
 
 **Python**, **R***, and Regular Expressions ( **RegEx** ) for simple queries (word counts, dataset size)
 
@@ -135,7 +135,7 @@ LinkedIn Learning - available to all University staff and students from MyEd por
 
 [R Bloggers](https://www.r-bloggers.com/)
 
-[Digital Methods Initiative, University of Amsterdam] (https://wiki.digitalmethods.net/Dmi/ToolDatabase)
+[Digital Methods Initiative, University of Amsterdam](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
 
 [SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
 
