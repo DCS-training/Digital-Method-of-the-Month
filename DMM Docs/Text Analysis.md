@@ -6,15 +6,15 @@
 
 ## **Schedule**
 
-16:00 Housekeeping (5 minutes)
+12:00 Housekeeping (5 minutes)
 
-16:05 Overview of this text analysis session (5 minutes)
+12:05 Overview of this text analysis session (5 minutes)
 
-16:10 Round of introductions (10-15 minutes)
+12:10 Round of introductions (10-15 minutes)
 
-16:20/25 Text Analysis
+12:20/25 Text Analysis
 
-16:55 Wrap up (5 minutes)
+12:55 Wrap up (5 minutes)
 
 
 
