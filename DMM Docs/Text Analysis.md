@@ -135,6 +135,16 @@ LinkedIn Learning - available to all University staff and students from MyEd por
 
 [R Bloggers](https://www.r-bloggers.com/)
 
+[Digital Methods Initiative, University of Amsterdam] (https://wiki.digitalmethods.net/Dmi/ToolDatabase)
+
+[SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
+
+[Why R?](https://whyr.pl/foundation/)
+
+[Language Technology and Data Anylysis Laboratory](https://ladal.edu.au/tutorials.html)
+
+[Stanford Natural Language Processing Group](https://nlp.stanford.edu/)
+
 ## **Reading**
 
 Havens, Lucy. (2020) [_Exploring Collections as Data with Jupyter Notebooks_](https://data.nls.uk/projects/exploring-collections-as-data-with-jupyter-notebooks/). National Library of Scotland Data Foundry.
@@ -146,6 +156,9 @@ Tweedie, Brett. [_We Are What We Steal_](https://dxlab.sl.nsw.gov.au/we-are-what
 Bird, Steven and Klein, Ewan and Loper, Edward. (2019) _Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit_. O&#39;Reilly Media. 978-0-596-51649-9. [https://www.nltk.org/book/](https://www.nltk.org/book/).
 
 Alex, Beatrice. (2020)[_Geoparsing English Language Text with the Edinburgh Geoparser_](https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh). The Programming Historian.
+
+Silge, Julia and Robinson, David. [_Tidy Text Mining with R_](https://www.tidytextmining.com/index.html)
+
 
 ## **CDCS Upcoming training**
 - [Advanced Text Analysis. Topic Modelling with Python](https://www.cdcs.ed.ac.uk/events/intro-topic-modelling)14/04, 21/04, 24/04
