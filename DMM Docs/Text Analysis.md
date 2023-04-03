@@ -2,7 +2,8 @@
 
 03 April 2023
 
-## Author: Lucy Havens (lucy.havens@ed.ac.uk)
+## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk) 
+
 
 ## **Schedule**
 
@@ -20,7 +21,7 @@
 
 ## **What is text analysis?**
 
-Word frequencies
+Word/n-gram frequencies
 
 Sentence segmentation
 
@@ -40,7 +41,7 @@ Classification
 
 Sentiment analysis
 
-Topic modeling
+Topic modelling
 
 Word embeddings – to study meanings, how meanings change over time
 
@@ -50,9 +51,11 @@ To summarize HUGE amounts of text – &quot;distant reading&quot;
 
 To study the evolution of an author&#39;s vocabulary throughout their publication history
 
-To understand how positively/neutrally/negatively people are writing book reviews
+To study the differences in vocabulary or concepts in different groups of texts
 
-To identify places named in a text or _corpus_ (collection of texts)
+To understand how positively/neutrally/negatively people are writing book reviews or discussing certain topics
+
+To identify places or organizations named in a text or _corpus_ (collection of texts)
 
 ## **How can I do text analysis?**
 
@@ -64,17 +67,21 @@ To identify places named in a text or _corpus_ (collection of texts)
 
 James Baker, Rossitza Atanassova, Andrew Salway (2020). Computational Analysis of Catalogue Data (Version v2021.01.21). [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
 
-**Python** and Regular Expressions ( **RegEx** ) for simple queries (word counts, dataset size)
+Tools from media labs, such as the [Digital Methods Initiative, University of Amsterdam] (https://wiki.digitalmethods.net/Dmi/ToolDatabase) or the [SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
+
+**Python**, **R***, and Regular Expressions ( **RegEx** ) for simple queries (word counts, dataset size)
 
 [Pythex](https://pythex.org/)
 
 [The Programming Historian tutorials](https://programminghistorian.org/en/lessons/?topic=python)
 
-Python&#39;s **NLTK** is a popular text analysis library with many online resources, and it&#39;s open source (free!)
+Python&#39;s **NLTK** is a popular text analysis library with many online resources, and it&#39;s open source (free!) There are also libraries like spaCy and Gensim which are usable alongside NLTK for many advanced text processing operations, such as topic modelling and NER.
 
-Alex, Beatrice and Llewellyn, Clare. (2020) _Library Carpentry: Text &amp; Data Mining_. Centre for Data, Culture &amp; Society, University of Edinburgh. [http://librarycarpentry.org/lc-tdm/](http://librarycarpentry.org/lc-tdm/).
+R&#39;s **QUANTEDA** (Quantitative Analysis of Textual Data) is a popular text analysis package for R users, which has a variety of models and sample corpora built in for text analysis.
 
-You can write Python code using...
+Alex, Beatrice and Llewellyn, Clare. (2020) _Library Carpentry: Text &amp; Data Mining_. Centre for Data, Culture &amp; Society, University of Edinburgh. [http://librarycarpentry.org/lc-tdm/](http://librarycarpentry.org/lc-tdm/).8
+
+You can write Python and R code using...
 
 **Jupyter Notebooks** – becoming popular among digital humanists and in the GLAM sector
 
@@ -82,9 +89,12 @@ You can write Python code using...
 
 [GLAM Workbench](https://glam-workbench.github.io/) – introductions to using Python Jupyter Notebooks with data from galleries, libraries, archives, and museums
 
-**IDEs** (Integrated Development Environments) – for example, Atom
+**IDEs** (Integrated Development Environments) – for example, Atom, R studio (for R)
 
 See [The Programming Historian tutorials to get started](https://programminghistorian.org/en/lessons/?search=integrated+development+environment)
+
+The University of Edinburgh also runs [Notaeble](https://noteable.edina.ac.uk/), allowing students and staff members to run code in Jupyter notebooks and R studio.
+
 
 **What are important considerations when doing text analysis?**
 
@@ -106,6 +116,15 @@ For example: lowercasing (or &quot;casefolding&quot;) all words is useful when c
 
 If your text has been digitized using OCR (optical character recognition) or HRT (handwriting recognition technology), it WILL NOT be a perfect copy of the physical text, unless someone has manually reviewed and corrected the digitized text.
 
+If your text is in multiple languages, you may need different models for each of them (ie. different lemmatizers, different NER models)
+
+If your text has been scraped from the internet, in particular social media, you may have web-specific features to deal with, such as URLs, DOIs, hashtags, emojis, images, and references to other users. You should consider whether these have value for your research project and how they should be treated.
+
+Figure out the optimal method to answer your research questions or meet the objectives of your project, and what you’re trying to measure. Are you focused on words, entities, topics, etc.?
+
+Figure out how to present the results of your data. 
+
+
 ## **Additional Resources**
 
 LinkedIn Learning - available to all University staff and students from MyEd portal
@@ -113,6 +132,8 @@ LinkedIn Learning - available to all University staff and students from MyEd por
 [W3Schools Tutorials](https://www.w3schools.com/)
 
 [Stack Overflow](https://stackoverflow.com/)
+
+[R Bloggers](https://www.r-bloggers.com/)
 
 ## **Reading**
 
