@@ -30,6 +30,8 @@ Open research also helps to support collaboration within and across disciplines.
 
 All of this is underpinned by open research policies, practices and procedures that support those undertaking research. They raise awareness of expected standards and behaviours and promote wider systems changes for the benefit of the whole community.
 
+The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/02opensciencebasics).
+
 
 ## Concept to get familiar with
 
@@ -38,7 +40,7 @@ All of this is underpinned by open research policies, practices and procedures t
 - [Open data](https://pplsopenresearch.github.io/docs/guides/open_data.html)
 - [Meta data](https://library.bath.ac.uk/research-data/working-with-data/data-documentation-metadata)
 - [FAIR principle](https://www.nature.com/articles/sdata201618#Sec6)
-- [Reproducible work flow](https://pplsopenresearch.github.io/docs/guides/reproducible_workflow.html)
+- [Reproducible work flow](https://www.nature.com/articles/s41562-016-0021)
 - [Version control](https://github.com/DCS-training/VersionControl)
 - [Preregistration and registered reports](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Preregistration.md)
 
