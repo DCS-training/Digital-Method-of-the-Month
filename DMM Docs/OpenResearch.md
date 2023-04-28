@@ -61,7 +61,7 @@ You can Open Research practices at any point in your research flow: Start from p
 - [CDCS training on preregistration](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Preregistration.md), next Tuesday (May 9, 2023)
 - [ReproducibiliTea Edinburgh chapter](https://research-training-centre.sps.ed.ac.uk/edinburgh-reproducibilitea/) (follow their twitter!)
 - [University Open Research Service](https://www.ed.ac.uk/information-services/research-support/open-research) (sign up their mailing list!)
-- [Edinburgh Open Research Conference 2023](https://www.ed.ac.uk/information-services/research-support/open-research/edinburgh-open-research-conference)
+- [Edinburgh Open Research Conference 2023](https://www.ed.ac.uk/information-services/research-support/open-research/edinburgh-open-research-conference) (May 15-17, 2023)
 - [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/02opensciencebasics)
 - [PPLS Open Research Hub](https://pplsopenresearch.github.io/docs/resources.html)
 
