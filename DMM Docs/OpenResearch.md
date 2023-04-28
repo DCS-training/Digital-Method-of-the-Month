@@ -30,8 +30,6 @@ Open research also helps to support collaboration within and across disciplines.
 
 All of this is underpinned by open research policies, practices and procedures that support those undertaking research. They raise awareness of expected standards and behaviours and promote wider systems changes for the benefit of the whole community.
 
-The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/02opensciencebasics).
-
 
 ## Concept to get familiar with
 
@@ -45,6 +43,10 @@ The [Open Science Training Handbook](https://open-science-training-handbook.gitb
 - [Preregistration and registered reports](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Preregistration.md)
 
 
+## Timing
+
+You can Open Research practices at any point in your research flow: Start from planning an open and reproducible work flow, document your designs, pre-register your studies, openly share your research data (with good documentation), keep versions of data analysis/coding and make them openly accessible, publish your papers open access, or upload your papers on a preprint server (or even your own personal website) if you cannot afford APC.
+
 ## Easy Pitfalls
 
 - Bro-science
@@ -53,6 +55,15 @@ The [Open Science Training Handbook](https://open-science-training-handbook.gitb
 - Reproducibility under rapid tech development
 - Awareness
 
+
+## Where to start
+
+- [CDCS training on preregistration](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Preregistration.md), next Tuesday (May 9, 2023)
+- [ReproducibiliTea Edinburgh chapter](https://research-training-centre.sps.ed.ac.uk/edinburgh-reproducibilitea/) (follow their twitter!)
+- [University Open Research Service](https://www.ed.ac.uk/information-services/research-support/open-research) (sign up their mailing list!)
+- [Edinburgh Open Research Conference 2023](https://www.ed.ac.uk/information-services/research-support/open-research/edinburgh-open-research-conference)
+- [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/02opensciencebasics)
+- [PPLS Open Research Hub](https://pplsopenresearch.github.io/docs/resources.html)
 
 **FEEDBACK**
 
