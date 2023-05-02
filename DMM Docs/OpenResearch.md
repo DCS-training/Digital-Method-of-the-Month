@@ -22,13 +22,15 @@
 
 ## Intro
 
-Open research, also widely referred to as open science, relates to how research is performed and how knowledge is shared based on the principle that research should be as open as possible. It also enables research to take advantage of digital technology.
+According to [UKRI](https://www.ukri.org/what-we-offer/supporting-healthy-research-and-innovation-culture/open-research/):
 
-Transparency, openness, verification and reproducibility are important features of research and innovation. Open research helps to support and uphold these features across the whole lifecycle of research – improving public value, research integrity, re-use and innovation.
-
-Open research also helps to support collaboration within and across disciplines. It is integral to a healthy research culture and environment.
-
-All of this is underpinned by open research policies, practices and procedures that support those undertaking research. They raise awareness of expected standards and behaviours and promote wider systems changes for the benefit of the whole community.
+> Open research, also widely referred to as open science, relates to how research is performed and how knowledge is shared based on the principle that research should be as open as possible. It also enables research to take advantage of digital technology.
+>
+> Transparency, openness, verification and reproducibility are important features of research and innovation. Open research helps to support and uphold these features across the whole lifecycle of research – improving public value, research integrity, re-use and innovation.
+>
+> Open research also helps to support collaboration within and across disciplines. It is integral to a healthy research culture and environment.
+>
+> All of this is underpinned by open research policies, practices and procedures that support those undertaking research. They raise awareness of expected standards and behaviours and promote wider systems changes for the benefit of the whole community.
 
 
 ## Concept to get familiar with
