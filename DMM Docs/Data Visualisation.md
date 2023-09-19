@@ -2,9 +2,9 @@
 
 # Data Visualisation
 
-# 26-09-2022
+# 25-09-2023
 
-## Authors: L.Michielin (lucia.michielin@ed.ac.uk), A. McLean (andrew.mclean@ed.ac.uk) and E.Sikahall Urizar
+## Authors: L.Michielin (lucia.michielin@ed.ac.uk), R.Davies (rdavies7@ed.ac.uk).
 
 ##  Schedule
 
@@ -91,7 +91,7 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 R
 
 - Tidyverse
-- Ggplot
+- ggplot2
 
 Python
 
