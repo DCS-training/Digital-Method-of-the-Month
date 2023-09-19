@@ -35,7 +35,6 @@
 - [Grammar of Graphics](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
 - [Kaggle comunity for Machine Learning and Data science community](https://www.kaggle.com/)
 
-
 ## Time
 
 - How much will it take to learn?
@@ -45,6 +44,7 @@
 
 - Wrong graph
 - Misleading charts
+- Miscommunicating your model/research
 - Overkilling
 - Lack of units of measurments
 
@@ -53,6 +53,13 @@
 - [Understanding what are you saving and where (Project/working directory/notebooks)](https://www.sciencedirect.com/topics/mathematics/working-directory)
 - Overwrite code
 - Multiple variables with the same name
+
+## What data visualisation can offer
+- Customisability.
+- Exploration and verification of your research.
+- Clear communication of your research.
+- Creativity to your presentations.
+- Interactive designs (when using software such as shiny, Tableau or powerBI).
 
 ## Software/Languages
 
