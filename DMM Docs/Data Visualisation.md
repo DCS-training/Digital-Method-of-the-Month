@@ -81,7 +81,7 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 - [https://blog.revolutionanalytics.com/2012/07/a-big-list-of-the-things-r-can-do.html](https://blog.revolutionanalytics.com/2012/07/a-big-list-of-the-things-r-can-do.html)
 - [(https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)](https://simplystatistics.org/posts/2019-03-13-10-things-r-can-do-that-might-surprise-you/#:~:text=10%20things%20R%20can%20do%20that%20might%20surprise,and%20pull%20data%20with%20dplyr%2Fdbplyr%20...%20More%20items)
 - Collection of E-Books on different aspects of R[https://bookdown.org/](https://bookdown.org/)
-- For web applications and interactive data visualisation there is the [Shiny](https://www.rstudio.com/products/shiny/)application in R.  
+- For web applications and interactive data visualisation there is the [Shiny](https://www.rstudio.com/products/shiny/) application in R.  
 - About increasing the amount of work you can do with R in a given amount of time. [https://csgillespie.github.io/efficientR/](https://csgillespie.github.io/efficientR/)
 - This book cover the basics of the R principles for Data Science [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 - The following chapter provides an overview of all the ways ggplot and the tidyverse can facilitate your data vis needs with R[(https://r4ds.had.co.nz/data-visualisation.html) ](https://r4ds.hadley.nz/data-visualize.html).
