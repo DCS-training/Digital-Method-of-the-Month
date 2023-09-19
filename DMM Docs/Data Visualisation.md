@@ -76,6 +76,7 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 - Collection of E-Books on different aspects of R[https://bookdown.org/](https://bookdown.org/)
 - About increasing the amount of work you can do with R in a given amount of time. [https://csgillespie.github.io/efficientR/](https://csgillespie.github.io/efficientR/)
 - This book cover the basics of the R principles for Data Science [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
+- The following chapter provides an overview of all the ways ggplot and the tidyverse can facilitate your data vis needs with R[(https://r4ds.had.co.nz/data-visualisation.html) ](https://r4ds.hadley.nz/data-visualize.html).
 - This is a good book on R but also general concepts: https://socviz.co/
 
 **Python**
@@ -92,6 +93,7 @@ R
 
 - Tidyverse
 - ggplot2
+- jtools
 
 Python
 
@@ -115,16 +117,15 @@ Python
 **CDCS LIVE UPCOMING TRAINING**
 
 To Learn how to Code
-- [Intro to R and R Studio](https://www.cdcs.ed.ac.uk/events/introduction-to-r-and-rstudio)
-- [Intro to programming with Python](https://www.cdcs.ed.ac.uk/events/introduction-to-python)
+- [Intro to R and R Studio](https://www.cdcs.ed.ac.uk/events/intro-to-r-rstudio)
+- [Intro to programming with Python](https://www.cdcs.ed.ac.uk/events/intro-to-python)
 
 On Data Vis
-- [Silent Disco: effective data vis](https://www.cdcs.ed.ac.uk/events/silent-disco-effective-data-visualisation) 
-- [Data Carpentry](https://www.cdcs.ed.ac.uk/events/data-carpentry) 
-- [How to Generate Good Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/good-data-visualisations-with-r) 
-- [Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/data-visualisation-r/) 
-- [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/introduction-to-qgis-geospatial-data) 
-- [Data Visualisatipn Pathway of Learning](https://www.cdcs.ed.ac.uk/training/training-pathways/data-visualisation)
+- [Silent Disco: effective data vis](https://www.cdcs.ed.ac.uk/events/silent-disco-effective-data-visualisation-2023)
+- [Data Carpentry](https://www.cdcs.ed.ac.uk/events/data-carpentry-2023)
+- [How to Generate Good Data Visualisation in R](https://www.cdcs.ed.ac.uk/events/good-data-vis-with-r)
+- [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/intro-to-gis-23)
+- [Data Visualisatipn Pathway of Learning](https://www.cdcs.ed.ac.uk/training/training-pathways/data-visualisation-pathway)
 
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
