@@ -67,7 +67,7 @@
 - R and R studio
 
 Non coding options
-- For Networking visualisation: [Gephi](https://gephi.org/), [The Vistorian](http://vistorian.net/)
+- For Networking visualisation: [Gephi](https://gephi.org/), [The Vistorian](https://vistorian.github.io/)
 - [Tableau](https://www.tableau.com/en-gb), [Datawrapper](https://www.datawrapper.de/), [Gale Digital scholar Lab](https://go.gale.com/ps/start.do?p=DSLAB&u=ed_itw)
 - [Comparison of main non-coding options](https://www.toptal.com/designers/data-visualization/data-visualization-tools)
 
