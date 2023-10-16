@@ -4,7 +4,7 @@
 
 # 08/11/2022
 
-## Authors: L.Michielin, S. Bordoni, A. McLean, J. Page
+## Authors: L.Michielin, S. Bordoni, A. McLean, J. Page, K. Tong
 
 ## Today's Schedule
 
@@ -114,7 +114,7 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 
 **CDCS LIVE UPCOMING TRAINING ON GIS**
 
-- 24/11/22-08/12/22 [Introduction to QGIS and Geospatial Data/](https://www.cdcs.ed.ac.uk/events/introduction-to-qgis-geospatial-data) 
+- 20/10/23-27/10/23 [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/intro-to-gis-23) 
 - More to come on the second Semester (Webgis, Geographical Data analysis with R, Geospatial Data Visualsiation etc..)
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
