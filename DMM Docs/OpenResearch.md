@@ -40,7 +40,7 @@ According to [UKRI](https://www.ukri.org/what-we-offer/supporting-healthy-resear
 - [Open data](https://pplsopenresearch.github.io/docs/guides/open_data.html)
 - [Meta data](https://library.bath.ac.uk/research-data/working-with-data/data-documentation-metadata)
 - [FAIR principle](https://force11.org/info/the-fair-data-principles/)
-- [Reproducible work flow](https://www.nature.com/articles/s41562-016-0021)
+- [Reproducible work flow](https://pplsopenresearch.github.io/docs/guides/reproducible_workflow.html)
 - [Version control](https://github.com/DCS-training/VersionControl)
 - [Preregistration and registered reports](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Preregistration.md)
 
