@@ -2,7 +2,7 @@
 
 **Preregistration**
 
-**09/05/2023**
+**17/11/2023**
 
 **Schedule**
 
@@ -16,7 +16,7 @@
 
 **12:35 - 12:50 How to preregister your next study (template and platform)**
 
-**12:50-13:00 Wrap-up and Q&amp;A**
+**12:50-13:00 Wrap-up and Q&A**
 
 **Intro:**
 
