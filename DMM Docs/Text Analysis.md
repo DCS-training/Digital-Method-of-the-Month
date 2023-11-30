@@ -1,6 +1,6 @@
 # **Digital Method of the Month: Text Analysis**
 
-03 April 2023
+04 December 2023
 
 ## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk) 
 
