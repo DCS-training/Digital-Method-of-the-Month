@@ -161,9 +161,7 @@ Silge, Julia and Robinson, David. [_Tidy Text Mining with R_](https://www.tidyte
 
 
 ## **CDCS Upcoming training**
-- [Advanced Text Analysis. Topic Modelling with Python](https://www.cdcs.ed.ac.uk/events/intro-topic-modelling)14/04, 21/04, 24/04
-- [Silent Disco. Sentiment Analysis with Python](https://www.cdcs.ed.ac.uk/events/silent-disco-sentiment-analysis-with-python) 20/04
-- [Silent Disco: Interrogating a National Narrative with GPT-2 (large-scale corpus)](https://www.cdcs.ed.ac.uk/events/silent-disco-interrogating-a-national-narrative)
+- More to come in the second semester
 
 
 
