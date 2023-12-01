@@ -2,7 +2,7 @@
 
 04 December 2023
 
-## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk) 
+## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk), Jessica Witte (jessica.wite@ed.ac.uk)  
 
 
 ## **Schedule**
@@ -18,8 +18,31 @@
 12:55 Wrap up (5 minutes)
 
 
-
 ## **What is text analysis?**
+
+The computational exploration of language and linguistic features in textual data
+
+Datasets can be _structured_ or _unstructured_:
+
+-Structured data contains an observable organisational pattern (e.g. could be stored in a spreadsheet or database: multiple choice survey results, library metadata, census data)
+
+-Unstructured data does not (digitised novels by Jane Austen, transcribed interviews, open-ended survey results)
+
+
+## **Why would I use text analysis?**
+
+To summarize HUGE amounts of text 
+
+To study the evolution of an author&#39;s vocabulary throughout their publication history
+
+To study the differences in vocabulary or concepts in different groups of texts
+
+To understand how positively/neutrally/negatively people are writing book reviews or discussing certain topics
+
+To identify places or organizations named in a text or _corpus_ (collection of texts)
+
+
+## **Some common text analysis methods:**
 
 Word/n-gram frequencies
 
@@ -45,17 +68,6 @@ Topic modelling
 
 Word embeddings – to study meanings, how meanings change over time
 
-## **Why would I use text analysis?**
-
-To summarize HUGE amounts of text – &quot;distant reading&quot;
-
-To study the evolution of an author&#39;s vocabulary throughout their publication history
-
-To study the differences in vocabulary or concepts in different groups of texts
-
-To understand how positively/neutrally/negatively people are writing book reviews or discussing certain topics
-
-To identify places or organizations named in a text or _corpus_ (collection of texts)
 
 ## **How can I do text analysis?**
 
@@ -161,7 +173,7 @@ Silge, Julia and Robinson, David. [_Tidy Text Mining with R_](https://www.tidyte
 
 
 ## **CDCS Upcoming training**
-- More to come in the second semester
+- More to come in the second semester (https://www.cdcs.ed.ac.uk/training)
 
 
 
