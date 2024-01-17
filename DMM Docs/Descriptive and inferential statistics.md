@@ -1,4 +1,4 @@
-#Digital Method of the Month
+# Digital Method of the Month
 
 ## Descriptive and inferential statistics
 
