@@ -36,7 +36,7 @@
 
     -   It allows for conclusions based on extrapolations, and so is fundamentally different from descriptive statistics.
 
-    -   Note that the inferential statistics usually suggest but cannot absolutely prove an explanation or cause-and-effect relationship.
+    -   Note that inferential statistics usually suggest but cannot absolutely prove an explanation or cause-and-effect relationship.
 
     -   Often inferential statistics help to draw conclusions about an entire population by looking at only a sample of the population.
 
@@ -73,31 +73,29 @@ Depending on the type of analysis you are going to conduct, there are different 
 
 ## Training
 
--   <https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-linear-modelling>
+-   [Digital Method of the Month: Focus on Statistical Methods Part 2 - Linear Modelling](https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-linear-modelling) 01 Feb 2024 12:00-13:00
 
--   <https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-simulation>
+-   [Digital Method of the Month: Focus on Statistical Methods Part 3 - Simulation](https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-simulation) 07 Feb 2024 12:00-13:00
 
--   <https://www.cdcs.ed.ac.uk/events/spss-to-r>
+-   [From SPSS to R: How to Make Your Statistical Analysis Reproducible](https://www.cdcs.ed.ac.uk/events/spss-to-r) 19 -26 Feb 2024 10:00-12:00
 
--   <https://www.cdcs.ed.ac.uk/events/causal-inference> 6 Mar 2024 14:00 - 16:00.
+-   [A Gentle Introduction to Causal Inference](https://www.cdcs.ed.ac.uk/events/causal-inference) 6 Mar 2024 14:00 - 16:00.
 
--   <https://www.cdcs.ed.ac.uk/events/intro-to-network-analysis-gephi>
+-   [Digital Method of the Month: Machine Learning](https://www.cdcs.ed.ac.uk/events/digital-method-month-machine-learning) 05 Apr 12:00-13:00
 
--   <https://www.cdcs.ed.ac.uk/events/digital-method-month-machine-learning>
+-   [Introduction to Machine Learning with Python](https://www.cdcs.ed.ac.uk/events/intro-machine-learning-python) 08-15 Apr 14:00-16:00
 
--   <https://www.cdcs.ed.ac.uk/events/intro-machine-learning-python>
+-   [Interactive Analysis Reports with R Markdown](https://www.cdcs.ed.ac.uk/events/interactive-analysis-reports-r-markdown) 11 Apr 10:00-12:00
 
--   <https://www.cdcs.ed.ac.uk/events/interactive-analysis-reports-r-markdown>
+-   [Introduction to Bayesian Statistics](https://www.cdcs.ed.ac.uk/events/intro-bayesian-statistics) 17-24 Apr 14:00-16:00
 
--   <https://www.cdcs.ed.ac.uk/events/intro-bayesian-statistics>
+-   [Null Hypothesis Testing in R](https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-r) 18-25 Apr 10:00-12:00
 
--   <https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-r>
+-   [Regression and Mixed Effects Modelling](https://www.cdcs.ed.ac.uk/events/regression-mixed-effects-modelling) 29 Apr -13 May 14:00-16:00
 
--   <https://www.cdcs.ed.ac.uk/events/regression-mixed-effects-modelling>
+### Self-learning and External courses
 
-### Self learning and External courses
-
-Material and online courses on statistics are many. Here is a small selection to help you kick-off.
+Material and online courses on statistics are many. Here is a small selection to help you kick off.
 
 -   <https://quantitudepod.org/> - My favourite geeky podcast. Full of gems on statistical analyses and navigating academic careers..
 -   <https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw>(Fantastic youtube channel that explains in an easy way complex statistical concepts)
@@ -118,7 +116,7 @@ Material and online courses on statistics are many. Here is a small selection to
 
 ## Feedback
 
--   [https://forms.office.com/r/YYNrqvuNr8](https://forms.office.com/r/pfqHFYqvfS)
+- <https://forms.office.com/r/YYNrqvuNr8>
 
 ## Additional Resources
 
