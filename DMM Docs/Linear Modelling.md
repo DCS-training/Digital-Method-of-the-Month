@@ -1,4 +1,4 @@
-# Digital Method of the Month
+![image](https://github.com/DCS-training/Digital-Method-of-the-Month/assets/63371314/6e6fe4c7-74fa-4657-85d6-18eef94e214e)# Digital Method of the Month
 
 ## Linear Modelling
 
@@ -32,6 +32,10 @@ These linear models can be used for a variety of reasons in analyses:
 
 -   To help draw conclusions about an entire population by looking at a sample of the population.
 
+To get an overview of linear regression and other related regression models, you may find this guide helpful: ["Regression analysis: The ultimate guide"](https://www.qualtrics.com/uk/experience-management/research/regression-analysis/).
+For more in-depth understanding, check out this book: ["Analysing Data using Linear Models"] (https://bookdown.org/pingapang9/linear_models_bookdown/). 
+
+
 ## Time
 
 -   How much will it take to learn?
@@ -64,8 +68,25 @@ These linear models can be used for a variety of reasons in analyses:
 -   [Reporting conventions](https://apastyle.apa.org/style-grammar-guidelines/tables-figures).
 -   [Correlation is not causation](https://www.tylervigen.com/spurious-correlations) (But it can be sometimes!)
 -   Are your variables correctly specified? (This is a scarier issue for SPSS, as it can ignore your data labelling when using regression analysis).
--   Interpreting categorical variables and model intercepts - how to spot the ["reference"](https://www.statology.org/dummy-variables-regression/) variable, and interpret what it means.
--   Testing your model assumptions, and understanding what these mean for the interpretation of your analysis?
+-   Interpreting categorical variables and model intercepts - how to spot the ["reference"](https://www.statology.org/dummy-variables-regression/) variable, and interpret what it means. You may also need to specify your ["contrast coding"](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis-2/) using a different approach.
+
+#### Model assumptions 
+
+-   Testing your ["model assumptions"] (https://bookdown.org/pingapang9/linear_models_bookdown/chap-assumptions.html; https://people.duke.edu/~rnau/testing.html), and understanding what these mean for the interpretation of your analysis.
+      Linearity of relationships 
+	    Independence of residuals 
+	    Normality of residuals
+      Equal variances for residuals
+
+#### Repreated measures and Linear Mixed-effects Models 
+
+-    If you have repeated meatures, this would mean that your data are not independent. This then violates the independence of residuals assumption of simple linear regression, and as such it is inappropriate to use this method to anlayse such data. In this case, what you can do is to use linear mixed effects models.
+  
+-    Suppose, you want to study the effectiveness of a new drug on 5 groups of patients recruited from 5 different wards in a particular hospital over 10 weeks. You measure the effect of this drug on every individual patient every Friday, and you do this for ten weeks. Now, the data points you collect are not independent because they either come from the very same participant, or from the same ward (beling looked after by the same medics team). In other words, the data are clusterd/grouped by participants and by wards. Now you can hopefully see that such by-particiapnt individual difference and by-ward difference would have unstrcutured effects on your outcome variable (i.e., the effectiveness of the drug). You cannot ignore such grouping/clustering effects. A good way to deal with them is to include them as random effects using linear mixed effects models. Your predictor variables are included in the model as fixed effects just as how you do it when building a simple linear regression.
+
+-   An accesible book that explains all you need to know about linear mixed effects modelling (R code provided)
+     Vasishth et al. (2022) Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction.
+    (https://vasishth.github.io/Freq_CogSci/)
 
 ## Software
 
@@ -78,8 +99,6 @@ Depending on the type of analysis you are going to conduct, there are different 
 -   [STATA](https://www.stata.com/).
 
 ## Training
-
--   [Digital Method of the Month: Focus on Statistical Methods Part 2 - Linear Modelling](https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-linear-modelling) 01 Feb 2024 12:00-13:00
 
 -   [Digital Method of the Month: Focus on Statistical Methods Part 3 - Simulation](https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-simulation) 07 Feb 2024 12:00-13:00
 
@@ -175,6 +194,9 @@ R Studio will enable you to perform statistical analyses on your data. The follo
 
 -   [Simple linear regression](http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/)
 
+**Linear Mixed Regression**
+ - <https://vasishth.github.io/Freq_CogSci/> 
+ 
 **Other Type of Regressions**
 
 -   [Bivariate regression](https://www.linkedin.com/learning/r-statistics-essential-training/computing-a-bivariate-regression?autoplay=true&u=50251009)
