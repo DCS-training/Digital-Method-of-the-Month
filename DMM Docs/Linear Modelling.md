@@ -1,4 +1,4 @@
-![image](https://github.com/DCS-training/Digital-Method-of-the-Month/assets/63371314/6e6fe4c7-74fa-4657-85d6-18eef94e214e)# Digital Method of the Month
+# Digital Method of the Month
 
 ## Linear Modelling
 
