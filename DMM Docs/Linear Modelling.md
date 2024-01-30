@@ -182,7 +182,7 @@ R Studio will enable you to perform statistical analyses on your data. The follo
 
 -   <https://en.wikipedia.org/wiki/Correlation_and_dependence>
 
--   If you want to have some fun learning how to eyeballing the correlation between 2 variables here is a nice website to play with [http://guessthecorrelation.com/](https://www.datanovia.com/en/blog/cluster-analysis-in-r-practical-guide/)
+-   If you want to have some fun learning how to eyeballing the correlation between 2 variables here is a nice website to play with [http://guessthecorrelation.com/](http://guessthecorrelation.com/).
 
 -   <https://www.linkedin.com/learning/r-statistics-essential-training/calculating-correlation?autoplay=true&u=50251009>
 
