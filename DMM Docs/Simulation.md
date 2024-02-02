@@ -1,6 +1,6 @@
 # Digital Method of the Month
 
-## Focus on Statistical Methods: kjhgSimulation
+## Focus on Statistical Methods: Simulation
 
 **Date**: 7 February 2024
 
@@ -58,7 +58,7 @@ Being able to simulate data allows you to:
 For simulation, we would recommend either R or Python.
 
 - In R, there is a family of functions for every distribution, one of which allows you to generate random data from that distribution e.g. ``rbinom`` (binomial distribution), ``rnorm`` (normal distribution), ``runif`` (uniform distribution). The [``faux`` package](https://debruine.github.io/project/faux/) also contains some pre-made functions to help you simulate different kinds of study design (e.g. between vs. within-subjects).
-- In Python, the ``scipy.stats`` library contains a family of functions for every distribution, including the ``rvs``function to generate random data from that distribution. The built-in ``random`` module also contains functions for some simple simulation methods e.g. random sampling, random shuffling, random number generation, and random choices from a list.
+- In Python, the ``scipy.stats`` library contains a family of functions for every distribution, including the ``rvs`` function to generate random data from that distribution. The built-in ``random`` module also contains functions for some simple simulation methods e.g. random sampling, random shuffling, random number generation, and random choices from a list.
 
 ## Resources
 
