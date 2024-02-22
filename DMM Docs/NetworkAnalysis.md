@@ -40,13 +40,13 @@ Interactive frameworks for network analysis and visualisation such as Gephi enab
 
 ## Concept to get familiar with
 
-- Edge characteristics
+o Edge characteristics
 
 o Directional or unidirectional networks: is node 1 connecting to node 2 but not the other way around?
 
 o Weights: how strong is the connection between the nodes
 
-- Centrality measures (nodes)
+o Centrality measures (nodes)
 
 o Degree centrality: number of edges linked to each node (popularity, well connected)
 
