@@ -48,7 +48,7 @@ o Weights: how strong is the connection between the nodes
 
 o Centrality measures (nodes)
 
-o Degree centrality: number of edges linked to each node (popularity, well connected)
+o [Degree centrality](www.com): number of edges linked to each node (popularity, well connected)
 
 o Betweenness centrality: the number of times a node is on the shortest path between other nodes (bridges, gatekeepers)
 
