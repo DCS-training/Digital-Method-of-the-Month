@@ -48,15 +48,15 @@ o Weights: how strong is the connection between the nodes
 
 o Centrality measures (nodes)
 
-o [Degree centrality](www.com): number of edges linked to each node (popularity, well connected)
+o [Degree centrality](https://www.martingrandjean.ch/wp-content/uploads/2015/10/Gephi-introduction.pdf): number of edges linked to each node (popularity, well connected)
 
-o Betweenness centrality: the number of times a node is on the shortest path between other nodes (bridges, gatekeepers)
+o [Betweenness centrality](https://www.martingrandjean.ch/wp-content/uploads/2015/10/Gephi-introduction.pdf): the number of times a node is on the shortest path between other nodes (bridges, gatekeepers)
 
 o Closeness centrality: closeness or distance to other nodes in the network (how far from all others)
 
-o EigenCentrality: similar to degree centrality, but takes into account the centrality of the nodes it's connected to
+o [Eigenvector centrality](https://neo4j.com/docs/graph-data-science/current/algorithms/eigenvector-centrality/#:~:text=Eigenvector%20Centrality%20is%20an%20algorithm,who%20themselves%20have%20high%20scores): similar to degree centrality, but takes into account the centrality of the nodes it's connected to
 
-o PageRank: similar to EigenCentrality, but also takes into account the weight and direction of the edges
+o [PageRank](https://medium.com/polo-club-of-data-science/pagerank-algorithm-explained-with-examples-a5e25e2594c9): similar to EigenCentrality, but also takes into account the weight and direction of the edges
 
 ## Easy Pitfalls
 
