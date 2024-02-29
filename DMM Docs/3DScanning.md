@@ -2,7 +2,7 @@
 
 # 3D Scanning
 
-# 07-03-2023
+# 05-03-2024
 
 #
 ## Today&#39;s schedule
@@ -15,14 +15,14 @@
 
 12:25 –12:50 discussion using this document
 
-12:50-13:00 discuss available resources, way forwards and wrapping up
+12:50-13:00 Discuss available resources, way forward and wrapping up
 
 #
 ## Intro
 
-3D Scanning is the action of recording and analysing three-dimensional data concerning objects and places. The usual outcome is a 3D model that can then further processed.
+3D Scanning is the action of recording and analysing three-dimensional data concerning objects and places. The usual outcome is a 3D model that can then be further processed.
 
-The methodology available are different and works on different principles and they have quite different costs both for what concern time and machines needed. Additionally, depending on the target you aim to shoot certain techniques can be better than other. E.g. if your target is under water you will have to use sonograms or photogrammetry while laser scanners will not work.
+The methodologies available are different and work on different principles and they have quite different costs both for what concern time and machines needed. Additionally, depending on the target you aim to shoot certain techniques can be better than others. E.g. if your target is under water you will have to use sonograms or photogrammetry while laser scanners will not work.
 
 #
 ## Concept to get familiar with
@@ -53,7 +53,7 @@ The methodology available are different and works on different principles and th
 
 - Processing times
 - Learning curve
-- On site processing vs postprocessing
+- On-site processing vs postprocessing
 - Storage Space
 - Processing power
 - Principles vs using a machine/software
@@ -61,7 +61,7 @@ The methodology available are different and works on different principles and th
 #
 ## Software
 
-Every equipment will come with its propriety software but there are a series of processing software you may want to get accustomed with
+Every piece of equipment will come with its propriety software but there are a series of processing software you may want to get accustomed with
 
 - MeshLab: Open-source tool for processing 3D data
 - Metashape (Previously PhotoScan) - Propriety software to do SfM
@@ -69,21 +69,21 @@ Every equipment will come with its propriety software but there are a series of 
 - 3DF Zephyr - Propriety software to do SfM
 - Blender - 3D modelling Open software
 
-#
+
 ## What should I choose?
 
 Below are a series of factors you may want to consider before deciding which technology to adopt
 
 - **Target** (Scale, precision, logistics)
 - **Resources** (Money and equipment eventually available)
-- **Times** (On site and postprocessing)
-- **Level of customisation** (Some tools are easily to use than other)
+- **Times** (On-site and postprocessing)
+- **Level of customisation** (Some tools are easier to use than others)
 
 **CDCS LIVE UPCOMING TRAINING**
 
-- **13 March - 28 March** (3 sessions): **From Photos to 3D Models. Introduction to Photogrammetry.** [https://www.cdcs.ed.ac.uk/events/photogrammetry](https://www.cdcs.ed.ac.uk/events/photogrammetry)
-- **14 March: Walking tour of the 3D Printing Facilities** [https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities](https://www.cdcs.ed.ac.uk/events/walking-tour-of-3d-printing-facilities)
-- **28 April - 5 May** (2 sessions): **Data in AutoCAD.**  Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner](https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner)
+- **15 March: Introduction to Photogrammetry with the Arago Photogrammetric Rig.** [https://www.cdcs.ed.ac.uk/events/intro-photogrammetry-arago-rig](https://www.cdcs.ed.ac.uk/events/intro-photogrammetry-arago-rig)
+- **20 - 27 March** (2 sessions)**: Digital Drawing with AutoCAD** [https://www.cdcs.ed.ac.uk/events/digital-drawing-autocad-SS24](https://www.cdcs.ed.ac.uk/events/digital-drawing-autocad-SS24)
+- **25 March - 1 April** (2 sessions): **Recording 3D Data: Lidar Scanner Tutorials.**  Learn how to operate the University of Edinburgh&#39;s BLK360 LIDAR scanners. The two sessions will cover set up and data capture, convert raw LIDAR scan data into point cloud format for use in a range of post-processing and analysis software. [https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner](https://www.cdcs.ed.ac.uk/events/recording-3d-data-lidar-scanner)
 
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
