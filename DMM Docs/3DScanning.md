@@ -25,7 +25,7 @@
 The methodologies available are different and work on different principles and they have quite different costs both for what concern time and machines needed. Additionally, depending on the target you aim to shoot certain techniques can be better than others. E.g. if your target is under water you will have to use sonograms or photogrammetry while laser scanners will not work.
 
 ## Which Technique
-![Image](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/3DScanningTree.png))
+![Image](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/3DScanningTree.png)
 
 ## Concept to get familiar with
 
