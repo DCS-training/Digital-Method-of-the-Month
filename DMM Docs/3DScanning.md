@@ -24,7 +24,9 @@
 
 The methodologies available are different and work on different principles and they have quite different costs both for what concern time and machines needed. Additionally, depending on the target you aim to shoot certain techniques can be better than others. E.g. if your target is under water you will have to use sonograms or photogrammetry while laser scanners will not work.
 
-#
+## Which Technique
+![Image](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/3DScanningTree.png))
+
 ## Concept to get familiar with
 
 - [Contact vs remote scanning](https://www.aniwaa.com/guide/3d-scanners/3d-scanning-technologies-and-the-3d-scanning-process)
@@ -42,13 +44,13 @@ The methodologies available are different and work on different principles and t
 
 ![](RackMultipart20210401-4-35lrfq_html_7ed188e86297a721.jpg)
 
-#
+
 ## Time
 
 - How much will it take to learn?
 - Is it possible to self-learn?
 
-#
+
 ## Easy Pitfalls
 
 - Processing times
@@ -58,7 +60,7 @@ The methodologies available are different and work on different principles and t
 - Processing power
 - Principles vs using a machine/software
 
-#
+
 ## Software
 
 Every piece of equipment will come with its propriety software but there are a series of processing software you may want to get accustomed with
