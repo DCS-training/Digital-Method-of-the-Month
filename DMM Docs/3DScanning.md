@@ -70,6 +70,7 @@ Every piece of equipment will come with its propriety software but there are a s
 - Python Photogrammetry Toolbox - Open software to do SfM
 - 3DF Zephyr - Propriety software to do SfM
 - Blender - 3D modelling Open software
+- Meshroom - Open Software to do SfM
 
 
 ## What should I choose?
