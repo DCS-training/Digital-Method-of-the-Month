@@ -1,8 +1,8 @@
-# Digital Method of the Month: Machine Learning
+# Digital Method of the Month 
+## Machine Learning
 
-
-## Latest Author: Christopher A Oldnall
-## Previous Contributors: E. Martorell Toledano, Bhargavi Ganesh
+**Date**: 5th April 2024
+**Hosted By**: Chris Oldnall
 
 ## Schedule
 
@@ -85,3 +85,8 @@ Looking for patterns in the data, without an idea of what we are looking for yet
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## Author List
+### Latest Author: Christopher A Oldnall
+### Previous Contributors: E. Martorell Toledano, Bhargavi Ganesh
+
