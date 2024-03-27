@@ -17,26 +17,27 @@
 
 **12:50&ndash;13:00**: Signposting to available resources and wrapping up.
 
-## Outline
+## Introduction
 
-1. What is machine learning?
+What is machine learning?
 Machine learning is the process of using data to "train" a model to perform based on the patterns found in the data. There are various different types of methods used for model training, and the methods used differ if you are doing supervised or unsupervised learning (defined below). Machine learning is popular as a method these days because it is more efficient and less expensive to train and maintain machine learning models than it is to maintain rule-based systems. The use of machine learning has also enabled people to learn patterns that they would not have otherwise seen in the data, enabling insights from application areas that previously were not as well understood. These methods have been popularized by the increasing availability of data.
 
-2. Supervised Learning
+## Key concepts
+
+### Supervised Learning
 When we have a set of data, we typically have a very clear idea of what we want to use it for. Typically this is either understanding the relationship between two variables, or to use it to determine the output of some outcome when given a load of new data without the outcome. For supervised learning we need complete sets of data (with both predictors and outcome) and can do one of two things:
 - Regression --> typically involves predicting a value
 - Classification --> typically involves putting things into set categories
-
 Process:
 - Find your data and prepare it so that it is in the right format for models.
 - Split data into training data and testing data. Some people might say train, test, and evaluation split is needed. The sets of data used for evaluation/testing should be kept separate - in a "lockbox" so to speak. Important to avoid "leakage".
-- Select your model. Many different methods are used for supervised learning, including simpler models such as     decision trees, logistic regression and more complex models such as neural networks. Some "ensemble" methods combine multiple model types to improve model performance.
+- Select your model. Many different methods are used for supervised learning, including simpler models such as decision trees, logistic regression and more complex models such as neural networks. Some "ensemble" methods combine multiple model types to improve model performance.
 - Evaluate model performance, based on a set of standard metrics, including accuracy (%of correct predictions). Other evaluation metrics include precision (# of true positives/total # of positives), and recall (true positives/true positives + false negatives). Good to also evaluate on the impact on certain subgroups of the population, to ensure that the model is not worse at predicting certain groups than others.
 
-6. Unsupervised Learning
+### Unsupervised Learning
 Looking for patterns in the data, without an idea of what we are looking for yet. Clustering methods are popular here.
 
-7. Limitations of Machine Learning
+### Limitations of Machine Learning
 - The things "learned" by models could be based on completely spurious correlations. It is sometimes difficult to figure out which features were used by the model. Methods like feature importance exist but are imperfect.
 - The datasets used for machine learning are often flawed and not representative of the whole population. Many contain errors as well, which if not caught, could lead to very misleading results!
 - Supervised learning depends on having labeled data for the training process. This is not always easy to come by. Many people in the computer vision community use pretrained models for this reason. But the models are often trained on completely different data/images than the context we are interested in. This can lead to so-so results.
@@ -45,14 +46,15 @@ Looking for patterns in the data, without an idea of what we are looking for yet
 ## The way forward 
 
 ### CDCS Courses:
-- [Introduction to Machine Learning](https://www.cdcs.ed.ac.uk/events/intro-to-machine-learning)
-- [AI and Ethics](https://www.cdcs.ed.ac.uk/events/ai-ethics)
-
+- [Introduction to Machine Learning](https://www.cdcs.ed.ac.uk/events/intro-machine-learning-python)
+- [Introduction to Bayesian Statistics](https://www.cdcs.ed.ac.uk/events/intro-bayesian-statistics)
+- [Understanding Learning in the World of AI, Deep Dive](https://www.cdcs.ed.ac.uk/events/project-deep-dive-david-williamson-shaffer)
 
 ### Books:
 
-- AIQ: How artificial intelligence works and how we can harness its power for a better world by James Scott and Nicholas Polson.
-- Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
+- AIQ: How artificial intelligence works and how we can harness its power for a better world, James Scott and Nicholas Polson.
+- Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig
+- Life 3.0: Being Human in the Age of Artificial Intelligence, Max Tegmark
 
 ### Academic papers:
 - [1] Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, and Kate Crawford. 2021. Datasheets for Datasets. DOI:https://doi.org/10.48550/arXiv.1803.09010
@@ -80,7 +82,6 @@ Looking for patterns in the data, without an idea of what we are looking for yet
 
 - [Machine Learning with Python: A Practical Introduction | edX](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
 - [Machine Learning for Everyone | DataCamp](https://learn.datacamp.com/courses/introduction-to-machine-learning-with-r)
-
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
