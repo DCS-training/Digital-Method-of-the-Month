@@ -1,7 +1,8 @@
 # Digital Method of the Month: Machine Learning
 
 
-## Authors: E. Martorell Toledano, Bhargavi Ganesh
+## Latest Author: Christopher A Oldnall
+## Previous Contributors: E. Martorell Toledano, Bhargavi Ganesh
 
 ## Schedule
 
