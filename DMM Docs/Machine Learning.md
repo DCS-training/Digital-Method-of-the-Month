@@ -28,6 +28,7 @@ Machine learning is the process of using data to "train" a model to perform base
 When we have a set of data, we typically have a very clear idea of what we want to use it for. Typically this is either understanding the relationship between two variables, or to use it to determine the output of some outcome when given a load of new data without the outcome. For supervised learning we need complete sets of data (with both predictors and outcome) and can do one of two things:
 - Regression --> typically involves predicting a value
 - Classification --> typically involves putting things into set categories
+  
 Process:
 - Find your data and prepare it so that it is in the right format for models.
 - Split data into training data and testing data. Some people might say train, test, and evaluation split is needed. The sets of data used for evaluation/testing should be kept separate - in a "lockbox" so to speak. Important to avoid "leakage".
