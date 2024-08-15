@@ -70,6 +70,7 @@ Non coding options
 - For Networking visualisation: [Gephi](https://gephi.org/), [The Vistorian](https://vistorian.github.io/)
 - [Tableau](https://www.tableau.com/en-gb), [Datawrapper](https://www.datawrapper.de/), [Gale Digital scholar Lab](https://go.gale.com/ps/start.do?p=DSLAB&u=ed_itw)
 - [Comparison of main non-coding options](https://www.toptal.com/designers/data-visualization/data-visualization-tools)
+- [GGplot Graphic User interface](https://shiny.gmw.rug.nl/ggplotgui/). Create ggplot graphics without needing to code. As a bonus, the app also provides the code needed to replicate your plot in R.
 
 ## Where to start
 
