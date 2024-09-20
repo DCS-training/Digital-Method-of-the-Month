@@ -78,7 +78,7 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 
 **R**
 
-- [https://rstudio.com/resources/cheatsheets/](https://rstudio.com/resources/cheatsheets/) This is a collection of cheatsheets about the different aspects of R. They are very useful to quickly find what you need and fix any issue on the fly
+- [https://rstudio.com/resources/cheatsheets/](https://rstudio.com/resources/cheatsheets/) This is a collection of cheatsheets about the different aspects of R. They are very useful to quickly find what you need and fix any issue on the fly.
 - [https://blog.revolutionanalytics.com/2012/07/a-big-list-of-the-things-r-can-do.html](https://blog.revolutionanalytics.com/2012/07/a-big-list-of-the-things-r-can-do.html)
 - [(https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)](https://simplystatistics.org/posts/2019-03-13-10-things-r-can-do-that-might-surprise-you/#:~:text=10%20things%20R%20can%20do%20that%20might%20surprise,and%20pull%20data%20with%20dplyr%2Fdbplyr%20...%20More%20items)
 - Collection of E-Books on different aspects of R[https://bookdown.org/](https://bookdown.org/)
@@ -87,6 +87,7 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 - This book cover the basics of the R principles for Data Science [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 - The following chapter provides an overview of all the ways ggplot and the tidyverse can facilitate your data vis needs with R[(https://r4ds.had.co.nz/data-visualisation.html) ](https://r4ds.hadley.nz/data-visualize.html).
 - This is a good book on R but also general concepts: https://socviz.co/
+- For inspiration, tips, and tricks on advancing your data visualisation skills in R, check out [Cedric Scherer' blog](https://www.cedricscherer.com/).
 
 **Python**
 
@@ -103,7 +104,8 @@ R
 - Tidyverse
 - ggplot2
 - jtools
-
+- plotly (interactive plots)
+  
 Python
 
 - [Matplotlib](https://matplotlib.org/)
