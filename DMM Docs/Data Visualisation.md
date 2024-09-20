@@ -34,6 +34,7 @@
 - [Sharing code/using code](https://ico.org.uk/media/for-organisations/documents/2618790/data-sharing-code-the-basics.pdf)
 - [Grammar of Graphics](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
 - [Kaggle comunity for Machine Learning and Data science community](https://www.kaggle.com/)
+- [Tidy Tuesday Data Vis Challenges](https://github.com/rfordatascience/tidytuesday)
 
 ## Time
 
