@@ -61,7 +61,7 @@
 - Clear communication of your research.
 - Increase the reliability of your statistical analyses (see [Datasaurus Dozen to see how/why](https://jumpingrivers.github.io/datasauRus/))
 - Creativity to your presentations.
-- Interactive designs (when using software such as shiny, Tableau or powerBI).
+- Interactive designs (when using software such as [shiny](https://shiny.posit.co/getstarted.html), Tableau or powerBI).
 
 ## Software/Languages
 
