@@ -59,6 +59,7 @@
 - Customisability.
 - Exploration and verification of your research.
 - Clear communication of your research.
+- Increase the reliability of your statistical analyses (see [Datasaurus Dozen to see how/why](https://jumpingrivers.github.io/datasauRus/))
 - Creativity to your presentations.
 - Interactive designs (when using software such as shiny, Tableau or powerBI).
 
