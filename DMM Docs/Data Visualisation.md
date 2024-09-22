@@ -67,6 +67,7 @@
 
 - Python
 - R and R studio
+- JavaScript (mostly used for custom/interactive visualizations)
 
 Non coding options
 - For Networking visualisation: [Gephi](https://gephi.org/), [The Vistorian](https://vistorian.github.io/)
@@ -93,9 +94,9 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 
 **Python**
 
-- If you&#39;re completely new to python, you might find this helpful. It is a comprehensive wiki site with different kinds of ways of starting to program with python (with links to courses, tutorials and websites, and videos): [https://wiki.python.org/moin/BeginnersGuide/NonProgrammers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
-- If you are already familiar with programing, here is a guide to downloading python and picking an IDE or a text editor that might suit your needs: [https://www.python.org/about/gettingstarted/](https://www.python.org/about/gettingstarted/)
-- You can download python here: [https://www.python.org/](https://www.python.org/)
+- If you're completely new to Python, you might find this helpful. It is a comprehensive wiki site with different kinds of ways of starting to program with Python (with links to courses, tutorials and websites, and videos): [https://wiki.python.org/moin/BeginnersGuide/NonProgrammers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+- If you are already familiar with programing, here is a guide to downloading Python and picking an IDE or a text editor that might suit your needs: [https://www.python.org/about/gettingstarted/](https://www.python.org/about/gettingstarted/)
+- You can download Python here: [https://www.python.org/](https://www.python.org/)
 - This is a free ebook (which corresponds to a free online course): [https://www.py4e.com/html3/](https://www.py4e.com/html3/). It will take you from a beginner level to data visualisation.
 - This is a good introduction to some of the libraries and how to use them: [https://towardsdatascience.com/your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d](https://towardsdatascience.com/your-everyday-cheatsheet-for-pythons-matplotlib-c03345ca390d).
 
