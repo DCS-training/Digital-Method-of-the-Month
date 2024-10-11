@@ -37,7 +37,7 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 - Spatial analysis algorithms[Qgis](https://www.amnh.org/content/download/304774/4829791/version/2/file/Galante-et-al-Modeling-Suitable-Habitat-for-a-Species-of-Conservation-Concern-An-Introduction-to-Spatial-Analysis-with-QGIS-Exercise-Lessons-in-Conservation-Volume-10-Issue-1.pdf), [ArcGIS](https://pro.arcgis.com/en/pro-app/latest/help/analysis/introduction/spatial-analysis-in-arcgis-pro.htm)
 - [OSM and WMS services](https://wiki.openstreetmap.org/wiki/WMS#OSM_WMS_Servers)
 - [Databases](https://gisgeography.com/spatial-databases/)
-- [Image processing: NDVI, DEM and others](https://csm.fresnostate.edu/ees/documents/facstaff/wang/gis200/lecture-notes/gis/chap12.pdf)
+- [Image processing: e.g. NDVI,](https://mapscaping.com/calculating-ndvi-using-qgis/)[ DEM](https://docs.qgis.org/2.18/en/docs/training_manual/rasters/terrain_analysis.html)
 - [Topology](https://www.esri.com/news/arcuser/0401/topo.html#:~:text=Today%2C%20topology%20in%20GIS%20is,on%20a%20two%2Ddimensional%20plane.)
 - [Extensions and Plugins](https://plugins.qgis.org/)
 
