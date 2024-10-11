@@ -64,8 +64,8 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 Two main players:
 
-- QGis
-- ArcGis
+- QGIS
+- ArcGIS
 
 [https://gisgeography.com/qgis-arcgis-differences/](https://gisgeography.com/qgis-arcgis-differences/)
 
