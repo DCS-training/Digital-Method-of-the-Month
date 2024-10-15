@@ -32,7 +32,7 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 ## Concept to get familiar with
 
 - [Raster vs Vector](https://gisgeography.com/spatial-data-types-vector-raster/)
-- [Cartography principles and RS](https://en.wikipedia.org/wiki/Spatial_reference_system)
+- [Cartography principles and RS](https://en.wikipedia.org/wiki/Spatial_reference_system) Geographic vs Projected coordinates
 - [Shapefiles](https://doc.arcgis.com/en/arcgis-online/reference/shapefiles.htm) and the [other vectorial extensions (e.g., .dxf)](https://en.wikipedia.org/wiki/GIS_file_formats) and [GeoPackage](https://www.geopackage.org/)
 - Spatial analysis algorithms[Qgis](https://www.amnh.org/content/download/304774/4829791/version/2/file/Galante-et-al-Modeling-Suitable-Habitat-for-a-Species-of-Conservation-Concern-An-Introduction-to-Spatial-Analysis-with-QGIS-Exercise-Lessons-in-Conservation-Volume-10-Issue-1.pdf), [ArcGIS](https://pro.arcgis.com/en/pro-app/latest/help/analysis/introduction/spatial-analysis-in-arcgis-pro.htm)
 - [OSM and WMS services](https://wiki.openstreetmap.org/wiki/WMS#OSM_WMS_Servers)
