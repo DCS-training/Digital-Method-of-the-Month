@@ -33,7 +33,7 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 - [Raster vs Vector](https://gisgeography.com/spatial-data-types-vector-raster/)
 - [Cartography principles and RS](https://en.wikipedia.org/wiki/Spatial_reference_system)
-- [Shapefiles](https://doc.arcgis.com/en/arcgis-online/reference/shapefiles.htm) and the [other vectorial extensions (e.g., .dxf)](https://en.wikipedia.org/wiki/GIS_file_formats)
+- [Shapefiles](https://doc.arcgis.com/en/arcgis-online/reference/shapefiles.htm) and the [other vectorial extensions (e.g., .dxf)](https://en.wikipedia.org/wiki/GIS_file_formats) and [GeoPackage](https://www.geopackage.org/)
 - Spatial analysis algorithms[Qgis](https://www.amnh.org/content/download/304774/4829791/version/2/file/Galante-et-al-Modeling-Suitable-Habitat-for-a-Species-of-Conservation-Concern-An-Introduction-to-Spatial-Analysis-with-QGIS-Exercise-Lessons-in-Conservation-Volume-10-Issue-1.pdf), [ArcGIS](https://pro.arcgis.com/en/pro-app/latest/help/analysis/introduction/spatial-analysis-in-arcgis-pro.htm)
 - [OSM and WMS services](https://wiki.openstreetmap.org/wiki/WMS#OSM_WMS_Servers)
 - [Databases](https://gisgeography.com/spatial-databases/)
@@ -44,18 +44,17 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 ## Time
 
 - How much will it take to learn?
-- Is it possible to self learn? 
+- Is it possible to self-learn? 
 
 ## Easy Pitfalls
 
-- Chose the wrong RS or failing to set a RS.
+- Choose the wrong RS or fail to set an RS.
 - Topology errors (mostly if importing data from other systems as CAD)
-- Move Project on different PC or moving files from their original location to another.
+- Move Projects on different PC or moving files from their original location to another.
 - Proprietary extensions of files
 
 ## The Big Questions
 
-- GIS vs WebGIS
 - Implementation with other software (R, Python, 3D managing software, CAD, photogrammetry software)
 - How to work collaboratively
 - Managing 3D Data
@@ -114,8 +113,9 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 
 **CDCS LIVE UPCOMING TRAINING ON GIS**
 
-- 20/10/23-27/10/23 [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/intro-to-gis-23) 
-- More to come on the second Semester (Webgis, Geographical Data analysis with R, Geospatial Data Visualsiation etc..)
+- 22/10/24-29/10/24 [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/intro-to-gis-oct24)
+- 08/11/24 [Silent Disco: Geocoding Historical Data Using QGIS](https://www.cdcs.ed.ac.uk/events/silent-disco-geocoding-historical-data-using-QGIS)
+- More to come in the second Semester (Geographical Data analysis with R, Geospatial Data Visualsiation etc..)
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
