@@ -10,7 +10,7 @@
 
 12:00-12:10 Housekeeping and intro
 
-12:10-12:25 Round of Presentation of the attendees + brief intro of those who said they would be happy to talk
+12:10-12:25 Round of Presentation of the attendees 
 
 12:25 –12:50 discussion using this document
 
