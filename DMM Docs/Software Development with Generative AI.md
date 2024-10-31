@@ -4,11 +4,11 @@
 Authors: Martin Disley (m.disley@ed.ac.uk)
 
 ## Schedule
-12:00 -  Housekeeping (5 minutes)
-12:05 -  Overview of this session (5 minutes)
-12:10 -  Introductions
-12:15 - Document discussion
-12:55  - Closing remarks
+- 12:00 -  Housekeeping (5 minutes)
+- 12:05 -  Overview of this session (5 minutes)
+- 12:10 -  Introductions
+- 12:15 - Document discussion
+- 12:55  - Closing remarks
 
 ## What is Generative AI Augmented Software Development
 Software development is, fundamentally, a writing practice; and, like every other writing practice, the introduction of Large Language Models (LLMs) in recent years has presented challenges and opportunities for how it will evolve. Of the many benefits its proponents claim it may bring, the most interesting for us is what is often referred to as its "democratising potential": giving the capacity to build computational tools to those who would be unable to write their code and expanding the capacities of those who have some limited programming experience.
