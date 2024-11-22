@@ -72,7 +72,7 @@ For more in-depth understanding, check out this book: ["Analysing Data using Lin
 
 #### Model assumptions 
 
--   Testing your ["model assumptions"] (https://bookdown.org/pingapang9/linear_models_bookdown/chap-assumptions.html; https://people.duke.edu/~rnau/testing.html), and understanding what these mean for the interpretation of your analysis.
+-   Testing your ["model assumptions"](https://bookdown.org/pingapang9/linear_models_bookdown/chap-assumptions.html; https://people.duke.edu/~rnau/testing.html), and understanding what these mean for the interpretation of your analysis.
       Linearity of relationships 
 	    Independence of residuals 
 	    Normality of residuals
