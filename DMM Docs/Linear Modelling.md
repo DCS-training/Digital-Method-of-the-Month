@@ -33,7 +33,7 @@ These linear models can be used for a variety of reasons in analyses:
 -   To help draw conclusions about an entire population by looking at a sample of the population.
 
 To get an overview of linear regression and other related regression models, you may find this guide helpful: ["Regression analysis: The ultimate guide"](https://www.qualtrics.com/uk/experience-management/research/regression-analysis/).
-For more in-depth understanding, check out this book: ["Analysing Data using Linear Models"] (https://bookdown.org/pingapang9/linear_models_bookdown/). 
+For more in-depth understanding, check out this book: ["Analysing Data using Linear Models"](https://bookdown.org/pingapang9/linear_models_bookdown/). 
 
 
 ## Time
