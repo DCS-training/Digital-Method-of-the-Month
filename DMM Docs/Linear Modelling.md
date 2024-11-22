@@ -80,6 +80,7 @@ For more in-depth understanding, check out this book: ["Analysing Data using Lin
     - Independence of residuals 
     - Normality of residuals
     - Equal variances for residuals
+-    If needed, consider using a [generalised linear model](https://bookdown.org/roback/bookdown-BeyondMLR/) to address your analysis. It may help solve some issues of violated assumption.
 
 #### Repreated measures and Linear Mixed-effects Models 
 
@@ -141,7 +142,7 @@ Material and online courses on statistics are many. Here is a small selection to
 -   <https://bookdown.org/mikemahoney218/LectureBook/basic-statistics-using-r.html>
 -   <https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf>
 -   <https://daviddalpiaz.github.io/appliedstats/applied_statistics.pdf>
-
+-   <https://bookdown.org/roback/bookdown-BeyondMLR/>
 ## Feedback
 
 -   <https://forms.office.com/r/YYNrqvuNr8>
