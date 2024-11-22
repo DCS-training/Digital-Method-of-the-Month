@@ -74,10 +74,12 @@ For more in-depth understanding, check out this book: ["Analysing Data using Lin
 
 -   Checking your ["model assumptions"](https://bookdown.org/pingapang9/linear_models_bookdown/chap-assumptions.html; https://people.duke.edu/~rnau/testing.html), and understanding what these mean for the interpretation of your analysis.
 -   Be cautious of using statistical tests for assumptions (they are very sensitive to being either underpowered or overpowered, and so type 1 and type 2 errors will be common). Better to use visual methods of checking plots. Useful paper on the subject by [Shatz, 2023](https://link.springer.com/article/10.3758/s13428-023-02072-x).
-      Linearity of relationships 
-	    Independence of residuals 
-	    Normality of residuals
-      Equal variances for residuals
+-   I find it useful to explore why the assumption exists to understand it's implications. For example, if a t-test is used to compare the mean value of two groups, why are we assuming the data is normally distributed?
+-   Main assumptions to check for in linear models:
+    - Linearity of relationships 
+    - Independence of residuals 
+    - Normality of residuals
+    - Equal variances for residuals
 
 #### Repreated measures and Linear Mixed-effects Models 
 
