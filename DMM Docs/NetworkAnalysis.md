@@ -38,6 +38,8 @@ The first important step is to ponder how network analysis may be an apt method 
 
 Interactive frameworks for network analysis and visualisation such as Gephi enable intuitive exploration of the relations we call networks. The highly interactive quality of Gephi makes it perfect for uncovering hidden and complex patterns and structures that emerge from the data.
 
+Here you can find an example of a dataset structured for network analysis (https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Ho%20Tung%20family_Gephi.xlsx)[https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Ho%20Tung%20family_Gephi.xlsx]
+
 ## Concept to get familiar with
 
 o Edge characteristics
