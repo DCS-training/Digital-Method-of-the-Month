@@ -51,17 +51,18 @@ For more in-depth understanding, check out this book: ["Analysing Data using Lin
 -   Have you accounted for the effects of confounding variables, covariates, and potential interaction terms? (i.e., beware the [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)).
 -   [Are you conducting a linear analysis? A mediation analysis? A moderation analysis? A moderated mediation? A moderated moderation? A mediated moderated moderation?!!!](https://afhayes.com/introduction-to-mediation-moderation-and-conditional-process-analysis.html)
 -   Is your analysis theoretically and empirically justifiable?
--   Are your covariates appropriate? (Beware of "collider" variables).
+-   Are your covariates appropriate? Beware of "collider" variables - materials on [Directed Aclyctic Graphs (DAGS)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8821727/) are useful for anticipating potential theoretical issues from covariates.
+-   Do you need to consider expanding on the linear model, and adopt a [structural equation modelling (SEM)](https://www.taylorfrancis.com/reader/read-online/dd855ba2-d7df-464d-b8e6-14885231a4f8/chapter/pdf?context=ubx) approach? 
 
 #### Interpreting analyses
 
 -   [Have you plotted your data?](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 -   [Know your sample size expectations](https://quantitudepod.org/s4e13-power/) - Do you have the power?
+-   Is your analysis under powered? Is your analysis "over" powered?
 -   [What to do with a small sample - Is it always a problem?](https://quantitudepod.org/s2e25-options-for-small-samples/)
 -   What to do with missing data? Removing missing entries may bias your analyses under some circumstances.
 -   Not having a pre-set of questions - beware of accidental p-hacking/cherry picking.
 -   [Know the limitations of p values](https://www.youtube.com/watch?v=42QuXLucH3Q)
--   Is your analysis under powered? Is your analysis "over" powered?
 -   Statistical significance vs meaningful significance.
 -   Not knowing the limitation of the method/dataset, e.g. many tests works on normally distributed, independent samples.
 -   Working with Likert measures.
