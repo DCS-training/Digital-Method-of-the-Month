@@ -12,7 +12,7 @@
 
 -   12:10-12:25 Round of Presentation of the attendees and brief intro of those who said they would be happy to talk
 
--   12:25 --12:50 discussion using this document
+-   12:25-12:50 discussion using this document
 
 -   12:50-13:00 discuss available resources, way forwards and wrapping up
 
