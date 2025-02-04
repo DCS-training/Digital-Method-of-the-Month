@@ -4,8 +4,6 @@
 
 Edinburgh Futures Institute 
 
-## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk), Jessica Witte (jessica.wite@ed.ac.uk)  
-
 
 ## **Schedule**
 
@@ -41,7 +39,11 @@ To study the differences in vocabulary or concepts in different groups of texts
 
 To understand how positively/neutrally/negatively people are writing book reviews or discussing certain topics
 
-To identify places or organizations named in a text or _corpus_ (collection of texts)
+To identify places or organizations named in a dataset or _corpus_ (collection of texts)
+
+To extract certain types of information from a dataset
+
+To examine patterns in a text or corpus
 
 
 ## **Some common text analysis methods:**
@@ -64,22 +66,53 @@ Event extraction – to find events that entities participate in
 
 Classification
 
-Sentiment analysis
+Sentiment analysis – to estimate positivity or negativity 
 
 Topic modelling
 
 Word embeddings – to study meanings, how meanings change over time
 
+Large language model (LLM) and generative AI (GenAI) approaches
+
 
 ## **How can I do text analysis?**
 
-3 main steps: (1) data preparation, (2) standardization, (3) analysis
+3 main steps: 
 
-2 main approaches: (A) use out-of-the-box tools, (B) customize existing tools to your needs
+(1) data preparation
+
+(2) standardization
+
+(3) analysis
+
+2 main approaches: 
+
+(A) use out-of-the-box tools
+
+(B) customise existing tools for your needs
+
+## **A note on LLMs/GenAI**
+
+The emergence of LLMs/GenAI has opened more opportunities for researchers to employ text analysis methods in their research. However, these technologies can introduce a variety of ethical and legal risks and are typically more costly – computationally, environmentally, and financially – than other text analysis methods. Additionally, because these technologies are so new, there are limited 'real-world' examples of humanities and social science projects employing LLMs and GenAI-based methods.
+
+Three common appraoches to analysing text using LLMs/GenAI include:
+
+a) creating a retrieval augmented generation (RAG) system to query a datast
+
+b) exploring a dataset by interacting with LLMs through chatbot interfaces or the command line
+
+c) adjusting LLMs through fine tuning to improve their ability to perform a specific type of analysis or interpret a specific type of dataset
+
+While we won't be discussing LLMs and GenAI in detail today, we have linked some resources at the end of this file if you're interested in learning more.
+
+
+## **Tools and resources**
 
 [**AntConc**](http://www.laurenceanthony.net/software/antconc/)- a user interface for text analysis that doesn&#39;t require any coding (with many of the capabilities you&#39;ll find in RegEx and Python NLTK), also open source
 
 James Baker, Rossitza Atanassova, Andrew Salway (2020). Computational Analysis of Catalogue Data (Version v2021.01.21). [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
+
+[**LancsBox**](https://lancsbox.lancs.ac.uk/) - software platform for text analysis developed by Lancaster University
 
 Tools from media labs, such as the [Digital Methods Initiative, University of Amsterdam](https://wiki.digitalmethods.net/Dmi/ToolDatabase) or the [SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
 
@@ -103,7 +136,7 @@ You can write Python and R code using...
 
 [GLAM Workbench](https://glam-workbench.github.io/) – introductions to using Python Jupyter Notebooks with data from galleries, libraries, archives, and museums
 
-**IDEs** (Integrated Development Environments) – for example, Atom, R studio (for R)
+**IDEs** (Integrated Development Environments) – for example, Atom, RStudio (for R)
 
 See [The Programming Historian tutorials to get started](https://programminghistorian.org/en/lessons/?search=integrated+development+environment)
 
@@ -161,27 +194,29 @@ LinkedIn Learning - available to all University staff and students from MyEd por
 
 ## **Reading**
 
-Törnberg, Petter. (2024). [How to use LLMs for Text Analysis](https://arxiv.org/abs/2307.13106). arXiv (preprint)
+Törnberg, Petter. (2024). [_How to use LLMs for Text Analysis_](https://arxiv.org/abs/2307.13106). arXiv (preprint)
 
-Havens, Lucy. (2020) [_Exploring Collections as Data with Jupyter Notebooks_](https://data.nls.uk/projects/exploring-collections-as-data-with-jupyter-notebooks/). National Library of Scotland Data Foundry.
+Nielbo, Kristoffer L., et al. (2024). [_Quantiative text analysis_](https://doi.org/10.1038/s43586-024-00302-w). 
 
-Lang, Anouk. [_Word Embeddings: A Very Short Introduction_](https://aelang.github.io/word-embeddings). Digital textualities | semantic cartographies | networked geographies.
+Goodale, Ian. (2024). [_Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza._](https://programminghistorian.org/en/lessons/analyzing-multilingual-text-nltk-spacy-stanza) The Programming Historian.
 
-Tweedie, Brett. [_We Are What We Steal_](https://dxlab.sl.nsw.gov.au/we-are-what-we-steal/). The State Library of New South Wales and DX Lab.
+Havens, Lucy. (2020). [_Exploring Collections as Data with Jupyter Notebooks_](https://data.nls.uk/projects/exploring-collections-as-data-with-jupyter-notebooks/). National Library of Scotland Data Foundry.
 
-Bird, Steven and Klein, Ewan and Loper, Edward. (2019) _Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit_. O&#39;Reilly Media. 978-0-596-51649-9. [https://www.nltk.org/book/](https://www.nltk.org/book/).
+Tweedie, Brett. [_We Are What We Steal_](https://theconversation.com/we-are-what-we-steal-the-new-south-wales-police-gazette-and-charting-histories-of-crime-131140). The State Library of New South Wales and DX Lab.
 
-Alex, Beatrice. (2020)[_Geoparsing English Language Text with the Edinburgh Geoparser_](https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh). The Programming Historian.
+Bird, Steven and Klein, Ewan and Loper, Edward. (2019). [_Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit._](https://www.nltk.org/book/](https://www.nltk.org/book/).
 
-Silge, Julia and Robinson, David. [_Tidy Text Mining with R_](https://www.tidytextmining.com/index.html)
+Alex, Beatrice. (2020). [_Geoparsing English Language Text with the Edinburgh Geoparser_](https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh). The Programming Historian.
+
+Silge, Julia and Robinson, David. [_Tidy Text Mining with R._](https://www.tidytextmining.com/index.html)
 
 
-## **CDCS Upcoming training**
+## **CDCS upcoming training**
 - Keep up with our training programme for 2025 [here](https://www.cdcs.ed.ac.uk/training)
 
 
 
-## **CDCS Past training Resources**
+## **CDCS past training resources**
 - [Python intermediate Courses (2020)](https://github.com/DCS-training/python-interm)
 - [CDCS Summer School (2021)](https://github.com/DCS-training/CDCS-Summer-School) Notebooks on Text analysis and Neteworking Analysis 
 - [Introduction to text analysis](https://github.com/DCS-training/IntroToTextAnalysis)
@@ -189,7 +224,7 @@ Silge, Julia and Robinson, David. [_Tidy Text Mining with R_](https://www.tidyte
 - [Edina Introduction to sentiment analysis ](https://learn.edina.ac.uk/sentiment/)
 - [Webscraping News sites](https://github.com/DCS-training/WebscrapingNewsitesWithPython)
 
-
+## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk), Jessica Witte (jessica.wite@ed.ac.uk)  
 
 Any questions? Thank you for joining today! Please let us know how you found the session [here](https://forms.office.com/r/pfqHFYqvfS)!
 
