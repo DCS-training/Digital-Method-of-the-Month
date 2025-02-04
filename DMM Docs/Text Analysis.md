@@ -161,6 +161,8 @@ LinkedIn Learning - available to all University staff and students from MyEd por
 
 ## **Reading**
 
+Törnberg, Petter. (2024). [How to use LLMs for Text Analysis](https://arxiv.org/abs/2307.13106). arXiv (preprint)
+
 Havens, Lucy. (2020) [_Exploring Collections as Data with Jupyter Notebooks_](https://data.nls.uk/projects/exploring-collections-as-data-with-jupyter-notebooks/). National Library of Scotland Data Foundry.
 
 Lang, Anouk. [_Word Embeddings: A Very Short Introduction_](https://aelang.github.io/word-embeddings). Digital textualities | semantic cartographies | networked geographies.
