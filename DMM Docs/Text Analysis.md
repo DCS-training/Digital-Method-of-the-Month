@@ -1,6 +1,8 @@
 # **Digital Method of the Month: Text Analysis**
 
-04 December 2023
+10 February 2025
+
+Edinburgh Futures Institute 
 
 ## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk), Jessica Witte (jessica.wite@ed.ac.uk)  
 
@@ -11,9 +13,9 @@
 
 12:05 Overview of this text analysis session (5 minutes)
 
-12:10 Round of introductions (10-15 minutes)
+12:10 Round of introductions (10 minutes)
 
-12:20/25 Text Analysis
+12:20 Text analysis (35 minutes)
 
 12:55 Wrap up (5 minutes)
 
@@ -173,7 +175,7 @@ Silge, Julia and Robinson, David. [_Tidy Text Mining with R_](https://www.tidyte
 
 
 ## **CDCS Upcoming training**
-- More to come in the second semester (https://www.cdcs.ed.ac.uk/training)
+- Keep up with our training programme for 2025 [here](https://www.cdcs.ed.ac.uk/training)
 
 
 
