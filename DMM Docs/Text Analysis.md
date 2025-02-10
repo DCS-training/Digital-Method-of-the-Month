@@ -48,15 +48,20 @@ To examine patterns in a text or corpus
 
 ## **Some common text analysis methods:**
 
-Word/n-gram frequencies
+Word/n-gram frequencies 
+- more information [here](https://medium.com/the-data-nudge/nlp-basics-what-are-n-grams-e60cb125a758)
+- Google Books [ngram viewer](https://books.google.com/ngrams/)
 
 Sentence segmentation
 
 Collacates – words that occur in close proximity to one another
+- more information [here](https://books.google.com/ngrams/)
 
 Information extraction
 
 Part-of-speech tagging
+- more information [here](https://nlp.stanford.edu/software/tagger.shtml)
+- try it [here](https://parts-of-speech.info/)
 
 Named entity recognition – to find people, places, organizations, etc.
 
