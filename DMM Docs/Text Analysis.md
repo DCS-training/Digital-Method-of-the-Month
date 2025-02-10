@@ -108,6 +108,8 @@ While we won't be discussing LLMs and GenAI in detail today, we have linked some
 
 ## **Tools and resources**
 
+[[**Voyant Tools**](https://voyant-tools.org/) - a beginner-friendly online platform for basic visualisations 
+
 [**AntConc**](http://www.laurenceanthony.net/software/antconc/)- a user interface for text analysis that doesn&#39;t require any coding (with many of the capabilities you&#39;ll find in RegEx and Python NLTK), also open source
 
 James Baker, Rossitza Atanassova, Andrew Salway (2020). Computational Analysis of Catalogue Data (Version v2021.01.21). [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
@@ -118,7 +120,7 @@ Tools from media labs, such as the [Digital Methods Initiative, University of Am
 
 **Python**, **R***, and Regular Expressions ( **RegEx** ) for simple queries (word counts, dataset size)
 
-[Pythex](https://pythex.org/)
+[Pythex](https://pythex.org/) - a web platform for testing regular expressions 
 
 [The Programming Historian tutorials](https://programminghistorian.org/en/lessons/?topic=python)
 
@@ -136,12 +138,15 @@ You can write Python and R code using...
 
 [GLAM Workbench](https://glam-workbench.github.io/) – introductions to using Python Jupyter Notebooks with data from galleries, libraries, archives, and museums
 
-**IDEs** (Integrated Development Environments) – for example, Atom, RStudio (for R)
+**IDEs** (Integrated Development Environments) – for example, Atom, RStudio (for R), PyCharm (for Python), Anaconda
 
 See [The Programming Historian tutorials to get started](https://programminghistorian.org/en/lessons/?search=integrated+development+environment)
 
 The University of Edinburgh also runs [Notaeble](https://noteable.edina.ac.uk/), allowing students and staff members to run code in Jupyter notebooks and R studio.
 
+[**Visual Studio Code**](https://code.visualstudio.com/) - an open-source code editor for a variety of languages including Python, JavaScript, and C++
+
+[**Anaconda**](https://www.anaconda.com/) - an open-scource set of libraries in R and Python; suitable for advanced text analysis using AI and machine learning
 
 **What are important considerations when doing text analysis?**
 
