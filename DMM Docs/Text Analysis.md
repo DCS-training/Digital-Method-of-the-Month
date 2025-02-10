@@ -154,6 +154,8 @@ Familiarize yourself with the vocabulary, including:
 
 **Tokens** : words, numbers, punctuation
 
+**Stopwords** : commonly appearing words often considered to be 'filler' or irrelevant (e.g. 'it', 'an', 'the', 'he', 'she')
+
 **Concordances** : list of a particular word in its usage contexts across a corpus
 
 **Stems** : root form of a word that may not be a word itself
@@ -176,6 +178,7 @@ Figure out the optimal method to answer your research questions or meet the obje
 
 Figure out how to present the results of your data. 
 
+Common preprocessing pipelines include cleaning, stopword removal (often using a standard list), stemming and/or lemmatizing. However, depending upon your research question, some (or all) of these preprocessing steps might not be suitable. 
 
 ## **Additional Resources**
 
