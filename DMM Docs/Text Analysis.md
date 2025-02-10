@@ -60,10 +60,11 @@ Collacates – words that occur in close proximity to one another
 Information extraction
 
 Part-of-speech tagging
-- more information [here](https://nlp.stanford.edu/software/tagger.shtml)
+- some info [here](https://nlp.stanford.edu/software/tagger.shtml)
 - try it [here](https://parts-of-speech.info/)
 
 Named entity recognition – to find people, places, organizations, etc.
+- read more [here](https://www.turing.com/kb/a-comprehensive-guide-to-named-entity-recognition)
 
 Relation extraction – to find relationships among entities
 
@@ -74,6 +75,7 @@ Classification
 Sentiment analysis – to estimate positivity or negativity 
 
 Topic modelling
+- video introduction/examples [here](https://www.youtube.com/watch?v=IUAHUEy1V0Q)
 
 Word embeddings – to study meanings, how meanings change over time
 
@@ -120,6 +122,8 @@ While we won't be discussing LLMs and GenAI in detail today, we have linked some
 James Baker, Rossitza Atanassova, Andrew Salway (2020). Computational Analysis of Catalogue Data (Version v2021.01.21). [https://cataloguelegacies.github.io/antconc.github.io/](https://cataloguelegacies.github.io/antconc.github.io/)
 
 [**LancsBox**](https://lancsbox.lancs.ac.uk/) - software platform for text analysis developed by Lancaster University
+
+[**Gale Digital Scholar Lab**](https://library.ed.ac.uk/finding-resources/library-databases/database-includes/includes-g/gale-digital-scholar-lab) - platform for text analysis of Gale's primary sources
 
 Tools from media labs, such as the [Digital Methods Initiative, University of Amsterdam](https://wiki.digitalmethods.net/Dmi/ToolDatabase) or the [SciencesPo MediaLab]( https://medialab.sciencespo.fr/outils/) 
 
@@ -211,7 +215,11 @@ Törnberg, Petter. (2024). [_How to use LLMs for Text Analysis_](https://arxiv.o
 
 Nielbo, Kristoffer L., et al. (2024). [_Quantiative text analysis_](https://doi.org/10.1038/s43586-024-00302-w). 
 
+Bonacchi, C., et al. (2024). [Political uses of the ancient past on social media are predominantly negative and extreme](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308919).
+
 Goodale, Ian. (2024). [_Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza._](https://programminghistorian.org/en/lessons/analyzing-multilingual-text-nltk-spacy-stanza) The Programming Historian.
+
+Rebora, Simone. (2023). [Sentiment Analysis in Literary Studies. A Critical Survey.](https://www.digitalhumanities.org/dhq/vol/17/2/000691/000691.html)
 
 Havens, Lucy. (2020). [_Exploring Collections as Data with Jupyter Notebooks_](https://data.nls.uk/projects/exploring-collections-as-data-with-jupyter-notebooks/). National Library of Scotland Data Foundry.
 
