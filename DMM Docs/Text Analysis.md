@@ -108,7 +108,7 @@ While we won't be discussing LLMs and GenAI in detail today, we have linked some
 
 ## **Tools and resources**
 
-[[**Voyant Tools**](https://voyant-tools.org/) - a beginner-friendly online platform for basic visualisations 
+[**Voyant Tools**](https://voyant-tools.org/) - a beginner-friendly online platform for basic visualisations 
 
 [**AntConc**](http://www.laurenceanthony.net/software/antconc/)- a user interface for text analysis that doesn&#39;t require any coding (with many of the capabilities you&#39;ll find in RegEx and Python NLTK), also open source
 
