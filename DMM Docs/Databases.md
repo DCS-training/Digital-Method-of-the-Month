@@ -77,9 +77,7 @@ If you would answer yes to two or more of the following questions, it may be a g
 
 ## **Training**
 
-**CDCS LIVE UPCOMING TRAINING**** ON DATABASES**
-
-- Introduction to databases with SQLite [https://digital-exploits.edina.ac.uk/intro-db](https://digital-exploits.edina.ac.uk/intro-db)
+**CDCS LIVE UPCOMING TRAINING**** ON DATABASES*
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
