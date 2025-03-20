@@ -2,7 +2,7 @@
 
 ## Crowdsourcing research data
 
-**Date**: 1 May 2024
+**Date**: 21 March 2025
 
 **Authors**: Aislinn Keogh
 
@@ -82,6 +82,6 @@ There are a variety of platforms you can use to host your study and recruit peop
 
 ## Feedback
 
-If you attended the session on 1 May 2024, please fill in our [feedback form](https://forms.office.com/r/YYNrqvuNr8).
+If you attended the session on 21 March 2025, please fill in our [feedback form](https://forms.office.com/r/YYNrqvuNr8).
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
