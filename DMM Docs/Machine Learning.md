@@ -1,21 +1,21 @@
 # Digital Method of the Month 
 ## Machine Learning
 
-**Date**: 5th April 2024
+**Date**: 7th April 2025
 
 **Hosted By**: Chris Oldnall
 
 ## Today's Schedule
 
-**12:00&ndash;12:05**: Housekeeping.
+**13:00&ndash;13:05**: Housekeeping.
 
-**12:05&ndash;12:10**: Brief introduction to machine learning and how we are going to structure the session.
+**13:05&ndash;13:10**: Brief introduction to machine learning and how we are going to structure the session.
 
-**12:10&ndash;12:25**: Attendee introductions &ndash; what is your interest in and experience with machine learning?
+**13:10&ndash;13:25**: Attendee introductions &ndash; what is your interest in and experience with machine learning?
 
-**12:25&ndash;12:50**: Machine learning in practice.
+**13:25&ndash;13:50**: Machine learning in practice.
 
-**12:50&ndash;13:00**: Signposting to available resources and wrapping up.
+**13:50&ndash;14:00**: Signposting to available resources and wrapping up.
 
 ## Introduction
 
