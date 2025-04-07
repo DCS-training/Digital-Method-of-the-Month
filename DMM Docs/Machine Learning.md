@@ -47,9 +47,9 @@ Looking for patterns in the data, without an idea of what we are looking for yet
 ## The way forward 
 
 ### CDCS Courses:
-- [Introduction to Machine Learning](https://www.cdcs.ed.ac.uk/events/intro-machine-learning-python)
-- [Introduction to Bayesian Statistics](https://www.cdcs.ed.ac.uk/events/intro-bayesian-statistics)
-- [Understanding Learning in the World of AI, Deep Dive](https://www.cdcs.ed.ac.uk/events/project-deep-dive-david-williamson-shaffer)
+- [Introduction to Machine Learning](https://www.cdcs.ed.ac.uk/events/introduction-machine-learning25))
+- [Advanced Uses of LLMs](https://www.cdcs.ed.ac.uk/events/advanced-uses-llm)
+
 
 ### Books:
 
