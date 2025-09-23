@@ -73,7 +73,7 @@ Network data may quickly become too *big* to process. The increasing availabilit
 
 [Introduction to Network Analysis with Gephi](https://www.cdcs.ed.ac.uk/events/intro-to-network-analysis-gephi) (19, 26 March, 2 April 2024)
 
-[Beyond Social Networks: Advanced Uses of Gephi in Humanities Research](https://www.cdcs.ed.ac.uk/events/beyond-social-networks-advanced-uses-gephi-humanities-research)h
+[Beyond Social Networks: Advanced Uses of Gephi in Humanities Research](https://www.cdcs.ed.ac.uk/events/beyond-social-networks-advanced-uses-gephi-humanities-research)
 
 (10, 17 May, 2024)
 
