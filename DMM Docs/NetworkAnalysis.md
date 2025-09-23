@@ -1,30 +1,30 @@
 # Digital Method of the Month: 
 # Network Analysis
 
-# 27-2-2024
+# 26-09-2025
 
 ## Authors: Brian Tsz Ho Wong (<t.h.wong-2@sms.ed.ac.uk>), Pedro Jacobetty
 
 ## Schedule
 
-12:00-12:05 Housekeeping   
+09:30-09:35 Housekeeping   
 
-12:05-12:10 Brief introduction to the method and how we are going to structure the session
+09:35-09:40 Brief introduction to the method and how we are going to structure the session
 
-12:10-12:25 Round of Presentation of the attendees
+09:40-09:55 Round of Presentation of the attendees
 
-12:25 --12:50 Discussion using this document
+09:55-10:20 Discussion using this document
 
-12:50-13:00 Discuss available resources, way forward and wrapping up
+10:20-10:30 Discuss available resources, way forward and wrapping up
 
 ## Introduction
 
-Network analysis is helpful in revealing patterns within constellations of relations between entities, which can be highly complex and are often hidden in research data. These patterns, however, can prove to be important latent factors and, therefore accrue high heuristic value in research. Network analysis and visualisation tools and techniques provide an interesting approach to empirical (relational) data from a new angle: that of relations in a highly abstract sense of the term, which can thus be applied to many different things. Linguistic descriptions and our ability to understand complex relational constellations quickly reach their limit when we want to integrate the full relational picture. Network analysis and visualisations can help to transform empirical complexity into a research object, allowing exploration and communication of complex relational phenomena.
+Network analysis is helpful in revealing patterns within constellations of relations between entities, which can be highly complex and are often hidden in research data. These patterns, however, can prove to be important latent factors and, therefore, accrue high heuristic value in research. Network analysis and visualisation tools and techniques provide an interesting approach to empirical (relational) data from a new angle: that of relations in a highly abstract sense of the term, which can thus be applied to many different things. Linguistic descriptions and our ability to understand complex relational constellations quickly reach their limit when we want to integrate the full relational picture. Network analysis and visualisations can help to transform empirical complexity into a research object, allowing exploration and communication of complex relational phenomena.
 
 
 ## Possible uses
 
-Networks are defined by nodes (entities) and edges (relations). In the context of social research, we often associate nodes with humans that are connected by all sorts of relations -- the edges. However, the abstract nature of a network approach means that any connected entities may be researched using network analysis techniques. Relations between characters in a plot can be traced by their interaction patterns, textual documents within a corpus by the co-presence of keywords, actors staring together in a film, companies operating in the same areas, words with semantic similarity, etc. This flexible tool can thus be adapted to specific research interests, strategies and methods, which will define what counts as a node and what counts as an edge.
+Networks are defined by nodes (entities) and edges (relations). In the context of social research, we often associate nodes with humans that are connected by all sorts of relations -- the edges. However, the abstract nature of a network approach means that any connected entities may be researched using network analysis techniques. Relations between characters in a plot can be traced by their interaction patterns, textual documents within a corpus by the co-presence of keywords, actors starring together in a film, companies operating in the same areas, words with semantic similarity, etc. This flexible tool can thus be adapted to specific research interests, strategies and methods, which will define what counts as a node and what counts as an edge.
 
 Networks can be extracted from distinct data formats and refer to relations between entities (people, words, organisations, places, etc.). Network data extraction can be derived from direct observation in natural settings. In this case, researchers may trace networks between research subjects within the physical space where the interaction takes place (e.g., networks of engagement or friendship). Another example can be the use of manual qualitative data analysis (QDA) methods to analyse texts in documents or interview transcriptions.
 
@@ -34,7 +34,7 @@ Depends on how deep you want to go. Some techniques and tools are quite straight
 
 ## Where to start
 
-The first important step is to ponder how network analysis may be an apt method for addressing particular research interests. If the focus is around nuanced and textured accounts that cannot be easily reduced to nodes and connections, it may be better to avoid this method. Network analysis is similar to questionnaire research in the sense that it requires formalising and operationalising concepts into indicators which can be turned into very concrete variables. In questionnaire research, the variables operationalise concepts and indicators as concrete questions and associated answers. In network analysis, the research concepts and the indicators are operationalised as entity variables (nodes) and the connections between them (edges).
+The first important step is to ponder how network analysis may be an apt method for addressing particular research interests. If the focus is on nuanced and textured accounts that cannot be easily reduced to nodes and connections, it may be better to avoid this method. Network analysis is similar to questionnaire research in the sense that it requires formalising and operationalising concepts into indicators which can be turned into very concrete variables. In questionnaire research, the variables operationalise concepts and indicators as concrete questions and associated answers. In network analysis, the research concepts and the indicators are operationalised as entity variables (nodes) and the connections between them (edges).
 
 Interactive frameworks for network analysis and visualisation such as Gephi enable intuitive exploration of the relations we call networks. The highly interactive quality of Gephi makes it perfect for uncovering hidden and complex patterns and structures that emerge from the data.
 
