@@ -1,11 +1,11 @@
 # LLMS 
 
 Schedule: 
-- 12:00-12:05 Housekeeping. 
-- 12:05-12:10 Introductions from the presenters and attendees. 
-- 12:10-12:25 An overview of LLMs.
-- 12:25-12:50 Discussion using this document of what LLMs can and cannot do. 
-- 12:50-13:00 Discuss available resources, way forwards and wrapping up. 
+- 14:00-14:05 Housekeeping. 
+- 14:05-14:10 Introductions from the presenters and attendees. 
+- 14:10-14:25 An overview of LLMs.
+- 14:25-14:50 Discussion using this document of what LLMs can and cannot do. 
+- 14:50-15:00 Discuss available resources, way forwards and wrapping up. 
 
 ## Introduction... 
 
