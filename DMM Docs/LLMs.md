@@ -47,7 +47,3 @@ For now though, we’ll be focusing primarily on instruction-following LLMs (or 
 3. [Hackers' Guide to Language Models ](https://www.cdcs.ed.ac.uk/events/silent-disco-hackers-guide-language-models]) 
 4. [FreeCodeCamp YouTube LLM Tutorial (For those willing to test their Python skills)](https://www.youtube.com/watch?v=UU1WVnMk4E8) 
 
-## Upcoming CDCS training? 
-
-28th April, 5th May and 12th May: Advanced Use of LLMs with Martin Disley 
-(this course will focus on getting attendees to understand how small cases of LLMs work and how they can be run locally).
