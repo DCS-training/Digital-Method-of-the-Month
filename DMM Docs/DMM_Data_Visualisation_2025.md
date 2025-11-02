@@ -174,8 +174,9 @@ Interactive data visualisation tools:
 
 ## Community initiatives for data viz
 *Getting involved*
-[MakeoverMondays](https://makeovermonday.co.uk/)
-[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/main/README.md)
+
+- [MakeoverMondays](https://makeovermonday.co.uk/)
+- [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/main/README.md)
 
 ## Getting started with your own applied data visualisation
 
@@ -208,6 +209,7 @@ Much of the content for this document was inspired by early tuition from Univers
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 
 
