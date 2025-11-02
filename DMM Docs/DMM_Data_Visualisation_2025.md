@@ -86,6 +86,7 @@ Back to - quantitative, ordinal or nominal data types
 **Bertin's ***visual variables*** & semiology of graphics:**
 
 ![Bertin's Visual Variables](./Images/BertinsVisualVariables.png)
+
 [Read more about the visual variables](https://towardsdatascience.com/data-visualization-explained-part-2-an-introduction-to-visual-variables/)
 [Semiology of graphics](https://countersubject.biz/wp-content/uploads/2024/08/Semiology-of-Graphics-Diagrams-Networks-Maps-Jacques-Bertin-Z-Library.pdf) PDF book
 > Credit: Bertin, J., 1983. Semiology of graphics. University of Wisconsin press. Original: Bertin, Jacques. 1967. Sémiologie graphique: Les diagrammes, les réseaux, les cartes. Paris: Editions Gauthier-Villars.
@@ -207,6 +208,7 @@ Much of the content for this document was inspired by early tuition from Univers
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 
 
