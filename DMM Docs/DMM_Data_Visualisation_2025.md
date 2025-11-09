@@ -150,7 +150,9 @@ Tufte’s principles are invaluable for keeping visualisations clear and unclutt
 3. Encode effectively with consideration for simple and clear variable representations (visual variable to data type)
 4. Choose chart formats and colour palettes that suit the number of items, the target audience, and ensure clear representations
 5. Ensure legends match visual elements relating to data features, are well placed and readable. 
-6. You don't have to use one chart to capture all of your data, consider linking sub charts to dive in from an overarching visualisation. 
+6. You don't have to use one chart to capture all of your data, consider linking sub charts to dive in from an overarching visualisation.
+
+- [Fell In Love With Data Blog](https://filwd.substack.com/)
 
 ## Programming tools for data visualisation
 
@@ -209,6 +211,7 @@ Much of the content for this document was inspired by early tuition from Univers
 
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 
 
