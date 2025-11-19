@@ -26,7 +26,7 @@ GIS can also help a researcher cross disciplinary boundaries when working on an 
 
 - _Create_ geographic data.
 - _Manage_ it.
-- _Analyze_ it and gather a better knowledge of the area as a whole system
+- _Analyze_ it and gather a better knowledge of the area as a whole system.
 - _Display_ it on a map.
 
 ## Concept to get familiar with
@@ -113,9 +113,9 @@ Like a lot of other methods, the things you could wish to learn are many and pot
 
 **CDCS LIVE UPCOMING TRAINING ON GIS**
 
-- 22/10/24-29/10/24 [Introduction to QGIS and Geospatial Data](https://www.cdcs.ed.ac.uk/events/intro-to-gis-oct24)
-- 08/11/24 [Silent Disco: Geocoding Historical Data Using QGIS](https://www.cdcs.ed.ac.uk/events/silent-disco-geocoding-historical-data-using-QGIS)
-- More to come in the second Semester (Geographical Data analysis with R, Geospatial Data Visualsiation etc..)
+- 28/11/25-05/12/25 [Intro to Geographical Data with QGIS](https://www.cdcs.ed.ac.uk/events/QGIS-2025)
+- 12/12/25 [Silent Disco: Working with Named Places: How and Why to Build a Gazetteer]([https://www.cdcs.ed.ac.uk/events/gazetteer-2025)
+- More to come in the second Semester (Geographical Data analysis with R, Geospatial Data Visualsiation etc.)
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
