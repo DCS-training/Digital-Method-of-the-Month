@@ -2,19 +2,19 @@
 
 # GIS
 
-# 15/10/2024
+# 21/11/2025
 
 ## Authors: L.Michielin, S. Bordoni, A. McLean, J. Page, K. Tong
 
 ## Today's Schedule
 
-12:00-12:10 Housekeeping and intro
+10:00-10:10 Housekeeping and intro
 
-12:10-12:25 Round of Presentation of the attendees 
+10:10-10:25 Round of Presentation of the attendees 
 
-12:25 –12:50 discussion using this document
+10:25 –10:50 discussion using this document
 
-12:50-13:00 discuss available resources, way forwards and wrapping up
+10:50-11:00 discuss available resources, way forwards and wrapping up
 
 ## Intro
 
