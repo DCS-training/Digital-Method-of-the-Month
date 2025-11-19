@@ -12,9 +12,9 @@
 
 10:10-10:25 Round of Presentation of the attendees 
 
-10:25 –10:50 discussion using this document
+10:25 –10:50 Discussion using this document
 
-10:50-11:00 discuss available resources, way forwards and wrapping up
+10:50-11:00 Discuss available resources, way forwards and wrapping up
 
 ## Intro
 
