@@ -53,8 +53,7 @@
 -   Making sure your data is tidy and easy to use (https://vita.had.co.nz/papers/tidy-data.pdf).
 -   [Know your sample size expectations](https://quantitudepod.org/s4e13-power/) - Do you have the power?
 -   [What to do with a small sample - Is it always a problem?](https://quantitudepod.org/s2e25-options-for-small-samples/)
--   What to do with missing data?
--   Learning curve
+-   [What to do with missing data?](https://quantitudepod.org/s4e08-craig-enders/). The [Naniar](https://naniar.njtierney.com/) R package is an amazing tool for visualising and understanding the potential implications of missing data.
 -   Not having a pre-set of questions - beware of accidental p-hacking/cherry picking.
 -   [Know the limitations of p values](https://www.youtube.com/watch?v=42QuXLucH3Q) 
 -   Statistical significance vs meaningful significance.
@@ -72,7 +71,7 @@ Depending on the type of analysis you are going to conduct, there are different 
 
 -   Excel (not a good idea, but if you need to calculate summarising stats quickly, it will be easy to use)
 -   [SPSS](https://en.wikipedia.org/wiki/SPSS) (Easier interface - but will misspecify categorical variables as numeric for regression analyses)
--   [JASP}(https://jasp-stats.org/) An open source graphic user interface for conducting statistics. Think of SPSS, but free, and with greater access to contemporary analyses, and less annoying to use.
+-   [JASP](https://jasp-stats.org/) An open source graphic user interface for conducting statistics. Think of SPSS, but free, and with greater access to contemporary analyses, and less annoying to use.
 -   [R and R Studio](https://bookdown.org/mikemahoney218/LectureBook/basic-statistics-using-r.html)
 -   [Python and SciPy](https://en.wikipedia.org/wiki/SciPy)
 
@@ -314,4 +313,5 @@ Corrections
 -   <https://rpubs.com/Nolan/298913>
 
 -   <https://www.youtube.com/watch?v=r-AQxb1_BKA>
+
 
