@@ -2,19 +2,19 @@
 
 ## Descriptive and inferential statistics
 
-## 29-01-24
+## 23-01-26
 
 ### Today's schedule
 
--   12:00-12:05 Housekeeping
+-   10:00-10:05 Housekeeping
 
--   12:05-12:10 Brief introduction to the method and how we are going to structure the session
+-   10:05-10:10 Brief introduction to the method and how we are going to structure the session
 
--   12:10-12:25 Round of Presentation of the attendees and brief intro of those who said they would be happy to talk
+-   10:10-10:25 Round of Presentation of the attendees and brief intro of those who said they would be happy to talk
 
--   12:25 --12:50 discussion using this document
+-   10:25-10:50 discussion using this document
 
--   12:50-13:00 discuss available resources, way forwards and wrapping up
+-   10:50-11:00 discuss available resources, way forwards and wrapping up
 
 ## Introduction
 
@@ -50,62 +50,55 @@
 ## Easy Pitfalls
 
 -   Not knowing your dataset well
+-   Making sure your data is tidy and easy to use (https://vita.had.co.nz/papers/tidy-data.pdf).
 -   [Know your sample size expectations](https://quantitudepod.org/s4e13-power/) - Do you have the power?
 -   [What to do with a small sample - Is it always a problem?](https://quantitudepod.org/s2e25-options-for-small-samples/)
--   What to do with missing data?
--   Learning curve
+-   [What to do with missing data?](https://quantitudepod.org/s4e08-craig-enders/). The [Naniar](https://naniar.njtierney.com/) R package is an amazing tool for visualising and understanding the potential implications of missing data.
 -   Not having a pre-set of questions - beware of accidental p-hacking/cherry picking.
--   [Know the limitations of p values](https://www.youtube.com/watch?v=42QuXLucH3Q)
+-   [Know the limitations of p values](https://www.youtube.com/watch?v=42QuXLucH3Q) 
 -   Statistical significance vs meaningful significance.
 -   Not knowing the limitation of the method/dataset, e.g. many tests works on normally distributed, independent samples.
 -   Working with Likert measures.
 -   [Reporting conventions](https://apastyle.apa.org/style-grammar-guidelines/tables-figures).
--   [Correlation is not causation](https://www.tylervigen.com/spurious-correlations) (But it can be sometimes!)
+-   [Correlation is not always causation](https://www.tylervigen.com/spurious-correlations) (But it can be sometimes!)
+-   Beware the Simpon's paradox! When looking at correlations with population groups, we can sometimes find that the correlation can simulataenously be positive and negative. Both are correct, we just need to make sure the analysis aligns with the research question. (https://en.wikipedia.org/wiki/Simpson%27s_paradox).
+-   Always visualise your analysis - numbers alone do not tell us the full story. The [datasaurus visualisation](https://jumpingrivers.github.io/datasauRus/) nicely demonstrates 12 very different datasets which happen to have identical means, standard deviations, and correlation coefficients.
+-   Getting overwhelmed on whether I need a t-test, ANOVA or regression... They are all forms of general linear models, and will give the same output from a different perspectives (<https://lindeloev.github.io/tests-as-linear/>). 
 
 ## Software
 
 Depending on the type of analysis you are going to conduct, there are different software you can use to facilitate it
 
 -   Excel (not a good idea, but if you need to calculate summarising stats quickly, it will be easy to use)
--   [SPSS](https://en.wikipedia.org/wiki/SPSS) (Easy interface - but will misspecify categorical variables as numeric for regression analyses)
+-   [SPSS](https://en.wikipedia.org/wiki/SPSS) (Easier interface - but will misspecify categorical variables as numeric for regression analyses)
+-   [JASP](https://jasp-stats.org/) An open source graphic user interface for conducting statistics. Think of SPSS, but free, and with greater access to contemporary analyses, and less annoying to use.
 -   [R and R Studio](https://bookdown.org/mikemahoney218/LectureBook/basic-statistics-using-r.html)
 -   [Python and SciPy](https://en.wikipedia.org/wiki/SciPy)
 
 ## Training
 
--   [Digital Method of the Month: Focus on Statistical Methods Part 2 - Linear Modelling](https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-linear-modelling) 01 Feb 2024 12:00-13:00
-
--   [Digital Method of the Month: Focus on Statistical Methods Part 3 - Simulation](https://www.cdcs.ed.ac.uk/events/digital-method-of-the-month-statistical-methods-simulation) 07 Feb 2024 12:00-13:00
-
--   [From SPSS to R: How to Make Your Statistical Analysis Reproducible](https://www.cdcs.ed.ac.uk/events/spss-to-r) 19 -26 Feb 2024 10:00-12:00
-
--   [A Gentle Introduction to Causal Inference](https://www.cdcs.ed.ac.uk/events/causal-inference) 6 Mar 2024 14:00 - 16:00.
-
--   [Digital Method of the Month: Machine Learning](https://www.cdcs.ed.ac.uk/events/digital-method-month-machine-learning) 05 Apr 12:00-13:00
-
--   [Introduction to Machine Learning with Python](https://www.cdcs.ed.ac.uk/events/intro-machine-learning-python) 08-15 Apr 14:00-16:00
-
--   [Interactive Analysis Reports with R Markdown](https://www.cdcs.ed.ac.uk/events/interactive-analysis-reports-r-markdown) 11 Apr 10:00-12:00
-
--   [Introduction to Bayesian Statistics](https://www.cdcs.ed.ac.uk/events/intro-bayesian-statistics) 17-24 Apr 14:00-16:00
-
--   [Null Hypothesis Testing in R](https://www.cdcs.ed.ac.uk/events/null-hypothesis-testing-r) 18-25 Apr 10:00-12:00
-
--   [Regression and Mixed Effects Modelling](https://www.cdcs.ed.ac.uk/events/regression-mixed-effects-modelling) 29 Apr -13 May 14:00-16:00
+-   [Data Analysis Workflow Design](https://www.cdcs.ed.ac.uk/events/data-analysis-workflow-design) 02 Feb 2026, 14:00-17:00
+-   [Good Data Visualisation with R](https://www.cdcs.ed.ac.uk/events/good-data-visualisation-with-R) 06 Feb 2026, 10:00-12:00; 13 Feb 2026, 10:00-12:00
+-   [Getting Started with Data Analaysis in Python](https://www.cdcs.ed.ac.uk/events/getting-started-with-data-analysis-in-python) 18 Feb 2026, 14:00-16:00, 25 Feb 2026, 14:00 - 16:00
+-   [Digital Method of the Month: Machine Learning](https://www.cdcs.ed.ac.uk/events/DMM-machine-learning-2026) 04 Mar 2026, 15:00-16:00
+-   [A Gentle Introduction to Causal Inference](https://www.cdcs.ed.ac.uk/events/a-gentle-introduction-to-causal-inference) 5 Mar 2026, 14:00–16:00; 12 Mar 2026, 14:00–16:00
+-   [Foundations of Mahine Learning](https://www.cdcs.ed.ac.uk/events/foundations-of-machine-learning) 6 Mar 2026, 10:00–12:00; 13 Mar 2026, 10:00–12:00
+-   [Digital Method of the Month: Organising Data via Databases](https://www.cdcs.ed.ac.uk/events/digital-method-month-organising-data-databases) 30 Mar 2026, 14:00–15:00
+-   [Getting Started with Regression in R](https://www.cdcs.ed.ac.uk/events/getting-started-with-regression-in-R) 15 Apr 2026, 10:00–12:00; 22 Apr 2026, 10:00–12:00
+-   [Getting Started with Bayesian Statistics](https://www.cdcs.ed.ac.uk/events/getting-started-with-bayesian-statistics) 21 Apr 2026, 14:00–16:00; 28 Apr 2026, 14:00–16:00
+-   [Linear Mixed Effects Modelling](https://www.cdcs.ed.ac.uk/events/linear-mixed-effects-modelling) 29 Apr 2026, 10:00–12:00; 6 May 2026, 10:00–12:00; 13 May 2026, 10:00–12:00
+-   [Explainable Machine Learning (XAI)](https://www.cdcs.ed.ac.uk/events/explainable-machine-learning-XAI) 1 May 2026, 10:00–12:00; 8 May 2026, 10:00–12:00
 
 ### Self-learning and External courses
 
 Material and online courses on statistics are many. Here is a small selection to help you kick off.
 
--   <https://quantitudepod.org/> - My favourite geeky podcast. Full of gems on statistical analyses and navigating academic careers..
--   <https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw>(Fantastic youtube channel that explains in an easy way complex statistical concepts)
--   <https://www.linkedin.com/learning/r-statistics-essential-training>​
--   <https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw> ​
--   <https://rcompanion.org/handbook/C_02.html>​
--   <https://towardsdatascience.com/descriptive-statistics-in-r-8e1cad20bf3a>​
--   <http://www.sthda.com/english/wiki/descriptive-statistics-and-graphics>​
--   <https://www.youtube.com/watch?v=BiLIcCtXmm0>​
--   <https://www.youtube.com/watch?v=SzZ6GpcfoQY>​
+-   <https://quantitudepod.org/> - My favourite geeky podcast. Full of gems on statistical analyses and navigating academic careers. The syllabus section is particularly helpfull, and each episode from season 2 onwards will contain a very useful reading list.
+-   <https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw> - Stat Quest with John Starmer. Fantastic youtube channel that explains in an easy way complex statistical concepts)
+-   <https://www.youtube.com/@very-normal> - Very Normal Statistics. Another fantastic youtube resource with provides both explainers and deep dives on statistics in an accesible and entertaining manner.
+-   <https://hiss-r-resources.shinyapps.io/game/> An app Rhys Davies designed to help you understand regressions and interaction effects with interactive plots.
+-   <https://www.linkedin.com/learning/r-statistics-essential-training> -  Linkedin R training to help you get started​​​​
+-   <[http://www.sthda.com/english/wiki/descriptive-statistics-and-graphics](https://www.sthda.com/english/wiki/descriptive-statistics-and-graphics)>​​
 -   <https://www.coursera.org/specializations/statistics>
 -   <https://learningstatisticswithr.com/>
 -   <https://online-learning.harvard.edu/course/statistics-and-r?delta=0>
@@ -320,3 +313,5 @@ Corrections
 -   <https://rpubs.com/Nolan/298913>
 
 -   <https://www.youtube.com/watch?v=r-AQxb1_BKA>
+
+
