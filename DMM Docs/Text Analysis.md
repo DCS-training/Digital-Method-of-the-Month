@@ -133,7 +133,7 @@ Tools from media labs, such as the [Digital Methods Initiative, University of Am
 
 [The Programming Historian tutorials](https://programminghistorian.org/en/lessons/?topic=python)
 
-Python&#39;s **NLTK** is a popular text analysis library with many online resources, and it&#39;s open source (free!) There are also libraries like spaCy and Gensim which are usable alongside NLTK for many advanced text processing operations, such as topic modelling and NER.
+Python&#39;s Natural Language Toolkit (**NLTK**) is a popular text analysis library with many online resources, and it&#39;s open source (free!) There are also libraries like spaCy and Gensim which are usable alongside NLTK for many advanced text processing operations, such as topic modelling and NER.
 
 R&#39;s **QUANTEDA** (Quantitative Analysis of Textual Data) is a popular text analysis package for R users, which has a variety of models and sample corpora built in for text analysis.
 
