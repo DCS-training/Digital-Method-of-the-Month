@@ -18,7 +18,7 @@ Edinburgh Futures Institute
 12:55 Wrap up (5 minutes)
 
 
-## **What is text analysis?**
+## **What is quantitative text analysis?**
 
 The computational exploration of language and linguistic features in textual data
 
