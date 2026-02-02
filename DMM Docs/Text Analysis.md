@@ -6,11 +6,7 @@ An introduction to text analysis tools, formats and considerations
 
 Edinburgh Futures Institute 
 
-Alex Crest. Archaeology PhD Student
-
-
-
-
+Alex Crest. Archaeology PhD Researcher
 
 
 ## **Schedule**
@@ -34,6 +30,18 @@ This can include assigning numerical values to texts that gauge sentiment, to un
 ## **Why would I use text analysis?**
 
 To answer specific research questions
+
+These can be data orientated:
+1. What themes occur in customer reviews associated with the Samsung Series 5/8 Washing Machine?
+2. What issues do politicians emphasise at Prime Ministers Questions?
+3. What concerns appear most often in patient feedback?
+
+Also broader, where the data is analysed for more detailed work:
+1. What are the heritage values of the Antonine Wall in different social, spatial and digital contexts?
+Sub research questions:
+    What attachments do different communities have with different places? 
+		How are these expressed? (As a Google Maps Local Guide, on Social          Media?)
+		What are the mechanisms through which values develop?
 
 To summarize HUGE amounts of text 
 
@@ -84,18 +92,24 @@ Event extraction – to find events that entities participate in
 
 Key word extraction
 
-Clustering
-
 Classification
 
-Sentiment analysis – to estimate positivity or negativity 
+Sentiment analysis – to estimate positivity or negativity. 
+- There are many different types e.g. lexicon-based, rule based etc.
 
 Topic modelling
 - video introduction/examples [here](https://www.youtube.com/watch?v=IUAHUEy1V0Q)
 
+Clustering
+
+<img width="925" height="602" alt="image" src="https://github.com/user-attachments/assets/38d6ecd1-7e16-4b2b-9f3e-e62295ceaefd" />
+(Sievert and Shirley, 2014, 69)
+
 Word embeddings – to study meanings, how meanings change over time
 
 Large language model (LLM) and generative AI (GenAI) approaches
+
+Crucially: Research your methods, learn their technicity (their operating function) and critically apply them to match your data and questions.
 
 
 ## **How can I do text analysis?**
@@ -104,7 +118,7 @@ Large language model (LLM) and generative AI (GenAI) approaches
 
 (1) data preparation
 
-(2) standardization
+(2) standardisation
 
 (3) analysis
 
@@ -113,6 +127,42 @@ Large language model (LLM) and generative AI (GenAI) approaches
 (A) use out-of-the-box tools
 
 (B) customise existing tools for your needs
+
+Before beginning, it is important to familiarise yourself with the vocabulary, including:
+
+**Tokens** : words, numbers, punctuation that are tokenised (they become represented by a number or digited in a matrix)
+
+**Stopwords** : commonly appearing words often considered to be 'filler' or irrelevant (e.g. 'it', 'an', 'the', 'he', 'she'), that are removed before text analysis occurs to reduce 'noise'
+
+**Concordances** : lists of a particular word in its usage contexts across a corpus ( I ran **home** from work ; **home** is where the heart is ; We built our **home** together).
+
+**Stems** : root form of a word that may not be a word itself (**read** reader, reading, unread; **dict** predict, dictionary, verdict)
+
+**Lemmas** : root form of a word that is itself a word: The dictionary version.
+
+Decide how much time you need or can spend cleaning your text (data)
+
+
+**What are important considerations when doing text analysis?**
+
+Keep in mind that you may need to format your text in different ways for the different questions you&#39;re investigating.
+
+For example: lowercasing (or &quot;casefolding&quot;) all words is useful when calculating word frequencies, but not when tagging parts of speech
+
+If your text has been digitized using OCR (optical character recognition) or HRT (handwriting recognition technology), it WILL NOT be a perfect copy of the physical text, unless someone has manually reviewed and corrected the digitized text.
+
+If your text is in multiple languages, you may need different models for each of them (ie. different lemmatizers, different NER models)
+
+If your text has been scraped from the internet, in particular social media, you may have web-specific features to deal with, such as URLs, DOIs, hashtags, emojis, images, and references to other users. You should consider whether these have value for your research project and how they should be treated.
+
+Figure out the optimal method to answer your research questions or meet the objectives of your project, and what you’re trying to measure. Are you focused on words, entities, topics, etc.?
+
+Figure out how to present the results of your data. 
+
+Common preprocessing pipelines include cleaning, stopword removal (often using a standard list), stemming and/or lemmatizing. However, depending upon your research question, some (or all) of these preprocessing steps might not be suitable. 
+
+
+
 
 ## **A note on LLMs/GenAI**
 
@@ -127,6 +177,8 @@ b) exploring a dataset by interacting with LLMs through chatbot interfaces or th
 c) adjusting LLMs through fine tuning to improve their ability to perform a specific type of analysis or interpret a specific type of dataset
 
 While we won't be discussing LLMs and GenAI in detail today, we have linked some resources at the end of this file if you're interested in learning more.
+
+
 
 
 ## **Tools and resources**
@@ -173,38 +225,6 @@ The University of Edinburgh also runs [Notaeble](https://noteable.edina.ac.uk/),
 
 [**Anaconda**](https://www.anaconda.com/) - an open-scource set of libraries in R and Python; suitable for advanced text analysis using AI and machine learning
 
-**What are important considerations when doing text analysis?**
-
-Familiarize yourself with the vocabulary, including:
-
-**Tokens** : words, numbers, punctuation
-
-**Stopwords** : commonly appearing words often considered to be 'filler' or irrelevant (e.g. 'it', 'an', 'the', 'he', 'she')
-
-**Concordances** : list of a particular word in its usage contexts across a corpus
-
-**Stems** : root form of a word that may not be a word itself
-
-**Lemmas** : root form of a word that is itself a word
-
-Decide how much time you need or can spend cleaning your text (data)
-
-Keep in mind that you may need to format your text in different ways for the different questions you&#39;re investigating.
-
-For example: lowercasing (or &quot;casefolding&quot;) all words is useful when calculating word frequencies, but not when tagging parts of speech
-
-If your text has been digitized using OCR (optical character recognition) or HRT (handwriting recognition technology), it WILL NOT be a perfect copy of the physical text, unless someone has manually reviewed and corrected the digitized text.
-
-If your text is in multiple languages, you may need different models for each of them (ie. different lemmatizers, different NER models)
-
-If your text has been scraped from the internet, in particular social media, you may have web-specific features to deal with, such as URLs, DOIs, hashtags, emojis, images, and references to other users. You should consider whether these have value for your research project and how they should be treated.
-
-Figure out the optimal method to answer your research questions or meet the objectives of your project, and what you’re trying to measure. Are you focused on words, entities, topics, etc.?
-
-Figure out how to present the results of your data. 
-
-Common preprocessing pipelines include cleaning, stopword removal (often using a standard list), stemming and/or lemmatizing. However, depending upon your research question, some (or all) of these preprocessing steps might not be suitable. 
-
 ## **Additional Resources**
 
 LinkedIn Learning - available to all University staff and students from MyEd portal
@@ -246,6 +266,8 @@ Bird, Steven and Klein, Ewan and Loper, Edward. (2019). [_Natural Language Proce
 Alex, Beatrice. (2020). [_Geoparsing English Language Text with the Edinburgh Geoparser_](https://programminghistorian.org/en/lessons/geoparsing-text-with-edinburgh). The Programming Historian.
 
 Silge, Julia and Robinson, David. [_Tidy Text Mining with R._](https://www.tidytextmining.com/index.html)
+
+Sievert, C., & Shirley, K. (2014, June). LDAvis: A method for visualizing and interpreting topics. In Proceedings of the workshop on interactive language learning, visualization, and interfaces (pp. 63-70).
 
 
 ## **CDCS upcoming training**
