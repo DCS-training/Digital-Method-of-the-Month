@@ -270,8 +270,8 @@ Silge, Julia and Robinson, David. [_Tidy Text Mining with R._](https://www.tidyt
 Sievert, C., & Shirley, K. (2014, June). LDAvis: A method for visualizing and interpreting topics. In Proceedings of the workshop on interactive language learning, visualization, and interfaces (pp. 63-70).
 
 
-## **CDCS upcoming training**
-- Keep up with our training programme for 2025 [here](https://www.cdcs.ed.ac.uk/training)
+## **upcoming training**
+- Keep up with our training programme for 2025/2026 [here](https://www.cdcs.ed.ac.uk/training)
 
 
 
@@ -283,7 +283,7 @@ Sievert, C., & Shirley, K. (2014, June). LDAvis: A method for visualizing and in
 - [Edina Introduction to sentiment analysis ](https://learn.edina.ac.uk/sentiment/)
 - [Webscraping News sites](https://github.com/DCS-training/WebscrapingNewsitesWithPython)
 
-## Authors: Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk), Jessica Witte (jessica.wite@ed.ac.uk)  
+## Authors: Alex Crest (Alex.Hiscock@ed.ac.uk), Lucy Havens (lucy.havens@ed.ac.uk), James Besse (James.Besse@ed.ac.uk), Jessica Witte (jessica.wite@ed.ac.uk)  
 
 Any questions? Thank you for joining today! Please let us know how you found the session [here](https://forms.office.com/r/pfqHFYqvfS)!
 
