@@ -1,35 +1,39 @@
 # **Digital Method of the Month: Text Analysis**
 
-10 February 2025
+An introduction to text analysis tools, formats and considerations
+
+9 February 2026
 
 Edinburgh Futures Institute 
+
+Alex Crest. Archaeology PhD Student
+
+
+
+
 
 
 ## **Schedule**
 
-12:00 Housekeeping (5 minutes)
+12:00 Housekeeping and Introductions
 
 12:05 Overview of this text analysis session (5 minutes)
 
-12:10 Round of introductions (10 minutes)
-
-12:20 Text analysis (35 minutes)
+12:10 Text analysis (45 minutes)
 
 12:55 Wrap up (5 minutes)
 
 
 ## **What is quantitative text analysis?**
 
-The computational exploration of language and linguistic features in textual data
+The computational exploration of language and linguistic features in textual data.
 
-Datasets can be _structured_ or _unstructured_:
-
--Structured data contains an observable organisational pattern (e.g. could be stored in a spreadsheet or database: multiple choice survey results, library metadata, census data)
-
--Unstructured data does not (digitised novels by Jane Austen, transcribed interviews, open-ended survey results)
+This can include assigning numerical values to texts that gauge sentiment, to understanding common words and phrases and bundling these into topics, to detecting associated terms that occur alongside a common key term to see how meaning changes in different contexts.
 
 
 ## **Why would I use text analysis?**
+
+To answer specific research questions
 
 To summarize HUGE amounts of text 
 
@@ -44,6 +48,14 @@ To identify places or organizations named in a dataset or _corpus_ (collection o
 To extract certain types of information from a dataset
 
 To examine patterns in a text or corpus
+
+To target more in-depth analysis
+
+Datasets can be _structured_ or _unstructured_:
+
+-Structured data contains an observable organisational pattern (e.g. could be stored in a spreadsheet or database: multiple choice survey results, library metadata, census data)
+
+-Unstructured data does not (digitised novels by Jane Austen, transcribed interviews, open-ended survey results)
 
 
 ## **Some common text analysis methods:**
@@ -69,6 +81,10 @@ Named entity recognition – to find people, places, organizations, etc.
 Relation extraction – to find relationships among entities
 
 Event extraction – to find events that entities participate in
+
+Key word extraction
+
+Clustering
 
 Classification
 
