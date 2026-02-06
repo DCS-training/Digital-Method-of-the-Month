@@ -71,8 +71,9 @@ Datasets can be _structured_ or _unstructured_:
 Word/n-gram frequencies 
 - more information [here](https://medium.com/the-data-nudge/nlp-basics-what-are-n-grams-e60cb125a758)
 - Google Books [ngram viewer](https://books.google.com/ngrams/)
+- N-Gram = common word coocurences e.g. a trigram "Walk the dog"
 
-Sentence segmentation
+Sentence segmentation : seperating indivudal sentences
 
 Collacates – words that occur in close proximity to one another
 - more information [here](https://books.google.com/ngrams/)
