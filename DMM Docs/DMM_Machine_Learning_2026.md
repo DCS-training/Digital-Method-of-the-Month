@@ -10,6 +10,16 @@ Schedule & itinerary:
 > - 15:30 - Demonstration of simulated neural network and functions for classification task.
 > - 15:45 - Q & A
 
+## Contents page
+- [Introduction](#introduction)
+- [Vocabulary & key terms](#vocabulary--key-terms)
+- [Supervised ML](#supervised-ml---labelled-data)
+- [Unsupervised ML](#unsupervised-ml---non-labelled-data)
+- [Limitations & quandaries](#limitations-and-quandaries)
+- [Applied learning](#further-applied-learning--practice)
+- [Further reading- academic](#further-reading--around-ml-methods-academic-texts)
+- [Further reading - general](#general-texts--media-materials-for-overview)
+
 ## Introduction
 
 In in the 1940s Alan Turing suggested that machines could ***learn***. Developing algorithms to implement this form of learning was not introduced until the 1950s with experiments training programms to learn and play games like chess. The process for developing these learning instances were further advanced and applied Backgammon & GO. One of the functional everyday applications of ML is the categorisation of emails spam/not spam using classification algorithms.
@@ -18,7 +28,7 @@ Early development of artificial neural networks from foundational neuroscience r
 
 The history and development of machine learning from early statistical inference frameworks for higher level representations of learning, training features, through symbolic representations to rule based inductions give a lot of weight to the advanced methodologies available under the AI umbrella today.
 
-### Vocabulary & key terms
+## Vocabulary & key terms
 
 [Tom Mitchell - Glossary of ML terms - hyperlink to pdf](https://link.springer.com/content/pdf/10.1023/A:1017181826899.pdf)
 
