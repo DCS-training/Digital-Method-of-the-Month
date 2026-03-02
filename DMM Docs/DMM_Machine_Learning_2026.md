@@ -4,11 +4,11 @@
 ### Author: Somya Iqbal
 
 Schedule & itinerary:
-> - Brief introduction
-> - Feedback from attendees on goals and directions
-> - Talk covering the main branches of ML and related use cases
-> - Demonstration of simulated neural network and functions for classification task.
-> - Q & A
+> - 15:00 - Brief introduction
+> - 15:10 - Feedback from attendees on goals and directions
+> - 15:20 - Talk covering the main branches of ML and related use cases
+> - 15:30 - Demonstration of simulated neural network and functions for classification task.
+> - 15:45 - Q & A
 
 ## Introduction
 
@@ -22,6 +22,7 @@ The history and development of machine learning from early statistical inference
 
 [Tom Mitchell - Glossary of ML terms - hyperlink to pdf](https://link.springer.com/content/pdf/10.1023/A:1017181826899.pdf)
 
+Examples:
 - Features
 - Output/target
 - Recall
@@ -30,6 +31,10 @@ The history and development of machine learning from early statistical inference
 There are overlaps and also differences in terminology between statistical domains and ML.
 
 > ## Task (T), Performance (P) & Evaluation (E)
+Framework: What should the model do? (T).
+Which data forms experience? (E).
+& how do we know it improved? (P).
+'Learning' is therefore a measurable improvement on **task** and **performance** with added **experience**.
 
 ## Supervised ML - Labelled data
 
@@ -37,20 +42,25 @@ Here we have a dataset we use for input, but have desired output category, this 
 
 #### **Regression**
 > Predicting continuous values
-- Linear regression, Random forest, Decision tree (regression), k-nearest neighbours, neural networks, Bayesian networks.
+- Linear regression, Random forest, Decision tree (regression), k-nearest neighbours, neural networks, Bayesian networks, gradient boosting.
 #### **Classification** 
-> predicting a category or class
-- Logistic regression, Decision trees, Random forest, support vector machines, KNN, neural networks.
+> Predicting a category or class
+- Logistic regression, Decision trees, Random forest, support vector machines, KNN, neural networks, Naive Bayes, gradient boosting.
 
 Typically the way a supervised ML workflow would be applied would include (Example):
 1. Define research question
 2. Data collection
-3. Annotation (labels)
-4. Feature representation
-5. TRain/Test split
-6. Model selection
-7. Evaluation
-8. Interpretation & secondary validations from domain
+3. Clean & pre-process
+4. Annotation (labels)
+5. Feature representation
+6. Train/Test split
+7. Model selection
+8. Evaluation
+9. Interpretation & secondary validations from domain
+10. Report
+
+Example:
+- [Tabular classification: Iris dataset from UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/53/iris)
 
 ## Unsupervised ML - Non labelled data
 
@@ -59,9 +69,11 @@ A notable difference in unsupervised methods is no label on the input data. The 
 - **Clustering**
 -- grouping similar items
 -> PCA (Principal Component Analysis), K-means, DBSCAN, hierarchical clustering
-- **Dimension reduction** -- reducing the number of features
+- **Dimension reduction** -- reducing the number of features, often occurs upstream in a data analysis workflow.
 - **Association learning** -- discovering rules in the data
-- **Visualisation** -- UMAP, t-sne
+- **Visualisation** -- UMAP (non-linear manifold learning), t-SNE
+
+Clustering answers “Which observations are similar enough to group together?”; anomaly detection answers “Which observations are inconsistent with the bulk distribution?”
 
 ## Reinforcement Learning
 
@@ -70,33 +82,45 @@ Learning through mediums such as reward - another neuroscience foundation.
 ## Use cases
 
 Discussion: When do you need ML as opposed to traditional statistical methods?
+
+Potential goals: 
+
 - Hypothesis testing
 - Classification of groups
 - Feature generation/extraction
 - Dataset alignment
 - Match scoring
+- Other
 
 ## Limitations and quandaries
 
-- Overfitting
-- Underfitting
-- Training & test data
-- Small datasets & high variances
+- Overfitting - too tailored to training data
+- Underfitting - model is insufficient for mapping/representing  data
+- Training & test data splits - Methodological essentials
+- Small datasets & high variances - Data preparation & considerations
+- 'Leakage' - processes for handling data during workflow
+- Misuse of metrics based on dataset balance (AUC, ROC, & PR) - evaluation, interpretation and reporting (balance/unbalanced).
 
 ### A lens on neural networks
 
 -  Demo: [Neural Playground - visual environment](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.36040&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
+Task: take a problem, tweak parameters (learning rate, functions, keep an eye on loss rates, number of layers/neurons) and apply classification/regression model to solve the puzzle.
+
 ### Unsupervised methods - A simulated view
 Simulated PCA, UMAP, T-SNE 
 - Demo: [Embedding projector- visual environment](https://projector.tensorflow.org/)
 
-## Further applied learning
+A visual inspection of what projected data in space looks like.
+
+## Further applied learning & practice
 >- [Keras workbook via Tensorflow - classification task](https://www.tensorflow.org/tutorials/keras/classification)
 >- [Scikit-learn examples and guide](https://scikit-learn.org/stable/index.html)
+>- [Kaggle - intro to machine learning online short course](https://www.kaggle.com/learn/intro-to-machine-learning)
+>- [Clustering textual data](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
+>- [Training courses at CDCS](https://www.cdcs.ed.ac.uk/training)
 
-
-## Further reading 
+## Further reading  around ML methods (academic texts)
 - Hastie, Tibshirani, Friedman, "The Elements of Statistical Learning", Springer, 2001.
 >Reinforcement learning
 - Reinforcement Learning: Theory & Algorithms by Agarwal, Jiang, Kakade & Sun
@@ -119,6 +143,11 @@ Springer.
 - Sucar, E. (2015) Probabilistic Graphical Models. Principles and Applications.
 Springer.
 
+> **Note:** Those interested in theoretical foundations, the pre-requisite for understanding ML at the base blocks include brushing up on linear algebra, calculus and probability theory/information theory. Applied ML however is widely democratic in terms of accessibility, using programming languages like R or Python (most common) has facilitated a plethora of available libraries and packages to apply ready ML models to data, tweak parameters and conditions and follow pre-existing analysis workflows.
 
+## General texts & media materials for overview
+- [IBM - Intro to ML](https://www.ibm.com/think/topics/machine-learning)
+- [Google - ML crash course](https://developers.google.com/machine-learning/crash-course)
+- [Springer- book - intro to ML for beginners - available with University access](https://link.springer.com/book/10.1007/978-3-030-15729-6)
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
