@@ -28,6 +28,12 @@ Early development of artificial neural networks from foundational neuroscience r
 
 The history and development of machine learning from early statistical inference frameworks for higher level representations of learning, training features, through symbolic representations to rule based inductions give a lot of weight to the advanced methodologies available under the AI umbrella today.
 
+![Umbrella_Overview](Images/Overview.png)
+
+Visual systems – images, pixels, hue, edges..
+Natural language – phenomics, structure, grammar
+Speech – tone, signals, patterns..
+
 ## Vocabulary & key terms
 
 [Tom Mitchell - Glossary of ML terms - hyperlink to pdf](https://link.springer.com/content/pdf/10.1023/A:1017181826899.pdf)
@@ -111,17 +117,24 @@ Potential goals:
 - 'Leakage' - processes for handling data during workflow
 - Misuse of metrics based on dataset balance (AUC, ROC, & PR) - evaluation, interpretation and reporting (balance/unbalanced).
 
+Example:
+![Over_&_Underfitting](Images/OverandUnderfitting.png)
+- [Image source] - https://medium.com/analytics-vidhya/understanding-overfitting-and-underfitting-in-machine-learning-2a2f3577fb27
 ### A lens on neural networks
 
 -  Demo: [Neural Playground - visual environment](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.36040&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 Task: take a problem, tweak parameters (learning rate, functions, keep an eye on loss rates, number of layers/neurons) and apply classification/regression model to solve the puzzle.
 
+![Functions and elements](Images/Classify.png)
+
 ### Unsupervised methods - A simulated view
 Simulated PCA, UMAP, T-SNE 
 - Demo: [Embedding projector- visual environment](https://projector.tensorflow.org/)
 
-A visual inspection of what projected data in space looks like.
+A visual inspection:
+
+![PCA EXAMPLE](Images/PCA.png)
 
 ## Further applied learning & practice
 >- [Keras workbook via Tensorflow - classification task](https://www.tensorflow.org/tutorials/keras/classification)
@@ -159,5 +172,7 @@ Springer.
 - [IBM - Intro to ML](https://www.ibm.com/think/topics/machine-learning)
 - [Google - ML crash course](https://developers.google.com/machine-learning/crash-course)
 - [Springer- book - intro to ML for beginners - available with University access](https://link.springer.com/book/10.1007/978-3-030-15729-6)
+- [Tutorials on mathematical elements for ML with visual examples- from 3blue1brown](https://www.3blue1brown.com/)
+
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
