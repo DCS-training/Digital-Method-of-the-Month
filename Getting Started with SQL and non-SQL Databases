@@ -1,0 +1,6 @@
+
+Scalability: Designed to scale horizontally across many servers, making them suitable for handling large volumes of data and high user loads.
+
+Flexibility: Schema-less or flexible schema designs allow easy modifications to data models without requiring complex migrations.
+
+Performance: Optimized for specific types of queries, like text searches, graph traversals, or simple key-value lookups.
