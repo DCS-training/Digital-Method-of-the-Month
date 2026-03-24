@@ -1,11 +1,4 @@
 
-Scalability: Designed to scale horizontally across many servers, making them suitable for handling large volumes of data and high user loads.
-
-Flexibility: Schema-less or flexible schema designs allow easy modifications to data models without requiring complex migrations.
-
-Performance: Optimized for specific types of queries, like text searches, graph traversals, or simple key-value lookups.
-
-
 # Digital Method of the Month
 
 # Getting Started with SQL and non-SQL Databases
@@ -22,13 +15,12 @@ Performance: Optimized for specific types of queries, like text searches, graph 
 
 - 14:25 –14:50 Training Led Talk
 
-- 14:50-15:00 
+- 14:50-15:00 Wrap Up.
 
 
 ## Intro
 
 Relational Databases collect information in a structured way and enforce relationships about what goes in and out. This provides additional control over editing processes and will reduce data entry time and errors. In a relational database, data in a table can be related according to keys or concepts. Relationships are a logical connection between different tables and are defined based on the interaction among the tables.
-
 
 ## Concept to get familiar with
 
@@ -45,9 +37,11 @@ Relational Databases collect information in a structured way and enforce relatio
 - [Views](https://www.geeksforgeeks.org/sql-views/)
 
 
+Non-relational databases offer flexibility over different file formats and inputs. They allow a blank canvas for your data needs and, though they require additional expertise to set up and operate, facilitate complex data transformation. Data can be stored much like a relational database, but can also be stored with differences in structure and design. Data is located via keys or similar codes that can be retrieved in automated ways, such as through Python and R, or through a UI. 
+
 ## When do you need a Database
 
-Not all research projects require a database. However there are a series of data characteristics that suggest that building a database would be a good idea.
+Not all research projects require a database. However, there are a series of data characteristics that suggest that building a database would be a good idea.
 
 If you would answer yes to two or more of the following questions, it may be a good idea to look into relational databases:
 
@@ -59,19 +53,18 @@ If you would answer yes to two or more of the following questions, it may be a g
 
 [https://www.lifewire.com/spreadsheets-vs-databases-1019747](https://www.lifewire.com/spreadsheets-vs-databases-1019747)
 
+EXCEL = NOT A DATABASE
 
 ## Time
 
 - How much will it take to learn?
 - Is it possible to self-learn?
 
-
 ## Easy Pitfalls
 
 - Processing times
 - Learning curve
 - Form Data entry vs direct data entry
-
 
 ## Type and Software
 
@@ -81,27 +74,5 @@ If you would answer yes to two or more of the following questions, it may be a g
 - [Oracle](https://www.oracle.com/database/)
 - [Access](https://www.microsoft.com/en-us/microsoft-365/access)
 
-
 ## **Training**
 
-**CDCS LIVE UPCOMING TRAINING**** ON DATABASES*
-
-**OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
-
-- Data Skills programme [https://www.ed.ac.uk/information-services/help-consultancy/is-skills/programmes-courses-and-toolkits/development-programmes/data-skills](https://www.ed.ac.uk/information-services/help-consultancy/is-skills/programmes-courses-and-toolkits/development-programmes/data-skills)
-- Introduction to Data and Analysis [https://media.ed.ac.uk/channel/Inf1-DA+2017\_18/170184951](https://media.ed.ac.uk/channel/Inf1-DA+2017_18/170184951)
-- Sql queries [https://media.ed.ac.uk/media/Lecture%208%3A%20SQL%20Queries/1\_991afw2j](https://media.ed.ac.uk/media/Lecture%208%3A%20SQL%20Queries/1_991afw2j)
-
-**SELF LEARN and EXTERNAL TOOLS**
-
-- W3School SQL Tutorials [https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)
-- Introduction to SQL (DataCamp) [https://www.datacamp.com/courses/introduction-to-sql](https://www.datacamp.com/courses/introduction-to-sql)
-- SQL for Digital Humanities (Data Carpentry) [https://carpentries-incubator.github.io/sql-humanities-lesson/](https://carpentries-incubator.github.io/sql-humanities-lesson/)
-- SQL for Social Science (Data Carpentry) [https://datacarpentry.org/sql-socialsci//index.html](https://datacarpentry.org/sql-socialsci//index.html)
-- SQL for Ecologists (Data Carpentry) [https://datacarpentry.org/sql-ecology-lesson/](https://datacarpentry.org/sql-ecology-lesson/)
-- Relational Databases (Linkedin Learning) [https://www.linkedin.com/learning/learning-relational-databases-2/welcome?u=50251009](https://www.linkedin.com/learning/learning-relational-databases-2/welcome?u=50251009)
-- Essential SQL (Linkedin Learning) [https://www.linkedin.com/learning/sql-essential-training-2/installing-on-windows-part-i?u=50251009](https://www.linkedin.com/learning/sql-essential-training-2/installing-on-windows-part-i?u=50251009)
-
-**FEEDBACK**
-
-- [https://edin.ac/34IG7pY](https://edin.ac/34IG7pY)
