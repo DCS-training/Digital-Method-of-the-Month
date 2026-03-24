@@ -74,7 +74,7 @@ EXCEL = NOT A DATABASE
 - [Oracle](https://www.oracle.com/database/)
 - [Access](https://www.microsoft.com/en-us/microsoft-365/access)
 
-For Non-Sequel Databases, MongoDB offer a comprehensive training suite for their product.
+MongoDB is an example of a Non-Sequel Database, one which has a UI designed around cloud access (The Compass), and various programming interfaces to explore and generate insights into data. Usefully, data can be accessed in different programming interfaces, including Python and R - where complex computational analyses can take place, and then can be reuploaded to suit the needs of the programmer.
 
 
 ## **Training**
