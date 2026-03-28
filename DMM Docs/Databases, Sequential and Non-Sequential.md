@@ -78,7 +78,7 @@ If you would answer yes to two or more of the following questions, it may be a g
 
 ## **Training**
 
-**CDCS LIVE UPCOMING TRAINING**** ON DATABASES*
+**LIVE UPCOMING TRAINING**** ON DATABASES*
 
 **OTHER LIVE TRAINING WITHIN THE UNIVERSITY**
 
