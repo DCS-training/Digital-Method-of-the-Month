@@ -7,13 +7,13 @@
 
 ## Today's schedule
 
-- 12:00-12:05 Housekeeping
+- 14:00-14:05 Housekeeping
 
-- 12:05-12:10 Brief introduction to the method and how we are going to structure the session
+- 14:05-14:10 Brief introduction to the method and how we are going to structure the session
 
-- 12:10-12:25 Round of Presentation of the attendees + brief intro of those who said they would be happy to talk
+- 14:10-14:25 Round of Presentation of the attendees + brief intro of those who said they would be happy to talk
 
-- 12:25 –12:50 discussion using this document
+- 14:25 –14:50 discussion using this document
 
 - 12:50-13:00 discuss available resources, way forwards and wrapping up
 
