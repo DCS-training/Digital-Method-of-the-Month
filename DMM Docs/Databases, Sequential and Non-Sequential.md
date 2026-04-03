@@ -76,6 +76,7 @@ If you would answer yes to two or more of the following questions, it may be a g
 - Structured vs Unstructured
 - Freedom
 - Ease and Training Time
+- Maleability
 
 ## Type and Software
 
