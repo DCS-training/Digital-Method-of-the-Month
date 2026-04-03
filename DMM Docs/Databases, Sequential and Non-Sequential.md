@@ -2,7 +2,7 @@
 
 # Databases
 
-# 03-2026
+# 30-03-2026
 
 
 ## Today's schedule
@@ -22,10 +22,17 @@
 
 Relational Databases collect information in a structured way and enforce relationships about what goes in and out. This provides additional control over editing processes and will reduce data entry time and errors. In a relational database, data in a table can be related according to keys or concepts. Relationships are a logical connection between different tables and are defined based on the interaction among the tables.
 
+A non-relational database - also known as a non-SQL database - is a database that:
+- can store and handle data that doesn't fit into rows and columns
+- can handle data that is not uniform, or in different formats
+- typically stores data in a single structure, such as a json
+
+Non-relational databases are useful for complex datasets that include nested data, or large unstructured datasets that do not fit neatly into a set of rows and columns. they require more time and a learning curve, but provide benifits that include interoperability with complex data analyses, and different methods of querying.
 
 ## Concept to get familiar with
 
 - [Relational Database principles](https://en.wikipedia.org/wiki/Relational_database)
+- [Non-Relational Database Principles](https://en.wikipedia.org/wiki/NoSQL)
 - [Tables, rows, and columns](http://gmod.org/wiki/Databases:_Tables,_Rows,_and_Columns)
 - [Sql](http://www.sqlcourse.com/intro.html)
 - [Data types](https://chartio.com/learn/databases/how-to-select-the-right-data-types/)
@@ -65,6 +72,10 @@ If you would answer yes to two or more of the following questions, it may be a g
 - Learning curve
 - Form Data entry vs direct data entry
 
+## SQL or Non-Sequel
+- Structured vs Unstructured
+- Freedom
+- Ease and Training Time
 
 ## Type and Software
 
